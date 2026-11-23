@@ -1,6 +1,6 @@
 const $ = (selector) => document.querySelector(selector);
 const esc = (value) => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
-const state = {theme:'all',period:'all',region:'all',tradition:'all',status:'all',query:''};
+const state = {theme:'all',period:'all',region:'all',tradition:'all',subtopic:'all',status:'all',query:''};
 let catalog = {themes:[],nodes:[],relations:[]};
 const themeById = (id) => catalog.themes.find(t => t.id === id);
 const tagNames = (node) => [node.theme,...node.related].map(id => themeById(id)?.name).filter(Boolean);
@@ -16,6 +16,10 @@ const paths = [
  {title:'南亚思想与佛教传播',desc:'从吠陀传统、佛教与耆那教的不同回应，读到王室赞助、犍陀罗和东亚。',themes:['T01','T07'],nodes:['T01-N07','T01-N08','T01-N01','T01-N11','T01-N12','T01-N17','T01-N18'],sections:[['传统不是单点创立','不同经典和实践在南亚跨越多个世纪发展。佛教、耆那教对既有思想环境作出不同回应。'],['传播需要地方实践','王室赞助、寺院、造像、贸易、译经与地方宫廷分别发挥作用，不能画成一条必然的东传直线。']]},
  {title:'三大一神教的制度与地区发展',desc:'并读犹太教、基督教、伊斯兰教的不同历史节点和地方社群。',themes:['T01','T06'],nodes:['T01-N13','T01-N14','T01-N15','T01-N02','T01-N03','T01-N20','T01-N24','T01-N25'],sections:[['从地方到跨地区','三条传统各有经典、社群和制度史，时间上的并列不表示彼此直接衍生。'],['地区经验','罗马世界、东非、西亚、西非和东南亚提供不同传播与地方接受的实例。']]},
  {title:'信仰、权力与战争',desc:'对照赞助、争论、改革、军事动员及战时保护的具体历史语境。',themes:['T01','T05'],nodes:['T05-N05','T01-N11','T01-N22','T05-N06','T01-N04','T05-N07','T05-N09','T05-N10'],sections:[['区分关系类型','阿育王的战后政策、拜占庭圣像争论、十字军行动和宗教改革属于不同的制度与冲突问题。'],['平民和保护','近现代战争中的群体迫害与平民经历必须单列；日内瓦公约代表战时保护规则的演进，不能把战争概述替代受害者史。']]},
+ {title:'佛教的地方化与经典网络',desc:'对读斯里兰卡、东亚、喜马拉雅与东南亚的寺院、经典、造像和朝圣。',themes:['T01','T06'],nodes:['T01-N39','T01-N40','T01-N41','T01-N42','T01-N43','T01-N44','T01-N45','T01-N62'],sections:[['多地的佛教史','圣地、译经、宗派、艺术与藏经保存各有形成过程；并列节点便于比较，不表示它们依次产生。'],['追踪具体媒介','查看每条节点的资料来源，再区分旅行者、寺院、宫廷与工匠在不同地区的作用。']]},
+ {title:'基督教社群、分歧与改革',desc:'沿亚美尼亚、埃及、东欧、埃塞俄比亚与拉丁教会的不同历程阅读。',themes:['T01','T05'],nodes:['T01-N37','T01-N38','T01-N47','T01-N48','T01-N46','T01-N04','T01-N63','T01-N64'],sections:[['多中心的社群','修道、王室支持、教会分歧和地方建筑传统不能归结为一条单向传播路线。'],['改革与殖民语境','宗教改革、特伦托会议与殖民时期传教属于不同场景；关系只在来源支持时单独标注。']]},
+ {title:'伊斯兰制度与非洲学术网络',desc:'并读教派形成、苏菲实践、朝觐、撒哈拉南缘的学术城市。',themes:['T01','T04'],nodes:['T01-N49','T01-N50','T01-N24','T01-N51','T01-N25','T01-N52'],sections:[['内部多样性','法学、宗教实践和社群认同随地区与时代变化，不能用单一机构代表整个传统。'],['城市与网络','朝觐港口和廷巴克图的学校展示人员、书籍与地方制度的不同联系。']]},
+ {title:'地方圣地与物质文化',desc:'比较安第斯、约鲁巴与其他传统的遗址、圣林和城市艺术。',themes:['T01','T04'],nodes:['T01-N34','T01-N32','T01-N35','T01-N36'],sections:[['地点也是历史材料','神庙、城市艺术与圣林提供可观察的线索，但其用途和意义须结合当地传统与具体资料解释。'],['并读而非传承链','这些节点位于不同社会；阅读路径只提供比较，不宣称它们之间有历史传承关系。']]},
 ];
 
 function setTheme(id,scroll=true){state.theme=id;renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
@@ -37,6 +41,7 @@ function filteredNodes(){
    if(state.period!=='all' && periodOf(n)!==state.period)return false;
    if(state.region!=='all' && !n.region.includes(state.region))return false;
    if(state.tradition!=='all' && n.tradition!==state.tradition)return false;
+   if(state.subtopic!=='all' && n.subtopic!==state.subtopic)return false;
    if(state.status!=='all' && n.status!==state.status)return false;
    if(q && ![n.title,n.region,n.when,n.summary,n.tradition,n.subtopic,...tagNames(n)].join(' ').toLocaleLowerCase('zh-CN').includes(q))return false;
    return true;
@@ -80,6 +85,8 @@ function fillSelects(){
  $('#regionFilter').insertAdjacentHTML('beforeend',regions.map(r=>`<option value="${r}">${r}</option>`).join(''));
  const traditions=[...new Set(catalog.nodes.map(n=>n.tradition).filter(Boolean))];
  $('#traditionFilter').insertAdjacentHTML('beforeend',traditions.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join(''));
+ const subtopics=[...new Set(catalog.nodes.filter(n=>n.theme==='T01').map(n=>n.subtopic).filter(Boolean))];
+ $('#subtopicFilter').insertAdjacentHTML('beforeend',subtopics.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join(''));
  for(const select of [$('#compareA'),$('#compareB')])select.innerHTML=catalog.themes.map(t=>`<option value="${t.id}">${esc(t.name)}</option>`).join('');
  $('#compareA').value='T02';$('#compareB').value='T04';
 }
@@ -94,8 +101,8 @@ function bind(){
  $('#closeDialog').addEventListener('click',()=>$('#detailDialog').close());
  $('#detailDialog').addEventListener('click',e=>{if(e.target===$('#detailDialog'))$('#detailDialog').close()});
  $('#searchInput').addEventListener('input',e=>{state.query=e.target.value;renderTimeline()});
- for(const [id,key] of [['periodFilter','period'],['regionFilter','region'],['traditionFilter','tradition'],['statusFilter','status']])$("#"+id).addEventListener('change',e=>{state[key]=e.target.value;renderTimeline()});
- $('#clearFilters').addEventListener('click',()=>{Object.assign(state,{theme:'all',period:'all',region:'all',tradition:'all',status:'all',query:''});$('#searchInput').value='';for(const id of ['periodFilter','regionFilter','traditionFilter','statusFilter'])$('#'+id).value='all';renderThemeFilters();renderTimeline()});
+ for(const [id,key] of [['periodFilter','period'],['regionFilter','region'],['traditionFilter','tradition'],['subtopicFilter','subtopic'],['statusFilter','status']])$("#"+id).addEventListener('change',e=>{state[key]=e.target.value;renderTimeline()});
+ $('#clearFilters').addEventListener('click',()=>{Object.assign(state,{theme:'all',period:'all',region:'all',tradition:'all',subtopic:'all',status:'all',query:''});$('#searchInput').value='';for(const id of ['periodFilter','regionFilter','traditionFilter','subtopicFilter','statusFilter'])$('#'+id).value='all';renderThemeFilters();renderTimeline()});
  $('#compareA').addEventListener('change',renderCompare);$('#compareB').addEventListener('change',renderCompare);
 }
 

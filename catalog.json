@@ -12,11 +12,12 @@
         "改革与现代变迁"
       ],
       "essayIdeas": [
-        "从吠陀传统到佛教、耆那教：分流与回应",
-        "佛教从南亚经中亚至东亚的多条路径",
-        "基督教在地中海、东非与美洲的不同历史",
-        "伊斯兰与商路：西亚、西非和东南亚的地区经验",
-        "宗教制度、国家权力与战争的不同关系"
+        "佛教在南亚、斯里兰卡、中亚、东亚与东南亚的不同制度路径",
+        "吠陀经典、印度教虔信运动与耆那教经卷传统",
+        "地中海、东欧、埃塞俄比亚与美洲的基督教社群和制度",
+        "伊斯兰继承争议、苏非修行、朝觐与西非学术中心",
+        "玛雅、安第斯与约鲁巴地方宗教空间的证据和延续",
+        "宗教、国家权力与战争：区分赞助、压制与暴力"
       ],
       "related": [
         "T05",
@@ -1912,6 +1913,727 @@
           "url": "https://peacekeeping.un.org/en/our-history"
         }
       ]
+    },
+    {
+      "id": "T01-N34",
+      "theme": "T01",
+      "title": "蒂亚瓦纳库的宗教与政治中心",
+      "year": 500,
+      "when": "约公元5—9世纪",
+      "region": "南美洲",
+      "tradition": "安第斯宗教传统",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "蒂亚瓦纳库从聚落发展为规划城市，其祭仪建筑与政治中心在约500—900年达到高峰；这是安第斯地区自身的历史路径。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜蒂亚瓦纳库",
+          "url": "https://whc.unesco.org/en/list/567/"
+        }
+      ]
+    },
+    {
+      "id": "T01-N35",
+      "theme": "T01",
+      "title": "伊费的约鲁巴宗教与王权空间",
+      "year": 1100,
+      "when": "约公元11—15世纪；起源叙述更早",
+      "region": "西非",
+      "tradition": "约鲁巴宗教传统",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "在约鲁巴世界观中，伊费具有宗教与政治上的特殊地位；相关传统与具体考古和艺术遗存的年代应分开阅读。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜伊费",
+          "url": "https://www.metmuseum.org/essays/ife-from-ca-6th-century"
+        }
+      ]
+    },
+    {
+      "id": "T01-N36",
+      "theme": "T01",
+      "title": "奥孙—奥索博圣林的持续祭祀",
+      "year": null,
+      "when": "长期延续；近现代仍在实践",
+      "region": "西非",
+      "tradition": "约鲁巴宗教传统",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "尼日利亚奥孙河畔的圣林保存献给奥孙及其他约鲁巴神灵的圣龛、祭司与祭祀地点；近现代更新的艺术构件不等于古代遗存。",
+      "related": [
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜奥孙—奥索博圣林",
+          "url": "https://whc.unesco.org/en/list/1118"
+        }
+      ]
+    },
+    {
+      "id": "T01-N37",
+      "theme": "T01",
+      "title": "亚美尼亚接受基督教为国家宗教",
+      "year": 310,
+      "when": "公元4世纪初",
+      "region": "西亚与高加索",
+      "tradition": "基督教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "亚美尼亚在4世纪初将基督教纳入国家宗教制度；格加尔德修道院遗址见证后续宗教建筑与地方传统。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜格加尔德修道院",
+          "url": "https://whc.unesco.org/en/list/960"
+        }
+      ]
+    },
+    {
+      "id": "T01-N38",
+      "theme": "T01",
+      "title": "埃及的基督教修道生活与团体规则",
+      "year": 320,
+      "when": "约公元3—4世纪",
+      "region": "北非",
+      "tradition": "基督教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "埃及沙漠的隐修者与尼罗河沿岸的共同生活团体发展出不同修道方式；帕科米乌斯规则约在4世纪早期出现。",
+      "related": [
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜埃及公元1—500年",
+          "url": "https://www.metmuseum.org/toah/ht/05/afe.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N39",
+      "theme": "T01",
+      "title": "阿努拉德普勒的佛教圣地与尼众传统",
+      "year": -250,
+      "when": "公元前3世纪起",
+      "region": "南亚",
+      "tradition": "佛教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "斯里兰卡阿努拉德普勒的圣菩提树传统与僧伽蜜多相关；古城逐渐发展为佛教朝圣和寺院中心。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜阿努拉德普勒圣城",
+          "url": "https://whc.unesco.org/en/list/200"
+        }
+      ]
+    },
+    {
+      "id": "T01-N40",
+      "theme": "T01",
+      "title": "大乘佛教思想与学术中心发展",
+      "year": 200,
+      "when": "约公元2—5世纪",
+      "region": "南亚",
+      "tradition": "佛教",
+      "subtopic": "哲学",
+      "kind": "过程",
+      "summary": "大乘佛教在南亚发展，龙树等学者参与哲学讨论，那烂陀等学术中心逐渐兴起；不把其多阶段形成写成单一年份。",
+      "related": [
+        "T03",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚公元1—500年",
+          "url": "https://www.metmuseum.org/toah/ht/05/ssa.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N41",
+      "theme": "T01",
+      "title": "中国佛教翻译、造像与地方宗派",
+      "year": 400,
+      "when": "约公元2—10世纪，阶段不一",
+      "region": "东亚",
+      "tradition": "佛教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "中国早期僧侣兼任教师和译者；4世纪后造像与石窟增多，净土、禅等地方传统在随后数世纪逐步发展。",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜中国佛教造像",
+          "url": "https://www.metmuseum.org/essays/chinese-buddhist-sculpture"
+        }
+      ]
+    },
+    {
+      "id": "T01-N42",
+      "theme": "T01",
+      "title": "吐蕃时期佛教赞助及后弘发展",
+      "year": 750,
+      "when": "约公元7—11世纪",
+      "region": "东亚与喜马拉雅",
+      "tradition": "佛教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "佛教在7世纪进入西藏，8世纪末获国家赞助；9世纪后经历衰退，10世纪末起又有学僧赴印度、尼泊尔求法。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜藏传佛教艺术",
+          "url": "https://www.metmuseum.org/essays/tibetan-buddhist-art"
+        }
+      ]
+    },
+    {
+      "id": "T01-N43",
+      "theme": "T01",
+      "title": "爪哇婆罗浮屠的佛教建筑",
+      "year": 800,
+      "when": "约公元8—9世纪",
+      "region": "东南亚",
+      "tradition": "佛教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "爪哇婆罗浮屠由阶梯、浮雕与佛塔构成，体现佛教宇宙观同当地祖先崇拜观念的结合。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜婆罗浮屠寺庙群",
+          "url": "https://whc.unesco.org/en/list/592"
+        }
+      ]
+    },
+    {
+      "id": "T01-N44",
+      "theme": "T01",
+      "title": "泰国中部堕罗钵底佛教造像",
+      "year": 700,
+      "when": "约公元7—9世纪",
+      "region": "东南亚",
+      "tradition": "佛教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "泰国中部堕罗钵底诸政权留下有特色的佛教造像，同时也存在印度教神像；两种实践不能被概括成单一制度。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜堕罗钵底传统",
+          "url": "https://www.metmuseum.org/essays/the-mon-dvaravati-tradition-of-early-north-central-thailand"
+        }
+      ]
+    },
+    {
+      "id": "T01-N45",
+      "theme": "T01",
+      "title": "高丽大藏经雕版与海印寺保存",
+      "year": 1250,
+      "when": "13世纪雕版；15世纪建藏经阁",
+      "region": "东亚",
+      "tradition": "佛教",
+      "subtopic": "经典与教育",
+      "kind": "过程",
+      "summary": "朝鲜半岛13世纪《高丽大藏经》木刻版集中保存于海印寺；后建藏经阁延续了经典保存与印刷的宗教实践。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜海印寺藏经阁",
+          "url": "https://whc.unesco.org/en/list/737"
+        }
+      ]
+    },
+    {
+      "id": "T01-N46",
+      "theme": "T01",
+      "title": "拉丁与希腊教会的分歧及联合尝试",
+      "year": 1204,
+      "when": "中世纪长期分歧；1204年后裂痕加深",
+      "region": "欧洲与东地中海",
+      "tradition": "基督教",
+      "subtopic": "改革与现代变迁",
+      "kind": "过程",
+      "summary": "拉丁与希腊教会的分歧有长期政治和神学背景；1204年君士坦丁堡被劫后裂痕加深，1274和1439年曾尝试正式联合。",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜拜占庭与西方教会关系",
+          "url": "https://www.metmuseum.org/essays/the-religious-relationship-between-byzantium-and-the-west"
+        }
+      ]
+    },
+    {
+      "id": "T01-N47",
+      "theme": "T01",
+      "title": "基辅罗斯采纳东正教",
+      "year": 988,
+      "when": "988年",
+      "region": "东欧",
+      "tradition": "基督教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "基辅罗斯的弗拉基米尔大公于988年采纳东正教，教堂建设及与拜占庭的联系随后扩展；政治选择与民众实践不宜混为一谈。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜东欧500—1000年",
+          "url": "https://www.metmuseum.org/toah/ht/06/eue.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N48",
+      "theme": "T01",
+      "title": "拉利贝拉岩凿教堂与朝圣",
+      "year": 1200,
+      "when": "约12—13世纪起",
+      "region": "东非",
+      "tradition": "基督教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "埃塞俄比亚拉利贝拉的岩凿教堂形成地方朝圣中心，至今仍用于礼拜；其建筑与阿克苏姆之后的地方基督教史相联系。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜拉利贝拉岩凿教堂",
+          "url": "https://whc.unesco.org/en/list/18"
+        }
+      ]
+    },
+    {
+      "id": "T01-N49",
+      "theme": "T01",
+      "title": "伊斯兰早期继承争议与逊尼、什叶传统",
+      "year": 632,
+      "when": "632年后，长期发展",
+      "region": "西亚",
+      "tradition": "伊斯兰教",
+      "subtopic": "改革与现代变迁",
+      "kind": "过程",
+      "summary": "穆罕默德去世后的领导权争议是逊尼派和什叶派分化的重要起点；两大传统的教义与制度在其后很长时期继续发展。",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜穆罕默德与伊斯兰起源",
+          "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam"
+        }
+      ]
+    },
+    {
+      "id": "T01-N50",
+      "theme": "T01",
+      "title": "苏非修行与多种教团网络",
+      "year": 1200,
+      "when": "中世纪以来，地区与年代不同",
+      "region": "西亚、非洲与南亚",
+      "tradition": "伊斯兰教",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "苏非传统包含多样的师徒传承、修行和诗歌实践，教团逐渐组织起来；它不是单一统一的宗派。",
+      "related": [
+        "T07",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜苏非艺术",
+          "url": "https://www.metmuseum.org/essays/art-of-the-sufis"
+        }
+      ]
+    },
+    {
+      "id": "T01-N51",
+      "theme": "T01",
+      "title": "廷巴克图清真寺、经学院与学术",
+      "year": 1500,
+      "when": "约15—16世纪",
+      "region": "西非",
+      "tradition": "伊斯兰教",
+      "subtopic": "经典与教育",
+      "kind": "过程",
+      "summary": "廷巴克图的桑科雷等经学院和清真寺，使该城成为当时西非重要的学术与宗教中心。",
+      "related": [
+        "T03",
+        "T04"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜廷巴克图",
+          "url": "https://whc.unesco.org/en/list/119/"
+        }
+      ]
+    },
+    {
+      "id": "T01-N52",
+      "theme": "T01",
+      "title": "吉达港与跨地区朝觐网络",
+      "year": 1600,
+      "when": "近世以来，数世纪延续",
+      "region": "西亚",
+      "tradition": "伊斯兰教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "历史上的吉达是许多经海路到麦加朝觐者的入口，来自亚洲、非洲与西亚的朝觐者和商人塑造了城市生活。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜历史吉达",
+          "url": "https://whc.unesco.org/en/list/1361"
+        }
+      ]
+    },
+    {
+      "id": "T01-N53",
+      "theme": "T01",
+      "title": "南印度早期虔信诗歌与地方传统",
+      "year": 600,
+      "when": "约公元6—10世纪",
+      "region": "南亚",
+      "tradition": "吠陀与印度教传统",
+      "subtopic": "经典与教育",
+      "kind": "过程",
+      "summary": "南印度泰米尔语虔信诗人推动地方性的湿婆派、毗湿奴派礼拜与文学；这一阶段不能简化为吠陀祭仪的直接延伸。",
+      "related": [
+        "T03",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚南部500—1000年",
+          "url": "https://www.metmuseum.org/toah/ht/06/sss.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N54",
+      "theme": "T01",
+      "title": "南亚印度教寺庙与地方王朝赞助",
+      "year": 700,
+      "when": "约公元6—10世纪",
+      "region": "南亚",
+      "tradition": "吠陀与印度教传统",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "多个南亚地方王朝赞助寺庙、造像与宗教仪式；今天称为印度教的传统在这一时期形成更多可辨认的地区形式。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚南部500—1000年",
+          "url": "https://www.metmuseum.org/toah/ht/06/sss.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N55",
+      "theme": "T01",
+      "title": "毗奢耶那伽罗的亨比寺庙与朝圣",
+      "year": 1400,
+      "when": "约14—16世纪",
+      "region": "南亚",
+      "tradition": "吠陀与印度教传统",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "亨比的寺庙群属于毗奢耶那伽罗都城，礼拜、节庆与朝圣和城市生活相联系，部分实践持续至今。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜亨比古迹群",
+          "url": "https://whc.unesco.org/en/list/241"
+        }
+      ]
+    },
+    {
+      "id": "T01-N56",
+      "theme": "T01",
+      "title": "宋代新儒学的伦理与宇宙论",
+      "year": 1150,
+      "when": "约11—12世纪",
+      "region": "东亚",
+      "tradition": "儒家思想",
+      "subtopic": "哲学",
+      "kind": "过程",
+      "summary": "宋代士人将经典解释、个人修养和宇宙论结合；朱熹的讨论也回应佛教、道教思想。儒家思想在此仍不简单等同于宗教组织。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南宋",
+          "url": "https://www.metmuseum.org/essays/southern-song-dynasty-1127-1279"
+        },
+        {
+          "name": "大都会艺术博物馆：韩国艺术教育资料（新儒学的佛道吸收）",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Arts_of_Korea_A_Resource_for_Educators.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T01-N57",
+      "theme": "T01",
+      "title": "朝鲜王朝的新儒学与佛教政策",
+      "year": 1392,
+      "when": "1392年以后",
+      "region": "东亚",
+      "tradition": "儒家思想",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "朝鲜王朝确立新儒学为统治理念并抑制佛教官方地位；私人佛教实践与艺术生产仍然存在。",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜朝鲜王朝艺术",
+          "url": "https://www.metmuseum.org/essays/art-of-the-korean-renaissance-1400-1600"
+        }
+      ]
+    },
+    {
+      "id": "T01-N58",
+      "theme": "T01",
+      "title": "1492年后塞法迪犹太社群的迁移",
+      "year": 1492,
+      "when": "1492年以后",
+      "region": "欧洲与地中海",
+      "tradition": "犹太教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "西班牙1492年的驱逐和强制改宗使犹太社群流散；部分塞法迪犹太人后来进入意大利、奥斯曼等地区，延续各自礼仪和文献传统。",
+      "related": [
+        "T05",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜中世纪欧洲犹太艺术",
+          "url": "https://www.metmuseum.org/essays/jews-and-the-arts-in-medieval-europe"
+        },
+        {
+          "name": "大都会艺术博物馆：近代意大利的犹太装饰艺术",
+          "url": "https://www.metmuseum.org/essays/jewish-decorative-arts-early-modern-italy"
+        }
+      ]
+    },
+    {
+      "id": "T01-N59",
+      "theme": "T01",
+      "title": "耆那教经卷抄写与寺院藏书",
+      "year": 1000,
+      "when": "约10—12世纪起见存世手稿",
+      "region": "南亚",
+      "tradition": "耆那教",
+      "subtopic": "经典与教育",
+      "kind": "过程",
+      "summary": "耆那教的棕榈叶经卷从约10—11世纪有存世实例，寺院藏书和捐赠手稿是中世纪社区的宗教实践。",
+      "related": [
+        "T03",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜耆那教手稿绘画",
+          "url": "https://www.metmuseum.org/essays/jain-manuscript-painting"
+        }
+      ]
+    },
+    {
+      "id": "T01-N60",
+      "theme": "T01",
+      "title": "《阿迪·格兰特》编定与安奉",
+      "year": 1604,
+      "when": "1604年",
+      "region": "南亚",
+      "tradition": "锡克教",
+      "subtopic": "经典与教育",
+      "kind": "事件",
+      "summary": "锡克教第五代古鲁阿尔琼汇集前代古鲁及其他圣人的赞歌，1604年在阿姆利则金庙安奉经卷；来源为锡克教机构自述。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "锡克教最高委员会｜古鲁经（社群自述）",
+          "url": "https://new.sgpc.net/sri-guru-granth-sahib/"
+        }
+      ]
+    },
+    {
+      "id": "T01-N61",
+      "theme": "T01",
+      "title": "唐代会昌时期的宗教压制",
+      "year": 845,
+      "when": "842—846年",
+      "region": "东亚",
+      "tradition": "佛教",
+      "subtopic": "改革与现代变迁",
+      "kind": "过程",
+      "summary": "唐政府在会昌时期打击佛教及部分其他外来宗教；政策与地方执行、后续复兴应分开研究。",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜唐代国际交流",
+          "url": "https://www.metmuseum.org/essays/internationalism-in-the-tang-dynasty-618-906"
+        }
+      ]
+    },
+    {
+      "id": "T01-N62",
+      "theme": "T01",
+      "title": "宗教文本在高丽朝的刻印保护",
+      "year": 1230,
+      "when": "13世纪",
+      "region": "东亚",
+      "tradition": "佛教",
+      "subtopic": "经典与教育",
+      "kind": "过程",
+      "summary": "高丽王室出于宗教信念和外患背景，组织佛教经典的木板刻印；海印寺现存木板及藏经阁为这一实践留下物证。",
+      "related": [
+        "T03",
+        "T05"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜朝鲜1000—1400年",
+          "url": "https://www.metmuseum.org/toah/ht/07/eak.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N63",
+      "theme": "T01",
+      "title": "特伦托会议与天主教内部改革",
+      "year": 1545,
+      "when": "1545—1563年，分期召开",
+      "region": "欧洲",
+      "tradition": "基督教",
+      "subtopic": "改革与现代变迁",
+      "kind": "事件组",
+      "summary": "特伦托会议分阶段召开，回应宗教改革、重申天主教教义并讨论教会实践与宗教图像；会议决议与地方执行不同。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜北意大利1400—1600年",
+          "url": "https://www.metmuseum.org/toah/ht/08/eustn.html"
+        }
+      ]
+    },
+    {
+      "id": "T01-N64",
+      "theme": "T01",
+      "title": "墨西哥殖民时期传教学校与原住民艺术",
+      "year": 1530,
+      "when": "16世纪中期",
+      "region": "中美洲",
+      "tradition": "基督教",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "西班牙征服后，方济各会传教士设立学校和工坊，原住民羽饰工艺被用于基督教图像；这发生在殖民权力不对等的环境中。",
+      "related": [
+        "T05",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜墨西哥传教学校艺术",
+          "url": "https://www.metmuseum.org/essays/arts-of-the-mission-schools-in-mexico"
+        }
+      ]
     }
   ],
   "relations": [
@@ -2089,6 +2811,188 @@
       "kind": "制度实践",
       "note": "联合国成立后探索维和安排，1956年部署第一支武装维和部队。",
       "source": "https://peacekeeping.un.org/en/our-history"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N39",
+      "kind": "地区传播",
+      "note": "斯里兰卡阿努拉德普勒的佛教圣地传统与南亚佛教传播相联系。",
+      "source": "https://whc.unesco.org/en/list/200"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N40",
+      "kind": "思想发展",
+      "note": "大乘思想在佛教已有传统中渐次发展，不能确定一个单一创立年。",
+      "source": "https://www.metmuseum.org/toah/ht/05/ssa.html"
+    },
+    {
+      "fromId": "T01-N17",
+      "toId": "T01-N41",
+      "kind": "翻译与地方化",
+      "note": "中国的僧侣翻译、造像与地方宗派发展延续了跨地区交流。",
+      "source": "https://www.metmuseum.org/essays/chinese-buddhist-sculpture"
+    },
+    {
+      "fromId": "T01-N41",
+      "toId": "T01-N61",
+      "kind": "国家政策",
+      "note": "会昌时期政府对佛教及部分其他宗教采取压制政策。",
+      "source": "https://www.metmuseum.org/essays/internationalism-in-the-tang-dynasty-618-906"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N42",
+      "kind": "地区传播",
+      "note": "佛教进入西藏后经历国家赞助、衰退与后弘，受到南亚及邻近地区影响。",
+      "source": "https://www.metmuseum.org/essays/tibetan-buddhist-art"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N43",
+      "kind": "地方建筑",
+      "note": "爪哇佛教建筑结合本地祖先崇拜与寺院空间。",
+      "source": "https://whc.unesco.org/en/list/592"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N44",
+      "kind": "地区接受",
+      "note": "泰国中部造像显示佛教与印度教的并存。",
+      "source": "https://www.metmuseum.org/essays/the-mon-dvaravati-tradition-of-early-north-central-thailand"
+    },
+    {
+      "fromId": "T01-N62",
+      "toId": "T01-N45",
+      "kind": "典籍保存",
+      "note": "高丽刻经与现存海印寺藏经阁形成同一典籍保存链的两个阶段。",
+      "source": "https://whc.unesco.org/en/list/737"
+    },
+    {
+      "fromId": "T01-N07",
+      "toId": "T01-N53",
+      "kind": "地方发展",
+      "note": "南印度泰米尔语虔信传统在更早的南亚宗教环境中形成自身的礼拜与文学。",
+      "source": "https://www.metmuseum.org/toah/ht/06/sss.html"
+    },
+    {
+      "fromId": "T01-N53",
+      "toId": "T01-N54",
+      "kind": "赞助与组织",
+      "note": "诗歌、礼拜与地方王朝寺庙赞助在南印度的宗教生活中并行。",
+      "source": "https://www.metmuseum.org/toah/ht/06/sss.html"
+    },
+    {
+      "fromId": "T01-N54",
+      "toId": "T01-N55",
+      "kind": "后续地方形式",
+      "note": "亨比的寺庙与朝圣体现后世南亚宗教和都城生活的结合，不构成单向延续证明。",
+      "source": "https://whc.unesco.org/en/list/241"
+    },
+    {
+      "fromId": "T01-N08",
+      "toId": "T01-N59",
+      "kind": "经典传承",
+      "note": "耆那教经卷抄写与捐赠显示这一传统在中世纪继续发展。",
+      "source": "https://www.metmuseum.org/essays/jain-manuscript-painting"
+    },
+    {
+      "fromId": "T01-N10",
+      "toId": "T01-N56",
+      "kind": "思想重释",
+      "note": "宋代新儒学重新解释经典与个人修养议题。",
+      "source": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Arts_of_Korea_A_Resource_for_Educators.pdf"
+    },
+    {
+      "fromId": "T01-N56",
+      "toId": "T01-N57",
+      "kind": "跨地区制度",
+      "note": "朝鲜王朝的新儒学与佛教政策体现东亚思想的地方制度化。",
+      "source": "https://www.metmuseum.org/essays/art-of-the-korean-renaissance-1400-1600"
+    },
+    {
+      "fromId": "T01-N13",
+      "toId": "T01-N58",
+      "kind": "迁移与延续",
+      "note": "1492年后的驱逐使欧洲犹太社群在地中海等地重组。",
+      "source": "https://www.metmuseum.org/essays/jews-and-the-arts-in-medieval-europe"
+    },
+    {
+      "fromId": "T01-N14",
+      "toId": "T01-N38",
+      "kind": "修道组织",
+      "note": "埃及隐修及共同生活形式成为基督教修道史的重要阶段。",
+      "source": "https://www.metmuseum.org/essays/monasticism-in-western-medieval-europe"
+    },
+    {
+      "fromId": "T01-N14",
+      "toId": "T01-N37",
+      "kind": "国家制度",
+      "note": "亚美尼亚在4世纪初将基督教与国家制度结合。",
+      "source": "https://whc.unesco.org/en/list/960"
+    },
+    {
+      "fromId": "T01-N15",
+      "toId": "T01-N47",
+      "kind": "地区传播",
+      "note": "拜占庭基督教与基辅罗斯988年的宗教选择和教堂建设相联系。",
+      "source": "https://www.metmuseum.org/toah/ht/06/eue.html"
+    },
+    {
+      "fromId": "T01-N02",
+      "toId": "T01-N48",
+      "kind": "东非延续",
+      "note": "拉利贝拉的岩凿教堂延续了埃塞俄比亚的地方基督教传统。",
+      "source": "https://whc.unesco.org/en/list/18"
+    },
+    {
+      "fromId": "T05-N06",
+      "toId": "T01-N46",
+      "kind": "冲突加剧",
+      "note": "1204年君士坦丁堡被劫后，拉丁与希腊教会裂痕加深。",
+      "source": "https://www.metmuseum.org/essays/the-religious-relationship-between-byzantium-and-the-west"
+    },
+    {
+      "fromId": "T01-N04",
+      "toId": "T01-N63",
+      "kind": "内部改革",
+      "note": "特伦托会议回应16世纪宗教改革并重申天主教教义。",
+      "source": "https://www.metmuseum.org/toah/ht/08/eustn.html"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N49",
+      "kind": "继承争议",
+      "note": "先知去世后的继承问题是逊尼、什叶传统分化的重要背景。",
+      "source": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N50",
+      "kind": "修行传统",
+      "note": "苏非修行与多种教团在伊斯兰世界形成并延续。",
+      "source": "https://www.metmuseum.org/essays/art-of-the-sufis"
+    },
+    {
+      "fromId": "T01-N24",
+      "toId": "T01-N51",
+      "kind": "学术中心",
+      "note": "廷巴克图清真寺和经学院是西非伊斯兰学术的一组具体实例。",
+      "source": "https://whc.unesco.org/en/list/119/"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N52",
+      "kind": "朝觐网络",
+      "note": "吉达港与跨地区的麦加朝觐路线相联系。",
+      "source": "https://whc.unesco.org/en/list/1361"
+    },
+    {
+      "fromId": "T01-N26",
+      "toId": "T01-N60",
+      "kind": "经典编定",
+      "note": "阿尔琼汇集赞歌并于1604年安奉经卷。",
+      "source": "https://new.sgpc.net/sri-guru-granth-sahib/"
     }
   ]
 }
