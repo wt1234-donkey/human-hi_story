@@ -28,6 +28,13 @@ const paths = [
  {title:'宗教建筑与战时文化保护',desc:'从科尔多瓦、特热比奇到巴米扬，区分遗址历史、蓄意破坏与保护条约。',themes:['T01','T05'],nodes:['T01-N85','T01-N86','T01-N87','T05-N43','T05-N45'],sections:[['地点有多层历史','清真寺与主教座堂的建筑阶段、犹太社群与教堂的邻处、佛教洞窟与造像都要分别依据材料说明。'],['保护规则有适用范围','1954年海牙公约是国家间的法律框架；2001年巴米扬立佛被毁是另一个具体事件，不从时间相邻推定个案法律责任。']]},
  {title:'殖民、革命与战争中的人',desc:'通过海地、拉吉什、美西战争和亚美尼亚种族灭绝，留意材料与受害者视角。',themes:['T05','T10'],nodes:['T05-N34','T05-N35','T05-N36','T05-N37'],sections:[['史料类型影响我们看到什么','王宫浮雕、国家纪念地年表、驻军史和大屠杀研究机构保存的是不同类型的材料。'],['区分战争与迫害','民族独立战争、帝国扩张和针对特定群体的有组织杀害不能合并成一个战役名单。']]},
  {title:'世界大战、停战与追诉',desc:'从索姆河战役到军控条约、朝鲜停战和前南斯拉夫法庭。',themes:['T05','T06'],nodes:['T05-N03','T05-N38','T05-N39','T05-N44','T05-N11','T05-N40','T05-N42','T05-N41','T05-N32'],sections:[['从战事到机制','一战毒气使用与1925年议定书、朝鲜战争与停战、波黑战争与国际追诉各有可查的关系，但并非同一种制度。'],['保留法律时间线','条约签署、生效和执行，法庭设立与具体审判都不能混作单一日期。']]},
+ {title:'佛教圣地与南亚多宗教石窟',desc:'从蓝毗尼、菩提伽耶到埃洛拉，区分传统记忆、铭文与后世建筑。',themes:['T01','T04'],nodes:['T01-N01','T01-N89','T01-N90','T01-N92'],sections:[['年代和证据','蓝毗尼的阿育王石柱年代不是佛陀生年；菩提伽耶的早期赞助和现存主殿也属于不同阶段。'],['多种传统并置','埃洛拉保存佛教、印度教与耆那教营建，不宜当成单一传统的遗址。']]},
+ {title:'美洲聚落与祭祀景观',desc:'比较卡拉尔、特奥蒂瓦坎与卡霍基亚的城市和仪式空间。',themes:['T01','T04'],nodes:['T01-N88','T01-N91','T01-N93'],sections:[['相似形式不等于同一起源','广场、金字塔与土墩在各地社会具有不同用途，需结合考古材料阅读。'],['聚落的组织','农业、劳动、公共建筑与祭祀之间的联系需要在具体遗址中逐项解释。']]},
+ {title:'在世圣地与祖先纪念',desc:'从阿南古土地法、拉帕努伊石像到东亚神社与孔庙。',themes:['T01','T10'],nodes:['T01-N95','T01-N96','T01-N97','T01-N98'],sections:[['活的传统','乌鲁鲁—卡塔丘塔的阿南古法持续存在，不能只当作古迹。'],['建筑的阶段','祭台、神社和庙宇的现存形态与最初营建可能相隔数百年。']]},
+ {title:'反殖民战争与独立安排',desc:'并读阿杜瓦、阿尔及利亚及孟加拉国的不同独立历程。',themes:['T05','T06'],nodes:['T05-N46','T05-N49','T05-N51'],sections:[['不同的政治过程','战场胜利、谈判停火和独立战争中的平民暴行各有自己的证据。'],['关注平民','民族独立叙事不能遮盖战争中的群体暴力及其争议数字。']]},
+ {title:'战争、化学武器与平民保护',desc:'对照两伊战争、哈拉卜贾与地雷和集束弹药禁约。',themes:['T05','T06'],nodes:['T05-N39','T05-N52','T05-N53','T05-N44','T05-N55','T05-N57'],sections:[['法律与事件','1925年议定书、化学武器公约和两类常规武器公约的禁止范围不同。'],['战俘与平民','红十字记录的战俘探视、哈拉卜贾袭击和战后遗留伤害应分开理解。']]},
+ {title:'战后审判与和平协议',desc:'从纽伦堡到代顿和塞拉利昂，区分追责、停火及战后实施。',themes:['T05','T06'],nodes:['T05-N48','T05-N41','T05-N42','T05-N54','T05-N56'],sections:[['机制各异','国际军事法庭、安理会法庭、混合法庭和和平协议的管辖及目标不同。'],['过程而非终点','签署协议或成立法庭并不意味着战后保护、返回和司法立即完成。']]},
+
 ];
 
 function setTheme(id,scroll=true){state.theme=id;state.subtopic='all';$('#subtopicFilter').value='all';if(id!=='T01'){state.tradition='all';$('#traditionFilter').value='all'}renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
@@ -116,7 +123,7 @@ function bind(){
 
 async function start(){
  try{
-   const response=await fetch('catalog.json?v=20261123-r2');if(!response.ok)throw new Error('目录加载失败');
+   const response=await fetch('catalog.json?v=20261123-r3');if(!response.ok)throw new Error('目录加载失败');
    catalog=await response.json();
    $('#themeTotal').textContent=catalog.themes.length;$('#nodeTotal').textContent=catalog.nodes.length;$('#sourcedTotal').textContent=catalog.nodes.filter(n=>n.status==='sourced').length;
    renderThemes();fillSelects();renderPaths();bind();renderThemeFilters();renderTimeline();renderCompare();

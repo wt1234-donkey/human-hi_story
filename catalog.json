@@ -3907,6 +3907,550 @@
           "url": "https://whc.unesco.org/en/list/208/"
         }
       ]
+    },
+    {
+      "id": "T01-N88",
+      "theme": "T01",
+      "title": "卡拉尔—苏佩的广场与仪式建筑",
+      "year": -3000,
+      "when": "约公元前3千纪至前2千纪",
+      "region": "南美洲",
+      "subtopic": "仪式与组织",
+      "kind": "城市遗址",
+      "summary": "秘鲁苏佩河谷的卡拉尔遗址有台基、下沉式圆形广场和住宅；其布局显示仪式活动与早期聚落组织的联系。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜卡拉尔—苏佩圣城",
+          "url": "https://whc.unesco.org/en/list/1269/"
+        }
+      ],
+      "tradition": "安第斯宗教传统"
+    },
+    {
+      "id": "T01-N89",
+      "theme": "T01",
+      "title": "蓝毗尼与阿育王石柱",
+      "year": -249,
+      "when": "公元前3世纪阿育王立柱；圣地延续",
+      "region": "南亚",
+      "subtopic": "仪式与组织",
+      "kind": "佛教圣地",
+      "summary": "尼泊尔蓝毗尼的阿育王石柱铭文将此地与佛陀诞生传统相联系；寺院和佛塔遗迹呈现此后长期的朝圣活动。铭文的年代不等同于佛陀的生年。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜蓝毗尼",
+          "url": "https://whc.unesco.org/en/list/666/"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N90",
+      "theme": "T01",
+      "title": "菩提伽耶大菩提寺与朝圣",
+      "year": -260,
+      "when": "公元前3世纪起有阿育王赞助；现存主殿约5—6世纪",
+      "region": "南亚",
+      "subtopic": "仪式与组织",
+      "kind": "佛教圣地",
+      "summary": "菩提伽耶与佛陀觉悟传统相关；阿育王时期已有早期营建，现存主殿主要属于较晚时期。不同建筑层次见证朝圣与修复。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜菩提伽耶大菩提寺",
+          "url": "https://whc.unesco.org/en/list/1056/"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N91",
+      "theme": "T01",
+      "title": "特奥蒂瓦坎的城市祭祀空间",
+      "year": 100,
+      "when": "约公元1—7世纪",
+      "region": "中美洲",
+      "subtopic": "仪式与组织",
+      "kind": "城市与神庙",
+      "summary": "特奥蒂瓦坎的大道、太阳与月亮金字塔及羽蛇神庙共同构成城市礼仪空间；考古遗址表明城市规划与宗教图像相互交织。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜特奥蒂瓦坎",
+          "url": "https://whc.unesco.org/en/list/414/"
+        }
+      ],
+      "tradition": "中美洲地方传统"
+    },
+    {
+      "id": "T01-N92",
+      "theme": "T01",
+      "title": "埃洛拉石窟的佛教、印度教与耆那教遗址",
+      "year": 600,
+      "when": "约公元6—10世纪",
+      "region": "南亚",
+      "subtopic": "仪式与组织",
+      "kind": "多宗教石窟",
+      "summary": "印度埃洛拉石窟包含佛教僧院、印度教神庙和耆那教洞窟；不同群体的营建历时数世纪，不能视为一次统一工程。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜埃洛拉石窟",
+          "url": "https://whc.unesco.org/en/list/243/"
+        }
+      ],
+      "tradition": "佛教、印度教与耆那教"
+    },
+    {
+      "id": "T01-N93",
+      "theme": "T01",
+      "title": "卡霍基亚土墩与密西西比文化仪式中心",
+      "year": 800,
+      "when": "约公元800—1350年；11—12世纪发展高峰",
+      "region": "北美洲",
+      "subtopic": "仪式与组织",
+      "kind": "土墩遗址",
+      "summary": "卡霍基亚是密西西比文化的聚落、经济与仪式中心；土墩既有公共建筑基础，也有墓葬用途，需按具体土墩分别判断。",
+      "related": [
+        "T04",
+        "T06",
+        "T02"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜卡霍基亚土墩",
+          "url": "https://whc.unesco.org/en/list/198/"
+        }
+      ],
+      "tradition": "密西西比文化地方传统"
+    },
+    {
+      "id": "T01-N94",
+      "theme": "T01",
+      "title": "耶灵石碑与丹麦基督教化",
+      "year": 950,
+      "when": "约10世纪中期",
+      "region": "欧洲",
+      "subtopic": "改革与现代变迁",
+      "kind": "石碑与教堂",
+      "summary": "丹麦耶灵的墓冢、符文石和教堂展示早期北欧宗教传统与基督教化时期的纪念空间；石碑与教堂属于不同的物质见证。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜耶灵遗址",
+          "url": "https://whc.unesco.org/en/list/697/"
+        }
+      ],
+      "tradition": "北欧传统与基督教"
+    },
+    {
+      "id": "T01-N95",
+      "theme": "T01",
+      "title": "拉帕努伊祭台与祖先摩艾石像",
+      "year": 1000,
+      "when": "约公元10—17世纪",
+      "region": "大洋洲",
+      "subtopic": "仪式与组织",
+      "kind": "祭台与造像",
+      "summary": "拉帕努伊岛的阿胡祭台与摩艾石像见证波利尼西亚社群的祖先纪念；其建造和后来的倾覆属于不同历史阶段。",
+      "related": [
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜拉帕努伊国家公园",
+          "url": "https://whc.unesco.org/en/list/715/"
+        }
+      ],
+      "tradition": "拉帕努伊地方传统"
+    },
+    {
+      "id": "T01-N96",
+      "theme": "T01",
+      "title": "严岛神社与濑户内海圣地",
+      "year": 1100,
+      "when": "12世纪营建格局；现存建筑多反映13世纪形制",
+      "region": "东亚",
+      "subtopic": "仪式与组织",
+      "kind": "神社与景观",
+      "summary": "严岛长期被视作神道圣地；海上的神社建筑与山、海的景观组合体现中世日本的神社营建和权力赞助。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜严岛神社",
+          "url": "https://whc.unesco.org/en/list/776/"
+        }
+      ],
+      "tradition": "神道"
+    },
+    {
+      "id": "T01-N97",
+      "theme": "T01",
+      "title": "曲阜孔庙与纪念祭祀",
+      "year": -478,
+      "when": "传统记载公元前478年始建；后世屡次重建",
+      "region": "东亚",
+      "subtopic": "仪式与组织",
+      "kind": "庙宇与祭祀",
+      "summary": "曲阜孔庙、孔林与孔府记录儒学纪念、家族延续及历代国家赞助；今天的建筑群包含后世多次重建的层次。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜曲阜孔庙、孔林与孔府",
+          "url": "https://whc.unesco.org/en/list/704/"
+        }
+      ],
+      "tradition": "儒家思想"
+    },
+    {
+      "id": "T01-N98",
+      "theme": "T01",
+      "title": "乌鲁鲁—卡塔丘塔的阿南古法与圣地",
+      "year": null,
+      "when": "传统持续至今；不以单一创立年定位",
+      "region": "大洋洲",
+      "subtopic": "信仰传统",
+      "kind": "在世文化景观",
+      "summary": "乌鲁鲁—卡塔丘塔是阿南古人的在世文化景观；Tjukurpa涵盖祖先叙事、仪式、土地管理与社会关系。编目尊重其持续实践，不把圣地缩为考古年代。",
+      "related": [
+        "T08",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜乌鲁鲁—卡塔丘塔国家公园",
+          "url": "https://whc.unesco.org/en/list/447/"
+        }
+      ],
+      "tradition": "阿南古地方传统"
+    },
+    {
+      "id": "T01-N99",
+      "theme": "T01",
+      "title": "塔赫特苏莱曼的祆教火庙与王室空间",
+      "year": 600,
+      "when": "约公元6—7世纪萨珊时期",
+      "region": "西亚",
+      "subtopic": "仪式与组织",
+      "kind": "火庙遗址",
+      "summary": "伊朗塔赫特苏莱曼保存萨珊时期祆教火庙、王室建筑和相关祭祀空间；遗址的后世改建不应与萨珊阶段混同。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜塔赫特苏莱曼",
+          "url": "https://whc.unesco.org/en/list/1077/"
+        }
+      ],
+      "tradition": "祆教"
+    },
+    {
+      "id": "T05-N46",
+      "theme": "T05",
+      "title": "阿杜瓦战役与埃塞俄比亚抵抗意大利入侵",
+      "year": 1896,
+      "when": "1896年3月1日",
+      "region": "东非",
+      "subtopic": "殖民与抵抗",
+      "kind": "战役",
+      "summary": "埃塞俄比亚军队在阿杜瓦击败意大利入侵军；史密森学会保存的战役绘画同时展示后世对这一反殖民胜利的纪念。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "史密森学会｜阿杜瓦战役绘画",
+          "url": "https://www.si.edu/object/battle-adwa%3Anmafa_2003-19-1"
+        }
+      ]
+    },
+    {
+      "id": "T05-N47",
+      "theme": "T05",
+      "title": "斯大林格勒战役与东线围困",
+      "year": 1942,
+      "when": "1942年—1943年2月",
+      "region": "欧洲",
+      "subtopic": "军事组织",
+      "kind": "战役",
+      "summary": "苏德战争中的斯大林格勒战役经历围困和苏军反攻；帝国战争博物馆记录1942年11月合围与1943年2月德军残部投降。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "帝国战争博物馆｜二战展厅文字资料",
+          "url": "https://www.iwm.org.uk/sites/default/files/files/2023-10/second_world_war_galleries_large_print.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N48",
+      "theme": "T05",
+      "title": "纽伦堡国际军事法庭开庭",
+      "year": 1945.9,
+      "when": "1945年11月20日开庭",
+      "region": "欧洲",
+      "subtopic": "和平机制",
+      "kind": "战后审判",
+      "summary": "四个盟国参与的纽伦堡国际军事法庭审理纳粹德国主要领导人的侵略战争、战争罪和反人类罪指控；其管辖与后来的法庭不同。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜纽伦堡国际军事法庭",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg"
+        }
+      ]
+    },
+    {
+      "id": "T05-N49",
+      "theme": "T05",
+      "title": "阿尔及利亚停火与埃维昂声明",
+      "year": 1962.2,
+      "when": "1962年3月19日停火；7月确认独立",
+      "region": "北非",
+      "subtopic": "殖民与抵抗",
+      "kind": "停火与独立",
+      "summary": "法国与阿尔及利亚民族解放阵线谈判形成埃维昂声明，规定1962年3月19日停火；独立的法律与政治过程继续至7月。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国条约集｜埃维昂声明和往来信函",
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20507/volume-507-I-7395-English.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N50",
+      "theme": "T05",
+      "title": "1967年联合国安理会第242号决议",
+      "year": 1967.9,
+      "when": "1967年11月22日",
+      "region": "西亚",
+      "subtopic": "和平机制",
+      "kind": "安理会决议",
+      "summary": "六日战争后，安理会第242号决议提出撤军、结束交战状态与承认地区国家在安全边界内和平生存等原则，并涉及难民问题。决议文本与落实过程应分开。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国｜安理会第242号决议",
+          "url": "https://www.un.org/unispal/document/auto-insert-184858/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N51",
+      "theme": "T05",
+      "title": "孟加拉国独立战争中的平民暴行",
+      "year": 1971,
+      "when": "1971年3—12月",
+      "region": "南亚",
+      "subtopic": "战争与平民",
+      "kind": "独立战争",
+      "summary": "东巴基斯坦争取独立期间，巴基斯坦军队及协作者对平民实施大规模暴行；印度教少数群体受到特别针对。伤亡估计存在争议，不以单一数字概括。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜孟加拉国报告",
+          "url": "https://www.ushmm.org/m/pdfs/201711-preventing-mass-atrocities-bangladesh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N52",
+      "theme": "T05",
+      "title": "两伊战争中的战俘与红十字探视",
+      "year": 1980,
+      "when": "1980—1988年",
+      "region": "西亚",
+      "subtopic": "战争与平民",
+      "kind": "战争与人道行动",
+      "summary": "两伊战争期间，红十字国际委员会记录交战双方的人道法问题、战俘探视及家属通信；战争概述与具体违反行为需要分别辨认。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜两伊战争年度报告",
+          "url": "https://www.icrc.org/en/document/icrc-and-iran-iraq-war-icrc-library-digs-annual-reports"
+        }
+      ]
+    },
+    {
+      "id": "T05-N53",
+      "theme": "T05",
+      "title": "哈拉卜贾化学武器袭击",
+      "year": 1988.2,
+      "when": "1988年3月",
+      "region": "西亚",
+      "subtopic": "战争与平民",
+      "kind": "化学武器袭击",
+      "summary": "两伊战争期间，伊拉克军队对哈拉卜贾实施化学武器袭击，造成大量平民伤亡和流离失所；这一具体事件应与整个战争分开记录。",
+      "related": [
+        "T03",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际评论｜伊拉克战争与流离失所",
+          "url": "https://international-review.icrc.org/articles/operation-iraqi-freedom-battle-mosul-fifteen-years-displacement-iraq-ir912"
+        }
+      ]
+    },
+    {
+      "id": "T05-N54",
+      "theme": "T05",
+      "title": "波黑《代顿和平协议》签署",
+      "year": 1995.9,
+      "when": "1995年11月草签；12月14日签署",
+      "region": "欧洲",
+      "subtopic": "和平机制",
+      "kind": "和平协议",
+      "summary": "波黑冲突各方达成《代顿和平协议》，涉及军事实施、宪制、人权与流离失所者等安排；草签与正式签署为两个日期。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国维和｜波黑任务背景",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unmibh/background.html"
+        }
+      ]
+    },
+    {
+      "id": "T05-N55",
+      "theme": "T05",
+      "title": "《禁止杀伤人员地雷公约》通过",
+      "year": 1997,
+      "when": "1997年通过；1999年生效",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "裁军条约",
+      "summary": "《禁止杀伤人员地雷公约》禁止相关地雷的使用、生产、储存与转让，并要求销毁和清除；其适用范围不包括所有类型的地雷。",
+      "related": [
+        "T03",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜杀伤人员地雷公约问答",
+          "url": "https://www.icrc.org/en/article/FAQ-anti-personnel-mine-ban-convention-ottawa-treaty"
+        }
+      ]
+    },
+    {
+      "id": "T05-N56",
+      "theme": "T05",
+      "title": "塞拉利昂内战结束与特别法庭成立",
+      "year": 2002,
+      "when": "2002年1月结束战争；同月签署设庭协议",
+      "region": "西非",
+      "subtopic": "和平机制",
+      "kind": "战后追责",
+      "summary": "塞拉利昂内战结束前后，联合国与塞拉利昂政府签署设立特别法庭的协议，以追究负有最大责任者的严重犯罪。战事终结与法庭运作并非同一事件。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "塞拉利昂特别法庭余留机制｜战争结束与设庭",
+          "url": "https://rscsl.org/press-releases/rscsl-in-collaboration-with-cilpa-observes-the-20th-anniversary-of-the-end-of-war-and-establishment-of-special-court/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N57",
+      "theme": "T05",
+      "title": "《集束弹药公约》签署及生效",
+      "year": 2008,
+      "when": "2008年开放签署；2010年8月1日生效",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "裁军条约",
+      "summary": "《集束弹药公约》回应集束弹药造成的平民伤害；2008年开放签署，2010年生效。其缔约国义务与一般人道法规则须区分。",
+      "related": [
+        "T03",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜2008年集束弹药公约",
+          "url": "https://www.icrc.org/en/document/2008-convention-cluster-munitions"
+        }
+      ]
     }
   ],
   "relations": [
@@ -4413,6 +4957,97 @@
       "kind": "战争与种族灭绝",
       "note": "斯雷布雷尼察的种族灭绝发生在波黑战争期间，应区分战争全程与特定罪行。",
       "source": "https://www.icty.org/en/about/what-former-yugoslavia/conflicts"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N89",
+      "kind": "佛教圣地与铭文",
+      "note": "蓝毗尼阿育王石柱将佛陀诞生地传统与后世朝圣地点联系起来。",
+      "source": "https://whc.unesco.org/en/list/666/"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N90",
+      "kind": "佛教圣地与建筑",
+      "note": "菩提伽耶与佛陀觉悟传统相关，现存大菩提寺体现后世营建。",
+      "source": "https://whc.unesco.org/en/list/1056/"
+    },
+    {
+      "fromId": "T01-N08",
+      "toId": "T01-N92",
+      "kind": "传统与遗址",
+      "note": "埃洛拉有耆那教洞窟，也有佛教和印度教遗址；这是地点与传统的关系。",
+      "source": "https://whc.unesco.org/en/list/243/"
+    },
+    {
+      "fromId": "T01-N10",
+      "toId": "T01-N97",
+      "kind": "儒学与祭祀空间",
+      "note": "曲阜孔庙记录历代对孔子的纪念与祭祀。",
+      "source": "https://whc.unesco.org/en/list/704/"
+    },
+    {
+      "fromId": "T01-N16",
+      "toId": "T01-N99",
+      "kind": "祆教王室圣所",
+      "note": "塔赫特苏莱曼保存萨珊时期的祆教火庙及王室空间。",
+      "source": "https://whc.unesco.org/en/list/1077/"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N47",
+      "kind": "战役属于战争",
+      "note": "斯大林格勒战役属于第二次世界大战苏德战场。",
+      "source": "https://www.iwm.org.uk/sites/default/files/files/2023-10/second_world_war_galleries_large_print.pdf"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N48",
+      "kind": "战后审判",
+      "note": "纽伦堡国际军事法庭在欧洲战事结束后审理纳粹德国主要领导人。",
+      "source": "https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg"
+    },
+    {
+      "fromId": "T05-N09",
+      "toId": "T05-N48",
+      "kind": "罪行与追诉",
+      "note": "纽伦堡审判涉及纳粹德国的罪行，但其全部审理范围不能简化为单一罪行。",
+      "source": "https://encyclopedia.ushmm.org/content/en/article/international-military-tribunal-at-nuremberg"
+    },
+    {
+      "fromId": "T05-N10",
+      "toId": "T05-N52",
+      "kind": "公约与战俘保护",
+      "note": "红十字国际委员会在两伊战争中援引1949年日内瓦公约，开展战俘探视等工作。",
+      "source": "https://www.icrc.org/en/document/icrc-and-iran-iraq-war-icrc-library-digs-annual-reports"
+    },
+    {
+      "fromId": "T05-N39",
+      "toId": "T05-N53",
+      "kind": "禁令与违反行为",
+      "note": "哈拉卜贾化学武器袭击发生在1925年日内瓦议定书已确立禁止使用规则之后。",
+      "source": "https://international-review.icrc.org/articles/operation-iraqi-freedom-battle-mosul-fifteen-years-displacement-iraq-ir912"
+    },
+    {
+      "fromId": "T05-N52",
+      "toId": "T05-N53",
+      "kind": "战争与具体袭击",
+      "note": "哈拉卜贾化学袭击是两伊战争期间发生的具体暴行。",
+      "source": "https://international-review.icrc.org/articles/operation-iraqi-freedom-battle-mosul-fifteen-years-displacement-iraq-ir912"
+    },
+    {
+      "fromId": "T05-N42",
+      "toId": "T05-N54",
+      "kind": "战争与和平协议",
+      "note": "代顿协议为结束波黑战争和落实战后安排提供框架。",
+      "source": "https://peacekeeping.un.org/sites/default/files/past/unmibh/background.html"
+    },
+    {
+      "fromId": "T05-N55",
+      "toId": "T05-N57",
+      "kind": "人道裁军条约的延续",
+      "note": "红十字国际委员会将地雷禁令与后来集束弹药条约并列为人道裁军历程。",
+      "source": "https://www.icrc.org/en/article/FAQ-anti-personnel-mine-ban-convention-ottawa-treaty"
     }
   ]
 }
