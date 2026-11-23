@@ -5,15 +5,18 @@
       "name": "宗教与思想",
       "question": "人如何解释世界、传承信念与讨论社会秩序？",
       "subtopics": [
-        "信仰传统",
-        "哲学",
-        "仪式与组织",
-        "经典与教育",
-        "传播与交流"
+        "早期祭祀与地方传统",
+        "经典与哲学",
+        "社群与宗教组织",
+        "传播、翻译与交流",
+        "改革与现代变迁"
       ],
       "essayIdeas": [
-        "宗教传统如何跨地区传播",
-        "信仰与国家权力如何互动"
+        "从吠陀传统到佛教、耆那教：分流与回应",
+        "佛教从南亚经中亚至东亚的多条路径",
+        "基督教在地中海、东非与美洲的不同历史",
+        "伊斯兰与商路：西亚、西非和东南亚的地区经验",
+        "宗教制度、国家权力与战争的不同关系"
       ],
       "related": [
         "T05",
@@ -103,8 +106,9 @@
         "和平机制"
       ],
       "essayIdeas": [
-        "帝国扩张的多方经历",
-        "总体战与国际秩序"
+        "战争动员与平民经历",
+        "宗教语言、政治目的与十字军东征",
+        "19—20世纪战时保护制度的演变"
       ],
       "related": [
         "T03",
@@ -250,7 +254,9 @@
           "name": "大都会艺术博物馆｜南亚艺术与文化",
           "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture"
         }
-      ]
+      ],
+      "subtopic": "信仰传统",
+      "tradition": "佛教"
     },
     {
       "id": "T01-N02",
@@ -271,7 +277,9 @@
           "name": "联合国教科文组织｜阿克苏姆",
           "url": "https://whc.unesco.org/en/list/15"
         }
-      ]
+      ],
+      "subtopic": "传播与交流",
+      "tradition": "基督教"
     },
     {
       "id": "T01-N03",
@@ -292,7 +300,9 @@
           "name": "大都会艺术博物馆｜伊斯兰教的诞生",
           "url": "https://www.metmuseum.org/essays/the-birth-of-islam"
         }
-      ]
+      ],
+      "subtopic": "信仰传统",
+      "tradition": "伊斯兰教"
     },
     {
       "id": "T01-N04",
@@ -314,7 +324,9 @@
           "name": "大都会艺术博物馆｜宗教改革",
           "url": "https://www.metmuseum.org/it/essays/the-reformation"
         }
-      ]
+      ],
+      "subtopic": "改革与现代变迁",
+      "tradition": "基督教"
     },
     {
       "id": "T02-N01",
@@ -580,7 +592,8 @@
           "name": "大都会艺术博物馆｜秦朝",
           "url": "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c"
         }
-      ]
+      ],
+      "subtopic": "军事组织"
     },
     {
       "id": "T05-N02",
@@ -601,7 +614,8 @@
           "name": "大都会艺术博物馆｜成吉思汗的遗产",
           "url": "https://www.metmuseum.org/ja/essays/the-legacy-of-genghis-khan"
         }
-      ]
+      ],
+      "subtopic": "军事组织"
     },
     {
       "id": "T05-N03",
@@ -623,7 +637,8 @@
           "name": "帝国战争博物馆｜第一次世界大战教学资料",
           "url": "https://www.iwm.org.uk/sites/default/files/files/2025-11/Artists%20%26%20War%20Teacher%20Notes%20-%20First%20World%20War.pdf"
         }
-      ]
+      ],
+      "subtopic": "军事组织"
     },
     {
       "id": "T05-N04",
@@ -644,7 +659,8 @@
           "name": "联合国｜联合国宪章",
           "url": "https://www.un.org/en/about-us/un-charter/"
         }
-      ]
+      ],
+      "subtopic": "军事组织"
     },
     {
       "id": "T06-N01",
@@ -1055,6 +1071,1024 @@
       "year": 1950,
       "summary": "本节点属于“社会与日常生活”主线。年代、地区范围和相关叙述正在逐条核对。",
       "sources": []
+    },
+    {
+      "id": "T01-N05",
+      "theme": "T01",
+      "title": "美索不达米亚城邦的神祇与祭祀",
+      "kind": "过程",
+      "when": "约公元前4千纪末起",
+      "region": "西亚",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -3200,
+      "summary": "乌鲁克、尼普尔、埃里都等城市各有重要神祇；宗教生活与城市及政治组织相交织。不同城邦传统后来发生融合。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜美索不达米亚神祇",
+          "url": "https://www.metmuseum.org/essays/mesopotamian-deities"
+        }
+      ],
+      "tradition": "美索不达米亚宗教"
+    },
+    {
+      "id": "T01-N06",
+      "theme": "T01",
+      "title": "古埃及王权、神庙与丧葬信仰",
+      "kind": "过程",
+      "when": "约公元前3千纪起",
+      "region": "北非",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -2600,
+      "summary": "古王国的王室丧葬建筑、太阳神庙和后来的奥西里斯信仰呈现不同的宗教实践；不能以一种仪式概括整个埃及史。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜埃及古王国",
+          "url": "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c"
+        }
+      ],
+      "tradition": "古埃及宗教"
+    },
+    {
+      "id": "T01-N07",
+      "theme": "T01",
+      "title": "吠陀经典与南亚祭仪传统",
+      "kind": "过程",
+      "when": "约公元前2千纪中期以后",
+      "region": "南亚",
+      "related": [
+        "T03",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -1500,
+      "summary": "吠陀赞歌及后续梵书、奥义书在较长时期内形成，为南亚多种祭仪与哲学讨论提供文本基础；不应视为单一宗教的固定创立时刻。",
+      "subtopic": "经典与教育",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚公元前1000年至公元1年",
+          "url": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+        }
+      ],
+      "tradition": "吠陀与印度教传统"
+    },
+    {
+      "id": "T01-N08",
+      "theme": "T01",
+      "title": "耆那教在南亚发展",
+      "kind": "过程",
+      "when": "约公元前6—5世纪",
+      "region": "南亚",
+      "related": [
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -500,
+      "summary": "耆那教与佛教在南亚的思想和宗教环境中兴起；其与吠陀、婆罗门传统有讨论与回应关系，各自形成不同实践。",
+      "subtopic": "信仰传统",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚公元前1000年至公元1年",
+          "url": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+        }
+      ],
+      "tradition": "耆那教"
+    },
+    {
+      "id": "T01-N09",
+      "theme": "T01",
+      "title": "道家思想与后世道教传统",
+      "kind": "过程",
+      "when": "约公元前5世纪起；宗教组织逐渐发展",
+      "region": "东亚",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -500,
+      "summary": "《老子》《庄子》相关思想在古代中国发展，道教后来形成多种经典、神灵与组织实践；思想源流与制度化宗教须分开记录。",
+      "subtopic": "哲学",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜道教与道教艺术",
+          "url": "https://www.metmuseum.org/essays/daoism-and-daoist-art"
+        }
+      ],
+      "tradition": "道教"
+    },
+    {
+      "id": "T01-N10",
+      "theme": "T01",
+      "title": "儒家经典进入汉代国家治理",
+      "kind": "过程",
+      "when": "汉代，公元前2世纪起",
+      "region": "东亚",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -150,
+      "summary": "汉代官僚文化逐渐依赖儒家经典训练的士人；儒家同时涉及伦理、礼仪、教育与政治，不宜简单等同于单一宗教。",
+      "subtopic": "经典与教育",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜汉朝",
+          "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d"
+        }
+      ],
+      "tradition": "儒家思想"
+    },
+    {
+      "id": "T01-N11",
+      "theme": "T01",
+      "title": "阿育王支持佛教与佛塔建设",
+      "kind": "过程",
+      "when": "公元前3世纪中期",
+      "region": "南亚",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -260,
+      "summary": "阿育王在羯陵伽战争后支持佛教并推广法的观念。桑奇佛塔的早期核心与其时代有关；后世关于建造数量的叙述不能直接当作考古定数。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜阿育王与南亚年表",
+          "url": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N12",
+      "theme": "T01",
+      "title": "犍陀罗佛教寺院与佛塔网络",
+      "kind": "过程",
+      "when": "约公元前2世纪至公元1世纪",
+      "region": "南亚与中亚交界",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1,
+      "summary": "佛教在犍陀罗地区得到地方赞助，寺院与佛塔并存；公元5—6年的舍利捐献铭文为当地宗教活动提供了具体证据。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜犍陀罗",
+          "url": "https://www.metmuseum.org/essays/gandhara"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N13",
+      "theme": "T01",
+      "title": "第二圣殿毁灭后的犹太教实践",
+      "kind": "过程",
+      "when": "公元70年以后",
+      "region": "西亚与地中海",
+      "related": [
+        "T05",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 70,
+      "summary": "罗马军队毁坏耶路撒冷第二圣殿后，犹太群体的文本学习、节期与会堂生活在不同地区延续并发展。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜晚期古代犹太艺术",
+          "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium"
+        }
+      ],
+      "tradition": "犹太教"
+    },
+    {
+      "id": "T01-N14",
+      "theme": "T01",
+      "title": "早期基督教社群在罗马世界发展",
+      "kind": "过程",
+      "when": "公元1—3世纪",
+      "region": "地中海",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 200,
+      "summary": "罗马帝国多地在晚期古代留有基督徒聚会和图像遗存；杜拉欧罗波斯的基督教聚会所与犹太会堂等共处一座城市。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜杜拉欧罗波斯宗教遗存",
+          "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N15",
+      "theme": "T01",
+      "title": "罗马帝国晚期基督教的官方地位",
+      "kind": "过程",
+      "when": "公元4世纪后期",
+      "region": "地中海与欧洲",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 380,
+      "summary": "基督教在罗马帝国晚期成为官方宗教；这与此前社群传播、合法化和帝国政策变化是不同阶段。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜拜占庭",
+          "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N16",
+      "theme": "T01",
+      "title": "萨珊波斯的祆教王室圣所",
+      "kind": "过程",
+      "when": "约公元3—7世纪",
+      "region": "西亚",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 500,
+      "summary": "塔赫特苏莱曼遗址保存萨珊时期王室建筑与祆教圣所的联系；它能说明国家与宗教空间的结合，不能代表祆教的起源时间。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜塔赫特苏莱曼",
+          "url": "https://whc.unesco.org/en/list/1077"
+        }
+      ],
+      "tradition": "祆教"
+    },
+    {
+      "id": "T01-N17",
+      "theme": "T01",
+      "title": "佛教沿丝路进入中亚与中国",
+      "kind": "过程",
+      "when": "约公元1—5世纪，渐次传播",
+      "region": "中亚与东亚",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 200,
+      "summary": "佛教经中亚交通和交流网络进入中国；传教、旅行、文本、造像与地方赞助共同参与传播，不是一条单线的“传入日”。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚公元1—500年",
+          "url": "https://www.metmuseum.org/toah/ht/05/ssa.html"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N18",
+      "theme": "T01",
+      "title": "日本飞鸟与奈良时期的佛教赞助",
+      "kind": "过程",
+      "when": "约6—8世纪",
+      "region": "东亚",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 600,
+      "summary": "佛教经中国与朝鲜半岛传入日本，日本宫廷在飞鸟、奈良时期支持寺院建设并吸收、改造相关制度和艺术。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜飞鸟与奈良时期",
+          "url": "https://www.metmuseum.org/essays/asuka-and-nara-periods-538-794"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N19",
+      "theme": "T01",
+      "title": "早期《古兰经》抄本与经典传播",
+      "kind": "过程",
+      "when": "约8世纪至13世纪初的存世抄本",
+      "region": "西亚及跨地区",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 700,
+      "summary": "存世早期《古兰经》抄本呈现书写、装饰与传播的历史；抄本年代不等同于最初启示或经典编定的日期。",
+      "subtopic": "经典与教育",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜早期古兰经抄本",
+          "url": "https://www.metmuseum.org/essays/early-qurans-8thearly-13th-centuries"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N20",
+      "theme": "T01",
+      "title": "倭马亚时期伊斯兰建筑与政治中心",
+      "kind": "过程",
+      "when": "公元661—750年",
+      "region": "西亚及跨地区",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 661,
+      "summary": "倭马亚王朝建立后，伊斯兰政治组织与建筑在大马士革等地发展；被其统治的人群仍具有不同宗教与文化背景。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜倭马亚时期艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N21",
+      "theme": "T01",
+      "title": "阿拔斯时期巴格达的学术与文化中心",
+      "kind": "过程",
+      "when": "公元762年以后",
+      "region": "西亚",
+      "related": [
+        "T03",
+        "T04"
+      ],
+      "status": "sourced",
+      "year": 762,
+      "summary": "阿拔斯王朝于762年建立巴格达作为新都，伊斯兰世界政治与文化重心向伊拉克转移；后世地方王朝继续分化。",
+      "subtopic": "经典与教育",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜阿拔斯时期艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N22",
+      "theme": "T01",
+      "title": "拜占庭圣像争论",
+      "kind": "过程",
+      "when": "约726—843年，间有恢复",
+      "region": "东地中海",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 726,
+      "summary": "拜占庭围绕宗教图像的正当性发生长期争论，政策经历禁止、恢复与再次禁止；843年圣像使用得到恢复。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜拜占庭圣像与破坏圣像运动",
+          "url": "https://www.metmuseum.org/essays/icons-and-iconoclasm-in-byzantium"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N23",
+      "theme": "T01",
+      "title": "纪伊山地神道与佛教的融合实践",
+      "kind": "过程",
+      "when": "中世纪以来，具体地点年代不同",
+      "region": "东亚",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 900,
+      "summary": "熊野、高野山等圣地及朝圣路线见证日本本土神道传统与外来佛教的长期交融；此节点的排序年份仅供浏览。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜纪伊山地圣地与参拜道",
+          "url": "https://whc.unesco.org/en/list/1142"
+        }
+      ],
+      "tradition": "神道与佛教"
+    },
+    {
+      "id": "T01-N24",
+      "theme": "T01",
+      "title": "西非萨赫勒的伊斯兰学术与地方实践",
+      "kind": "过程",
+      "when": "约13—16世纪",
+      "region": "西非",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1300,
+      "summary": "跨撒哈拉贸易与游学教师促进伊斯兰信仰和学术在西非传播；地方信仰、建筑与社会组织仍呈多样形式。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜萨赫勒艺术与帝国",
+          "url": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N25",
+      "theme": "T01",
+      "title": "东南亚海上贸易与伊斯兰传播",
+      "kind": "过程",
+      "when": "约15—16世纪",
+      "region": "东南亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1450,
+      "summary": "马来半岛与群岛的伊斯兰传播同海上穆斯林商贸网络相关；不同岛屿和王国的接受路径并不一致。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜东南亚1400—1600年",
+          "url": "https://www.metmuseum.org/toah/ht/08/sse.html"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N26",
+      "theme": "T01",
+      "title": "旁遮普地区锡克教形成",
+      "kind": "过程",
+      "when": "约15世纪末至16世纪",
+      "region": "南亚",
+      "related": [
+        "T07",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1500,
+      "summary": "古鲁那纳克的教导在旁遮普地区形成锡克教传统；该传统与南亚已有思想环境互动，但有自身的宗教发展脉络。",
+      "subtopic": "信仰传统",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜锡克教与环刃",
+          "url": "https://www.metmuseum.org/art/collection/search/30169"
+        }
+      ],
+      "tradition": "锡克教"
+    },
+    {
+      "id": "T01-N27",
+      "theme": "T01",
+      "title": "萨法维王朝确立伊朗什叶派国家身份",
+      "kind": "过程",
+      "when": "16世纪起",
+      "region": "西亚",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1501,
+      "summary": "萨法维王朝在16世纪将什叶派确立为国家宗教，改变伊朗的宗教与政治格局；不能把7世纪伊斯兰教的形成直接等同于这一后期转变。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜权力与虔敬展览",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2016/power-and-piety/exhibition-sections"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N28",
+      "theme": "T01",
+      "title": "巴拉圭耶稣会传教区与瓜拉尼社群",
+      "kind": "过程",
+      "when": "约17—18世纪",
+      "region": "南美洲",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1700,
+      "summary": "巴拉圭耶稣会传教区遗址显示基督教传教与瓜拉尼文化之间复杂的交流、改造和权力关系。",
+      "subtopic": "传播与交流",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜巴拉圭耶稣会传教区",
+          "url": "https://whc.unesco.org/en/list/648/"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N29",
+      "theme": "T01",
+      "title": "锡克教卡尔萨组织建立",
+      "kind": "事件",
+      "when": "1699年",
+      "region": "南亚",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1699,
+      "summary": "第十代古鲁戈宾德·辛格于1699年建立卡尔萨组织；它属于锡克教内部制度发展的一环。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜卡尔萨与锡克传统",
+          "url": "https://www.metmuseum.org/art/collection/search/30169"
+        }
+      ],
+      "tradition": "锡克教"
+    },
+    {
+      "id": "T01-N30",
+      "theme": "T01",
+      "title": "巴比运动及巴哈伊信仰的兴起",
+      "kind": "过程",
+      "when": "1844年起",
+      "region": "西亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1844,
+      "summary": "巴哈伊社群将1844年设拉子的巴孛宣告视为其历史起点；此处将信仰内部的起源叙述作为来源并明确标识。",
+      "subtopic": "信仰传统",
+      "sources": [
+        {
+          "name": "巴哈伊世界新闻社｜简史（社群自述）",
+          "url": "https://news.bahai.org/media-information/brief-history"
+        }
+      ],
+      "tradition": "巴哈伊信仰"
+    },
+    {
+      "id": "T01-N31",
+      "theme": "T01",
+      "title": "第二次梵蒂冈大公会议",
+      "kind": "事件组",
+      "when": "1962—1965年",
+      "region": "欧洲及全球",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1962,
+      "summary": "罗马天主教会于1962年召开第二次梵蒂冈大公会议，1965年结束；这是20世纪教会自我讨论与制度更新的重要节点。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "教廷｜第二次梵蒂冈大公会议闭幕令",
+          "url": "https://www.vatican.va/content/paul-vi/en/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N32",
+      "theme": "T01",
+      "title": "奇琴伊察的玛雅宗教空间",
+      "kind": "过程",
+      "when": "约10—15世纪，遗址含更早建筑",
+      "region": "中美洲",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1000,
+      "summary": "奇琴伊察的库库尔坎神庙、武士神庙等建筑体现尤卡坦地区的宗教与城市生活，以及玛雅和中部墨西哥文化要素的交汇。",
+      "subtopic": "仪式与组织",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜奇琴伊察古城",
+          "url": "https://whc.unesco.org/en/list/483/"
+        }
+      ],
+      "tradition": "玛雅宗教传统"
+    },
+    {
+      "id": "T01-N33",
+      "theme": "T01",
+      "title": "晚期古代犹太会堂与塔木德传统",
+      "kind": "过程",
+      "when": "约公元3—6世纪",
+      "region": "西亚、北非与地中海",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 400,
+      "summary": "巴勒斯坦与波斯地区的拉比学术形成耶路撒冷和巴比伦塔木德；各地会堂兼有聚会、学习与祈祷功能。",
+      "subtopic": "经典与教育",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜拜占庭时期的犹太教",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/topical-essays/posts/judaism"
+        }
+      ],
+      "tradition": "犹太教"
+    },
+    {
+      "id": "T05-N05",
+      "theme": "T05",
+      "title": "羯陵伽战争与阿育王政策转向",
+      "kind": "事件组",
+      "when": "约公元前260年",
+      "region": "南亚",
+      "related": [
+        "T01",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -260,
+      "summary": "阿育王征服羯陵伽后支持佛教并提倡法；战争和统治政策之间的关系由后来的记述和碑铭研究讨论。",
+      "subtopic": "战争与平民",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚公元前1000年至公元1年",
+          "url": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+        }
+      ]
+    },
+    {
+      "id": "T05-N06",
+      "theme": "T05",
+      "title": "十字军东征与东地中海社会",
+      "kind": "事件组",
+      "when": "约1095—1291年",
+      "region": "东地中海",
+      "related": [
+        "T01",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1095,
+      "summary": "多次十字军军事行动、地方政权、朝圣与贸易相互交织，1099年攻占耶路撒冷、1204年劫掠君士坦丁堡均为重大节点；各方经历不同。",
+      "subtopic": "战争与平民",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜十字军东征",
+          "url": "https://www.metmuseum.org/essays/the-crusades-1095-1291"
+        }
+      ]
+    },
+    {
+      "id": "T05-N07",
+      "theme": "T05",
+      "title": "1864年日内瓦公约与战地伤员保护",
+      "kind": "事件",
+      "when": "1864年",
+      "region": "欧洲及跨地区",
+      "related": [
+        "T06",
+        "T09"
+      ],
+      "status": "sourced",
+      "year": 1864,
+      "summary": "第一部日内瓦公约确立对战地伤者的照护框架；条约的缔结、成员加入与实际执行应分开研究。",
+      "subtopic": "和平机制",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜1864年日内瓦公约",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gc-1864"
+        }
+      ]
+    },
+    {
+      "id": "T05-N08",
+      "theme": "T05",
+      "title": "第二次世界大战与大规模平民伤亡",
+      "kind": "事件组",
+      "when": "1939—1945年",
+      "region": "跨地区",
+      "related": [
+        "T02",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1939,
+      "summary": "第二次世界大战波及欧洲、亚洲、非洲与太平洋地区；大规模动员、占领、轰炸、流离失所与平民伤亡需结合各地资料分别叙述。",
+      "subtopic": "战争与平民",
+      "sources": [
+        {
+          "name": "帝国战争博物馆｜第二次世界大战与平民",
+          "url": "https://www.iwm.org.uk/sites/default/files/documents/2017_05_22_transforming_iwm_london_2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N09",
+      "theme": "T05",
+      "title": "纳粹德国对欧洲犹太人的种族灭绝",
+      "kind": "事件组",
+      "when": "1941—1945年；迫害始于1933年",
+      "region": "欧洲",
+      "related": [
+        "T01",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1941,
+      "summary": "纳粹德国及其同盟者、合作者系统性迫害并杀害约六百万欧洲犹太人；同时杀害或迫害了其他多个群体。",
+      "subtopic": "战争与平民",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜大屠杀导论",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+        }
+      ]
+    },
+    {
+      "id": "T05-N10",
+      "theme": "T05",
+      "title": "1949年四项日内瓦公约",
+      "kind": "事件",
+      "when": "1949年",
+      "region": "全球",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1949,
+      "summary": "二战后各国修订三项已有公约并新增保护敌方控制下平民的第四公约，成为现代国际人道法的重要基础。",
+      "subtopic": "和平机制",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜机构及公约历史",
+          "url": "https://www.icrc.org/en/document/history-icrc"
+        }
+      ]
+    },
+    {
+      "id": "T05-N11",
+      "theme": "T05",
+      "title": "朝鲜战争与联合国安理会决议",
+      "kind": "事件组",
+      "when": "1950—1953年",
+      "region": "东亚",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1950,
+      "summary": "1950年朝鲜战争爆发后，联合国安理会第82、83号决议分别要求撤军并建议成员国援助韩国；1953年签订停战协定。",
+      "subtopic": "战争与平民",
+      "sources": [
+        {
+          "name": "联合国研究指南｜1946—1955年国际协议",
+          "url": "https://research.un.org/en/UN80/1946-1955"
+        }
+      ]
+    },
+    {
+      "id": "T05-N12",
+      "theme": "T05",
+      "title": "苏伊士危机与联合国紧急部队",
+      "kind": "事件",
+      "when": "1956年",
+      "region": "北非与西亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1956,
+      "summary": "苏伊士危机后，联合国组建第一支武装维和部队UNEF I以监督停火区域；维和安排与战争行动有不同任务。",
+      "subtopic": "和平机制",
+      "sources": [
+        {
+          "name": "联合国维和行动｜机构历史",
+          "url": "https://peacekeeping.un.org/en/our-history"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "fromId": "T01-N07",
+      "toId": "T01-N08",
+      "kind": "思想环境",
+      "note": "耆那教与佛教兴起于对吠陀、婆罗门传统的讨论之中。",
+      "source": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+    },
+    {
+      "fromId": "T01-N07",
+      "toId": "T01-N01",
+      "kind": "思想环境",
+      "note": "佛教在南亚既有宗教思想环境中兴起。",
+      "source": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N11",
+      "kind": "赞助与扩展",
+      "note": "阿育王支持佛教并推广法的观念。",
+      "source": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+    },
+    {
+      "fromId": "T05-N05",
+      "toId": "T01-N11",
+      "kind": "战后政策",
+      "note": "羯陵伽战争后阿育王对佛教的支持成为重要的政策转向。",
+      "source": "https://www.metmuseum.org/toah/ht/04/ssa.html"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N12",
+      "kind": "地区传播",
+      "note": "佛教在犍陀罗地区发展出寺院与舍利塔网络。",
+      "source": "https://www.metmuseum.org/essays/gandhara"
+    },
+    {
+      "fromId": "T01-N12",
+      "toId": "T01-N17",
+      "kind": "交流网络",
+      "note": "犍陀罗与中亚交通网络参与佛教的跨地区传播；不是唯一传播路线。",
+      "source": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    },
+    {
+      "fromId": "T01-N17",
+      "toId": "T01-N18",
+      "kind": "地区传播",
+      "note": "中国与朝鲜半岛的佛教文化对日本的接受与改造有影响。",
+      "source": "https://www.metmuseum.org/essays/asuka-and-nara-periods-538-794"
+    },
+    {
+      "fromId": "T01-N18",
+      "toId": "T01-N23",
+      "kind": "地方融合",
+      "note": "纪伊山地圣地呈现佛教与日本本土神道传统的长期交融。",
+      "source": "https://whc.unesco.org/en/list/1142"
+    },
+    {
+      "fromId": "T01-N14",
+      "toId": "T01-N15",
+      "kind": "制度转变",
+      "note": "基督教从罗马世界的早期社群发展到晚期帝国的官方宗教。",
+      "source": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    },
+    {
+      "fromId": "T01-N13",
+      "toId": "T01-N33",
+      "kind": "经典与社群",
+      "note": "第二圣殿毁灭后的犹太社群继续发展会堂与拉比学术传统。",
+      "source": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/topical-essays/posts/judaism"
+    },
+    {
+      "fromId": "T01-N15",
+      "toId": "T01-N22",
+      "kind": "内部争论",
+      "note": "拜占庭帝国的基督教图像争论伴随教会与帝国权力互动。",
+      "source": "https://www.metmuseum.org/essays/icons-and-iconoclasm-in-byzantium"
+    },
+    {
+      "fromId": "T01-N15",
+      "toId": "T01-N04",
+      "kind": "后续改革",
+      "note": "16世纪欧洲改革针对教会实践展开；此线只标记传统内部的后续变迁。",
+      "source": "https://www.metmuseum.org/essays/the-reformation"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N20",
+      "kind": "制度发展",
+      "note": "穆罕默德去世后的哈里发政治逐渐发展，倭马亚王朝于661年建立。",
+      "source": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N19",
+      "kind": "经典传承",
+      "note": "早期古兰经抄本反映伊斯兰经典在后世的书写与保存。",
+      "source": "https://www.metmuseum.org/essays/early-qurans-8thearly-13th-centuries"
+    },
+    {
+      "fromId": "T01-N20",
+      "toId": "T01-N21",
+      "kind": "王朝更替",
+      "note": "阿拔斯王朝继倭马亚王朝之后建立新的政治与文化中心。",
+      "source": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N24",
+      "kind": "地区传播",
+      "note": "贸易与游学教师促进伊斯兰在西非萨赫勒传播。",
+      "source": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N25",
+      "kind": "地区传播",
+      "note": "穆斯林商贸网络与东南亚的地区性接受相联系。",
+      "source": "https://www.metmuseum.org/toah/ht/08/sse.html"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T01-N27",
+      "kind": "后续制度",
+      "note": "萨法维时期伊朗国家宗教身份的变化远晚于伊斯兰教起源。",
+      "source": "https://www.metmuseum.org/exhibitions/listings/2016/power-and-piety/exhibition-sections"
+    },
+    {
+      "fromId": "T01-N26",
+      "toId": "T01-N29",
+      "kind": "内部制度",
+      "note": "1699年卡尔萨建立是锡克教传统内部的制度发展。",
+      "source": "https://www.metmuseum.org/art/collection/search/30169"
+    },
+    {
+      "fromId": "T01-N03",
+      "toId": "T05-N06",
+      "kind": "历史语境",
+      "note": "东地中海十字军行动涉及基督教与伊斯兰政治势力，但目的与参与者各异。",
+      "source": "https://www.metmuseum.org/essays/the-crusades-1095-1291"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N10",
+      "kind": "战后制度",
+      "note": "1949年公约修订与二战经验有关，并加入平民保护。",
+      "source": "https://www.icrc.org/en/document/history-icrc"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N09",
+      "kind": "战争中的迫害",
+      "note": "纳粹德国的种族灭绝发生于第二次世界大战期间。",
+      "source": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+    },
+    {
+      "fromId": "T05-N03",
+      "toId": "T05-N08",
+      "kind": "历史比较",
+      "note": "两次世界大战并列比较，非单一因果链。",
+      "source": "https://www.iwm.org.uk/sites/default/files/documents/2017_05_22_transforming_iwm_london_2.pdf"
+    },
+    {
+      "fromId": "T05-N07",
+      "toId": "T05-N10",
+      "kind": "法律演进",
+      "note": "1949年公约修订了早期伤员保护制度并新增其他保护对象。",
+      "source": "https://www.icrc.org/en/document/history-icrc"
+    },
+    {
+      "fromId": "T05-N04",
+      "toId": "T05-N12",
+      "kind": "制度实践",
+      "note": "联合国成立后探索维和安排，1956年部署第一支武装维和部队。",
+      "source": "https://peacekeeping.un.org/en/our-history"
     }
   ]
 }

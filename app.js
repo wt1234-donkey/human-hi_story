@@ -1,7 +1,7 @@
 const $ = (selector) => document.querySelector(selector);
 const esc = (value) => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
-const state = {theme:'all',period:'all',region:'all',status:'all',query:''};
-let catalog = {themes:[],nodes:[]};
+const state = {theme:'all',period:'all',region:'all',tradition:'all',status:'all',query:''};
+let catalog = {themes:[],nodes:[],relations:[]};
 const themeById = (id) => catalog.themes.find(t => t.id === id);
 const tagNames = (node) => [node.theme,...node.related].map(id => themeById(id)?.name).filter(Boolean);
 const periodOf = (node) => node.year == null ? 'undated' : node.year <= 0 ? 'bce' : node.year <= 999 ? 'early' : node.year <= 1799 ? 'middle' : 'recent';
@@ -13,6 +13,9 @@ const paths = [
  {title:'宗教、制度与跨地区交流',desc:'把信仰传统放在其社会组织与交流网络中阅读。',themes:['T01','T07'],nodes:['T01-N01','T01-N02','T01-N03','T07-N02'],sections:[['地点与传统','南亚、东非和阿拉伯半岛都留下了宗教传统发展的重要线索。理解它们，需要分别阅读当地社会、政治组织与文献。'],['交流中的变化','商路与人员流动让思想传播成为可能；传播路线并不能单独解释信仰为何被接受、改变或争论。关系图只把这些主题连在一起，不自动宣称因果。']]},
  {title:'能源、工业化与城市生活',desc:'沿生产方式、城市环境和劳动生活的交汇处继续探索。',themes:['T02','T04','T10'],nodes:['T02-N03','T04-N04','T10-N04'],sections:[['生产与聚居','英国工业时期的蒸汽动力是观察能源与生产变化的一条线索。城市扩张和劳动生活有各自的地区差异，不能仅由一项技术解释。'],['劳动制度的回应','国际劳工组织于1919年成立。本路径将机械化、城市生活与劳动制度并列，追问不同群体如何经历这些变化。']]},
  {title:'技术、战争与公共卫生',desc:'比较技术实践在冲突与照护中的不同作用。',themes:['T03','T05','T09'],nodes:['T05-N03','T09-N03','T09-N04'],sections:[['同一时代，不同用途','20世纪的战争、药物研究和公共卫生行动涉及各自不同的机构和目标。把它们放在同一时期比较，能够追问技术选择由谁决定、影响了谁。'],['从发现到公共行动','青霉素的发现与临床使用并非同一年；消灭天花则依赖跨地区的公共卫生协作。技术史需要同时记录实验、应用与组织实施。']]},
+ {title:'南亚思想与佛教传播',desc:'从吠陀传统、佛教与耆那教的不同回应，读到王室赞助、犍陀罗和东亚。',themes:['T01','T07'],nodes:['T01-N07','T01-N08','T01-N01','T01-N11','T01-N12','T01-N17','T01-N18'],sections:[['传统不是单点创立','不同经典和实践在南亚跨越多个世纪发展。佛教、耆那教对既有思想环境作出不同回应。'],['传播需要地方实践','王室赞助、寺院、造像、贸易、译经与地方宫廷分别发挥作用，不能画成一条必然的东传直线。']]},
+ {title:'三大一神教的制度与地区发展',desc:'并读犹太教、基督教、伊斯兰教的不同历史节点和地方社群。',themes:['T01','T06'],nodes:['T01-N13','T01-N14','T01-N15','T01-N02','T01-N03','T01-N20','T01-N24','T01-N25'],sections:[['从地方到跨地区','三条传统各有经典、社群和制度史，时间上的并列不表示彼此直接衍生。'],['地区经验','罗马世界、东非、西亚、西非和东南亚提供不同传播与地方接受的实例。']]},
+ {title:'信仰、权力与战争',desc:'对照赞助、争论、改革、军事动员及战时保护的具体历史语境。',themes:['T01','T05'],nodes:['T05-N05','T01-N11','T01-N22','T05-N06','T01-N04','T05-N07','T05-N09','T05-N10'],sections:[['区分关系类型','阿育王的战后政策、拜占庭圣像争论、十字军行动和宗教改革属于不同的制度与冲突问题。'],['平民和保护','近现代战争中的群体迫害与平民经历必须单列；日内瓦公约代表战时保护规则的演进，不能把战争概述替代受害者史。']]},
 ];
 
 function setTheme(id,scroll=true){state.theme=id;renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
@@ -33,8 +36,9 @@ function filteredNodes(){
    if(state.theme!=='all' && ![n.theme,...n.related].includes(state.theme))return false;
    if(state.period!=='all' && periodOf(n)!==state.period)return false;
    if(state.region!=='all' && !n.region.includes(state.region))return false;
+   if(state.tradition!=='all' && n.tradition!==state.tradition)return false;
    if(state.status!=='all' && n.status!==state.status)return false;
-   if(q && ![n.title,n.region,n.when,n.summary,...tagNames(n)].join(' ').toLocaleLowerCase('zh-CN').includes(q))return false;
+   if(q && ![n.title,n.region,n.when,n.summary,n.tradition,n.subtopic,...tagNames(n)].join(' ').toLocaleLowerCase('zh-CN').includes(q))return false;
    return true;
  }).sort((a,b)=>(a.year??Infinity)-(b.year??Infinity)||a.title.localeCompare(b.title,'zh-CN'));
 }
@@ -65,13 +69,17 @@ function openPath(index){
 function openDetail(id){
  const n=catalog.nodes.find(node=>node.id===id);if(!n)return;
  const source=n.sources.length?`<h3>资料来源</h3>${n.sources.map(s=>`<a class="detail-source" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name)} ↗</a>`).join('')}<p class="detail-note">来源支持本页概述；更多细节仍需按陈述逐条编注。</p>`:'<h3>资料状态</h3><p class="detail-note">这是尚未完成逐条来源核对的编目候选。当前标题、年代与地区仅用于规划和检索，不作已核实的历史结论。</p>';
- $('#dialogContent').innerHTML=`<p class="detail-eyebrow">${esc(n.id)} / ${esc(themeById(n.theme)?.name)} / ${esc(statusLabel(n))}</p><h2 id="dialogTitle">${esc(n.title)}</h2><div class="detail-bits"><span>${esc(n.when)}</span><span>${esc(n.region)}</span><span>${esc(n.kind)}</span></div><p class="detail-summary">${esc(n.summary)}</p><div class="detail-divider"></div>${source}<div class="detail-divider"></div><h3>关联主线</h3><div class="detail-related">${[n.theme,...n.related].map(id=>`<button type="button" data-theme="${id}">${esc(themeById(id)?.name)}</button>`).join('')}</div>`;
+ const relations=(catalog.relations||[]).filter(r=>r.fromId===id||r.toId===id);
+ const connected=relations.length?`<div class="detail-divider"></div><h3>有据可查的节点关系</h3><p class="detail-note">箭头表示本目录的阅读方向；每条关系单独附有说明与依据。</p><div class="relation-list">${relations.map(r=>{const other=catalog.nodes.find(x=>x.id===(r.fromId===id?r.toId:r.fromId));return `<div class="relation-item"><span class="relation-kind">${esc(r.kind)} · ${r.fromId===id?'指向后续节点':'来自前序节点'}</span><button type="button" data-id="${esc(other?.id)}">${esc(other?.title)}</button><p>${esc(r.note)}</p><a href="${esc(r.source)}" target="_blank" rel="noopener noreferrer">查看关系依据 ↗</a></div>`}).join('')}</div>`:'';
+ $('#dialogContent').innerHTML=`<p class="detail-eyebrow">${esc(n.id)} / ${esc(themeById(n.theme)?.name)} / ${esc(statusLabel(n))}</p><h2 id="dialogTitle">${esc(n.title)}</h2><div class="detail-bits"><span>${esc(n.when)}</span><span>${esc(n.region)}</span><span>${esc(n.kind)}</span>${n.tradition?`<span>${esc(n.tradition)}</span>`:''}${n.subtopic?`<span>${esc(n.subtopic)}</span>`:''}</div><p class="detail-summary">${esc(n.summary)}</p><div class="detail-divider"></div>${source}${connected}<div class="detail-divider"></div><h3>关联主线</h3><div class="detail-related">${[n.theme,...n.related].map(id=>`<button type="button" data-theme="${id}">${esc(themeById(id)?.name)}</button>`).join('')}</div>`;
  const dialog=$('#detailDialog');if(!dialog.open)dialog.showModal();
 }
 
 function fillSelects(){
- const regions=['西亚','南亚','东亚','东非','欧洲','非洲','美洲','中美洲','加勒比','欧亚','跨地区','全球'];
+ const regions=['西亚','南亚','东亚','东非','北非','西非','欧洲','非洲','美洲','南美洲','中美洲','加勒比','欧亚','中亚','东南亚','地中海','跨地区','全球'];
  $('#regionFilter').insertAdjacentHTML('beforeend',regions.map(r=>`<option value="${r}">${r}</option>`).join(''));
+ const traditions=[...new Set(catalog.nodes.map(n=>n.tradition).filter(Boolean))];
+ $('#traditionFilter').insertAdjacentHTML('beforeend',traditions.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join(''));
  for(const select of [$('#compareA'),$('#compareB')])select.innerHTML=catalog.themes.map(t=>`<option value="${t.id}">${esc(t.name)}</option>`).join('');
  $('#compareA').value='T02';$('#compareB').value='T04';
 }
@@ -86,8 +94,8 @@ function bind(){
  $('#closeDialog').addEventListener('click',()=>$('#detailDialog').close());
  $('#detailDialog').addEventListener('click',e=>{if(e.target===$('#detailDialog'))$('#detailDialog').close()});
  $('#searchInput').addEventListener('input',e=>{state.query=e.target.value;renderTimeline()});
- for(const [id,key] of [['periodFilter','period'],['regionFilter','region'],['statusFilter','status']])$("#"+id).addEventListener('change',e=>{state[key]=e.target.value;renderTimeline()});
- $('#clearFilters').addEventListener('click',()=>{Object.assign(state,{theme:'all',period:'all',region:'all',status:'all',query:''});$('#searchInput').value='';for(const id of ['periodFilter','regionFilter','statusFilter'])$('#'+id).value='all';renderThemeFilters();renderTimeline()});
+ for(const [id,key] of [['periodFilter','period'],['regionFilter','region'],['traditionFilter','tradition'],['statusFilter','status']])$("#"+id).addEventListener('change',e=>{state[key]=e.target.value;renderTimeline()});
+ $('#clearFilters').addEventListener('click',()=>{Object.assign(state,{theme:'all',period:'all',region:'all',tradition:'all',status:'all',query:''});$('#searchInput').value='';for(const id of ['periodFilter','regionFilter','traditionFilter','statusFilter'])$('#'+id).value='all';renderThemeFilters();renderTimeline()});
  $('#compareA').addEventListener('change',renderCompare);$('#compareB').addEventListener('change',renderCompare);
 }
 
