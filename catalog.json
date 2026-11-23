@@ -4451,6 +4451,409 @@
           "url": "https://www.icrc.org/en/document/2008-convention-cluster-munitions"
         }
       ]
+    },
+    {
+      "id": "T01-N100",
+      "theme": "T01",
+      "title": "昆兰《社团规则》抄卷与第二圣殿时期社群",
+      "year": -50,
+      "when": "公元前1世纪—公元1世纪（抄卷年代）",
+      "region": "西亚·死海地区",
+      "subtopic": "经典与教育",
+      "kind": "抄本与社群",
+      "summary": "昆兰出土的《社团规则》记述当地犹太社群的规章。抄卷提供第二圣殿时期犹太教内部多样性的材料，不等同于此后全部犹太教实践。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "耶路撒冷以色列博物馆｜Rule of Community Scroll",
+          "url": "https://www.imj.org.il/en/node/6594062"
+        }
+      ],
+      "tradition": "犹太教"
+    },
+    {
+      "id": "T01-N101",
+      "theme": "T01",
+      "title": "吉尔吉特佛教写本与经典保存",
+      "year": 500,
+      "when": "公元5—6世纪（古文字学断代）",
+      "region": "南亚·吉尔吉特",
+      "subtopic": "经典与教育",
+      "kind": "佛教写本",
+      "summary": "吉尔吉特写本保存佛教经典、仪轨等文献，以佛教混合梵语写成。断代指现存写本，不代表经文最初形成的时间。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜Gilgit Manuscript",
+          "url": "https://www.unesco.org/en/memory-world/gilgit-manuscript"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N102",
+      "theme": "T01",
+      "title": "开罗艾资哈尔与伊斯兰学术中心",
+      "year": 970,
+      "when": "970年创立；后续持续发展",
+      "region": "非洲·埃及开罗",
+      "subtopic": "经典与教育",
+      "kind": "宗教教育机构",
+      "summary": "艾资哈尔自10世纪法蒂玛时期创立后成为重要神学与宗教学术中心；其教学传统在不同政权和时代继续变化。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N103",
+      "theme": "T01",
+      "title": "《直指》金属活字印刷与佛教教义选编",
+      "year": 1377,
+      "when": "1377年7月印制现存卷二",
+      "region": "东亚·朝鲜半岛清州",
+      "subtopic": "经典与教育",
+      "kind": "印刷与经典",
+      "summary": "《白云和尚抄录佛祖直指心体要节》汇编禅宗教义；现存第二卷于清州兴德寺用金属活字印制，显示宗教文本与东亚印刷技术的结合。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜Jikji",
+          "url": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N104",
+      "theme": "T01",
+      "title": "古腾堡《圣经》与西欧金属活字印刷",
+      "year": 1455,
+      "when": "约1455年完成",
+      "region": "欧洲·德意志美因茨",
+      "subtopic": "经典与教育",
+      "kind": "印刷与经典",
+      "summary": "拉丁文古腾堡《圣经》是西欧金属活字印刷早期的重要成果。其制作史与东亚活字印刷各有脉络，不宜称为世界第一本活字书。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜The Gutenberg Bible",
+          "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N105",
+      "theme": "T01",
+      "title": "英王钦定本《圣经》出版",
+      "year": 1611,
+      "when": "1611年初版",
+      "region": "欧洲·英格兰",
+      "subtopic": "经典与教育",
+      "kind": "翻译与出版",
+      "summary": "由英格兰学者组成的团队在17世纪初完成英王钦定本；1611年版体现翻译、王权与印刷出版的交汇，不能概括为所有英语教会唯一的译本。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜The Saint John’s Bible exhibit",
+          "url": "https://www.loc.gov/exhibits/stjohnsbible/stjohns-exhibit.html"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N106",
+      "theme": "T01",
+      "title": "世界基督教协进会在阿姆斯特丹成立",
+      "year": 1948,
+      "when": "1948年8月23日",
+      "region": "欧洲·荷兰阿姆斯特丹；全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "跨教会组织",
+      "summary": "来自多个国家及教派的147个教会参与创立世界基督教协进会，形成现代普世教会合作的一个组织平台；不能代表所有基督教团体。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "世界基督教协进会｜The Assembly",
+          "url": "https://www.oikoumene.org/about-the-wcc/organizational-structure/assembly"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N107",
+      "theme": "T01",
+      "title": "《教会对非基督宗教态度宣言》公布",
+      "year": 1965,
+      "when": "1965年10月28日",
+      "region": "欧洲·梵蒂冈；全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "宗教间关系文件",
+      "summary": "第二次梵蒂冈大公会议公布《Nostra aetate》，讨论天主教与其他宗教及犹太人的关系，并反对把耶稣受难责任归咎于当时所有犹太人或今日犹太人。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "教廷｜Nostra aetate 原文",
+          "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T05-N58",
+      "theme": "T05",
+      "title": "圣彼得堡宣言限制小型爆炸弹丸",
+      "year": 1868,
+      "when": "1868年12月11日",
+      "region": "欧洲·圣彼得堡；国际",
+      "subtopic": "和平机制",
+      "kind": "武器限制宣言",
+      "summary": "《圣彼得堡宣言》禁止战争中使用重量低于400克的特定爆炸弹丸，并提出避免不必要痛苦的原则；这是缔约范围内的武器限制。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜1868年圣彼得堡宣言",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/st-petersburg-decl-1868"
+        }
+      ]
+    },
+    {
+      "id": "T05-N59",
+      "theme": "T05",
+      "title": "1899年海牙陆战法规公约",
+      "year": 1899,
+      "when": "1899年7月29日通过；1900年生效",
+      "region": "欧洲·海牙；国际",
+      "subtopic": "和平机制",
+      "kind": "陆战法规",
+      "summary": "第一次海牙和平会议通过关于陆战法规的公约及附件，后于1907年修订。规则关注战争手段与战俘、占领等问题，不能替代具体战争事实。",
+      "related": [
+        "T06",
+        "T03"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜1899年海牙陆战公约",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-ii-1899"
+        }
+      ]
+    },
+    {
+      "id": "T05-N60",
+      "theme": "T05",
+      "title": "1929年战俘待遇日内瓦公约",
+      "year": 1929,
+      "when": "1929年7月27日通过",
+      "region": "欧洲·日内瓦；国际",
+      "subtopic": "和平机制",
+      "kind": "战俘保护条约",
+      "summary": "各国在日内瓦通过专门规定战俘待遇的公约；1949年第三日内瓦公约取代这项1929年文本。两者适用的历史时段应分开阅读。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜1929年战俘公约",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gc-pow-1929"
+        }
+      ]
+    },
+    {
+      "id": "T05-N61",
+      "theme": "T05",
+      "title": "《防止及惩治灭绝种族罪公约》通过",
+      "year": 1948,
+      "when": "1948年12月9日通过；1951年1月12日生效",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "国际刑法条约",
+      "summary": "联合国大会通过《灭绝种族罪公约》，规定防止与惩治针对民族、族裔、种族或宗教群体的特定毁灭意图行为；条约通过与生效日期不同。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国｜1948年灭绝种族罪公约",
+          "url": "https://www.un.org/en/genocide-prevention/1948-convention"
+        }
+      ]
+    },
+    {
+      "id": "T05-N62",
+      "theme": "T05",
+      "title": "1951年《难民地位公约》与战后流离失所",
+      "year": 1951,
+      "when": "1951年7月通过；1967年议定书扩展适用",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "难民保护条约",
+      "summary": "两次世界大战后的大规模流亡促使国际社会制定难民保护框架；1951年公约最初的时间范围后来经1967年议定书调整。难民法与战时人道法处理的问题不同。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国难民署｜The 1951 Refugee Convention",
+          "url": "https://www.unhcr.org/about-unhcr/overview/1951-refugee-convention"
+        }
+      ]
+    },
+    {
+      "id": "T05-N63",
+      "theme": "T05",
+      "title": "伊拉克入侵科威特与安理会第660号决议",
+      "year": 1990,
+      "when": "1990年8月2日",
+      "region": "西亚·伊拉克与科威特",
+      "subtopic": "战争与平民",
+      "kind": "入侵与国际反应",
+      "summary": "伊拉克军队进入科威特后，联合国安理会第660号决议谴责入侵并要求立即、无条件撤军；该决议与其后授权措施须分开阅读。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国数字图书馆｜安理会第660号决议",
+          "url": "https://digitallibrary.un.org/record/94220"
+        }
+      ]
+    },
+    {
+      "id": "T05-N64",
+      "theme": "T05",
+      "title": "安理会第678号决议与海湾危机军事授权",
+      "year": 1990,
+      "when": "1990年11月29日通过；以1991年1月15日为履约期限",
+      "region": "西亚·科威特与伊拉克；联合国",
+      "subtopic": "和平机制",
+      "kind": "安理会决议",
+      "summary": "第678号决议要求伊拉克履行第660号等决议，并在规定期限后授权与科威特合作的会员国使用必要手段。决议授权与军事行动本身是不同事件。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国数字图书馆｜安理会第678号决议",
+          "url": "https://digitallibrary.un.org/record/102245"
+        }
+      ]
+    },
+    {
+      "id": "T05-N65",
+      "theme": "T05",
+      "title": "北爱尔兰《贝尔法斯特协议》签署",
+      "year": 1998,
+      "when": "1998年4月10日",
+      "region": "欧洲·北爱尔兰",
+      "subtopic": "和平机制",
+      "kind": "和平协议",
+      "summary": "《贝尔法斯特协议》为北爱尔兰政治安排和冲突后的制度实施提供框架。协议签署是和平进程的重要阶段，不等于一切暴力立即停止。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国 Peacemaker｜Northern Ireland Peace Agreement",
+          "url": "https://peacemaker.un.org/en/node/8985"
+        }
+      ]
+    },
+    {
+      "id": "T05-N66",
+      "theme": "T05",
+      "title": "苏丹南北《全面和平协议》签署",
+      "year": 2005,
+      "when": "2005年1月9日",
+      "region": "非洲·苏丹；肯尼亚内罗毕",
+      "subtopic": "和平机制",
+      "kind": "全面和平协议",
+      "summary": "苏丹政府与苏丹人民解放运动/军签署协议，列入安全、权力和资源分配及过渡期安排。达尔富尔等其他冲突不能混入这份南北协议。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国苏丹特派团｜Comprehensive Peace Agreement",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unmis/background.shtml"
+        }
+      ]
+    },
+    {
+      "id": "T05-N67",
+      "theme": "T05",
+      "title": "南苏丹自决公投与战后安排",
+      "year": 2011,
+      "when": "2011年1月举行公投",
+      "region": "非洲·南苏丹",
+      "subtopic": "和平机制",
+      "kind": "自决公投",
+      "summary": "根据2005年苏丹南北《全面和平协议》，南部举行自决公投；联合国记录绝大多数投票者赞成独立。公投是协议执行的一环，不意味着边界与安全问题已解决。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国苏丹特派团｜Referendum process",
+          "url": "https://peacekeeping.un.org/sites/default/files/past/unmis/referendum.shtml"
+        }
+      ]
     }
   ],
   "relations": [
@@ -5048,6 +5451,90 @@
       "kind": "人道裁军条约的延续",
       "note": "红十字国际委员会将地雷禁令与后来集束弹药条约并列为人道裁军历程。",
       "source": "https://www.icrc.org/en/article/FAQ-anti-personnel-mine-ban-convention-ottawa-treaty"
+    },
+    {
+      "fromId": "T01-N13",
+      "toId": "T01-N100",
+      "kind": "同一时代的社群材料",
+      "note": "第二圣殿毁灭前的昆兰社群文本可与毁灭后的犹太教实践对读；此处不主张直接传承。",
+      "source": "https://www.imj.org.il/en/node/6594062"
+    },
+    {
+      "fromId": "T01-N41",
+      "toId": "T01-N101",
+      "kind": "佛教经典的多地写本",
+      "note": "吉尔吉特写本提供佛教经典流通的另一地区实例，不表示它与中国译经有直接来源关系。",
+      "source": "https://www.unesco.org/en/memory-world/gilgit-manuscript"
+    },
+    {
+      "fromId": "T01-N21",
+      "toId": "T01-N102",
+      "kind": "伊斯兰学术中心的地区比较",
+      "note": "巴格达与开罗都形成重要学术中心；此关系用于比较，不推定机构承继。",
+      "source": "https://whc.unesco.org/en/list/89"
+    },
+    {
+      "fromId": "T01-N45",
+      "toId": "T01-N103",
+      "kind": "高丽佛教文本的不同印刷实践",
+      "note": "高丽大藏经雕版与1377年《直指》金属活字属于不同时间和技术形式。",
+      "source": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests"
+    },
+    {
+      "fromId": "T01-N103",
+      "toId": "T01-N104",
+      "kind": "跨地区印刷技术对读",
+      "note": "两种宗教印本分别显示东亚和西欧的金属活字实践；不宣称一方直接导致另一方。",
+      "source": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+    },
+    {
+      "fromId": "T01-N104",
+      "toId": "T01-N105",
+      "kind": "西欧圣经印刷与翻译阶段",
+      "note": "从15世纪拉丁文印本到17世纪英语译本，对读印刷与翻译的不同任务；不推定单线因果。",
+      "source": "https://www.loc.gov/exhibits/stjohnsbible/stjohns-exhibit.html"
+    },
+    {
+      "fromId": "T01-N31",
+      "toId": "T01-N107",
+      "kind": "会议与正式文件",
+      "note": "《教会对非基督宗教态度宣言》是第二次梵蒂冈大公会议公布的文件。",
+      "source": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"
+    },
+    {
+      "fromId": "T05-N58",
+      "toId": "T05-N59",
+      "kind": "武器限制规则延展",
+      "note": "红十字国际委员会说明圣彼得堡宣言的原则后来载入海牙陆战法规。",
+      "source": "https://ihl-databases.icrc.org/en/ihl-treaties/st-petersburg-decl-1868"
+    },
+    {
+      "fromId": "T05-N60",
+      "toId": "T05-N10",
+      "kind": "战俘条约修订与取代",
+      "note": "1929年战俘条约后来由1949年第三日内瓦公约取代。",
+      "source": "https://ihl-databases.icrc.org/en/ihl-treaties/gc-pow-1929"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N62",
+      "kind": "战后流亡与难民保护制度",
+      "note": "联合国难民署指出二战期间及之后的流亡使国际难民保护制度持续发展。",
+      "source": "https://www.unhcr.org/about-unhcr/overview/1951-refugee-convention"
+    },
+    {
+      "fromId": "T05-N63",
+      "toId": "T05-N64",
+      "kind": "安理会决议的执行链",
+      "note": "第678号决议明确要求执行第660号及相关决议，并设置履约期限。",
+      "source": "https://digitallibrary.un.org/record/102245"
+    },
+    {
+      "fromId": "T05-N66",
+      "toId": "T05-N67",
+      "kind": "协议规定的自决程序",
+      "note": "联合国说明2011年南部公投是2005年《全面和平协议》所规定的程序。",
+      "source": "https://peacekeeping.un.org/sites/default/files/past/unmis/referendum.shtml"
     }
   ]
 }

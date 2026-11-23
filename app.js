@@ -35,6 +35,11 @@ const paths = [
  {title:'战争、化学武器与平民保护',desc:'对照两伊战争、哈拉卜贾与地雷和集束弹药禁约。',themes:['T05','T06'],nodes:['T05-N39','T05-N52','T05-N53','T05-N44','T05-N55','T05-N57'],sections:[['法律与事件','1925年议定书、化学武器公约和两类常规武器公约的禁止范围不同。'],['战俘与平民','红十字记录的战俘探视、哈拉卜贾袭击和战后遗留伤害应分开理解。']]},
  {title:'战后审判与和平协议',desc:'从纽伦堡到代顿和塞拉利昂，区分追责、停火及战后实施。',themes:['T05','T06'],nodes:['T05-N48','T05-N41','T05-N42','T05-N54','T05-N56'],sections:[['机制各异','国际军事法庭、安理会法庭、混合法庭和和平协议的管辖及目标不同。'],['过程而非终点','签署协议或成立法庭并不意味着战后保护、返回和司法立即完成。']]},
 
+ {title:'经卷、译本与印刷媒介',desc:'从犹太社群抄卷、佛教写本到金属活字与英语圣经译本。',themes:['T01','T03'],nodes:['T01-N100','T01-N101','T01-N103','T01-N104','T01-N105'],sections:[['文献有不同年代','写本形成、经文编纂、印本制作和后来保存地点并非一个时间点。'],['两地金属活字','《直指》和古腾堡《圣经》各有独立的史料与技术脉络；关系图中的并置只供比较。']]},
+ {title:'宗教教育与跨教派对话',desc:'由开罗学术机构读到20世纪教会合作及宗教间关系文件。',themes:['T01','T06'],nodes:['T01-N102','T01-N106','T01-N31','T01-N107'],sections:[['机构与文本','学校、跨教会组织和大公会议声明有不同参与范围，不能归结成单一宗教改革。'],['辨别立场','当代宗教文件是相关机构的原始文本，阅读时要区分其主张与历史学者的解释。']]},
+ {title:'从陆战规则到战俘与难民保护',desc:'按1868、1899、1929、1948、1951年的制度时间点对照不同保护对象。',themes:['T05','T06'],nodes:['T05-N07','T05-N58','T05-N59','T05-N60','T05-N08','T05-N61','T05-N10','T05-N62'],sections:[['适用对象不同','武器、作战方法、战俘、灭绝种族罪与难民各有不同的法律文本。'],['战后制度形成','时间线不代表条约被普遍遵守，条约通过、生效和具体执行应分别核查。']]},
+ {title:'安理会、和平协议与自决',desc:'比较海湾危机的决议链、北爱尔兰协议及苏丹南北和平进程。',themes:['T05','T06'],nodes:['T05-N63','T05-N64','T05-N65','T05-N66','T05-N67'],sections:[['三种制度路径','安理会决议、区域和平协议和自决公投的主体与授权不同。'],['持续追踪执行','授权、签署或投票都是过程中的节点，后续安全与政治安排仍需单独记录。']]},
+
 ];
 
 function setTheme(id,scroll=true){state.theme=id;state.subtopic='all';$('#subtopicFilter').value='all';if(id!=='T01'){state.tradition='all';$('#traditionFilter').value='all'}renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
@@ -123,7 +128,7 @@ function bind(){
 
 async function start(){
  try{
-   const response=await fetch('catalog.json?v=20261123-r4');if(!response.ok)throw new Error('目录加载失败');
+   const response=await fetch('catalog.json?v=20261123-r5');if(!response.ok)throw new Error('目录加载失败');
    catalog=await response.json();
    $('#themeTotal').textContent=catalog.themes.length;$('#nodeTotal').textContent=catalog.nodes.length;$('#sourcedTotal').textContent=catalog.nodes.filter(n=>n.status==='sourced').length;
    renderThemes();fillSelects();renderPaths();bind();renderThemeFilters();renderTimeline();renderCompare();
