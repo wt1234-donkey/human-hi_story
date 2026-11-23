@@ -20,9 +20,13 @@ const paths = [
  {title:'基督教社群、分歧与改革',desc:'沿亚美尼亚、埃及、东欧、埃塞俄比亚与拉丁教会的不同历程阅读。',themes:['T01','T05'],nodes:['T01-N37','T01-N38','T01-N47','T01-N48','T01-N46','T01-N04','T01-N63','T01-N64'],sections:[['多中心的社群','修道、王室支持、教会分歧和地方建筑传统不能归结为一条单向传播路线。'],['改革与殖民语境','宗教改革、特伦托会议与殖民时期传教属于不同场景；关系只在来源支持时单独标注。']]},
  {title:'伊斯兰制度与非洲学术网络',desc:'并读教派形成、苏菲实践、朝觐、撒哈拉南缘的学术城市。',themes:['T01','T04'],nodes:['T01-N49','T01-N50','T01-N24','T01-N51','T01-N25','T01-N52'],sections:[['内部多样性','法学、宗教实践和社群认同随地区与时代变化，不能用单一机构代表整个传统。'],['城市与网络','朝觐港口和廷巴克图的学校展示人员、书籍与地方制度的不同联系。']]},
  {title:'地方圣地与物质文化',desc:'比较安第斯、约鲁巴与其他传统的遗址、圣林和城市艺术。',themes:['T01','T04'],nodes:['T01-N34','T01-N32','T01-N35','T01-N36'],sections:[['地点也是历史材料','神庙、城市艺术与圣林提供可观察的线索，但其用途和意义须结合当地传统与具体资料解释。'],['并读而非传承链','这些节点位于不同社会；阅读路径只提供比较，不宣称它们之间有历史传承关系。']]},
+ {title:'寺庙、圣地与地方社会',desc:'从美山、吴哥、蒲甘到武当与大洋洲祭祀场所，比较宗教空间的组织方式。',themes:['T01','T04'],nodes:['T01-N65','T01-N66','T01-N67','T01-N69','T01-N68','T01-N74'],sections:[['地点不能替代整个传统','寺庙、圣林和祭祀场所的历史依赖具体的营建、使用和地方社群；本路径只做跨地区对读。'],['关注空间与权力','王室赞助、布施、航海联盟和社群守护是不同机制，各节点分别标明其依据。']]},
+ {title:'古代联盟与近代帝国冲突',desc:'比较希腊城邦、清朝、印度殖民地及东亚战争中的权力格局。',themes:['T05','T06'],nodes:['T05-N13','T05-N14','T05-N17','T05-N18','T05-N19','T05-N22'],sections:[['战争有各自的动员方式','城邦联盟、贸易和军事扩张、殖民治理及内部叛乱不属于同一种冲突。'],['留意材料视角','战时版画、殖民档案与博物馆概述各有取材范围，不能把一方叙述当作所有参与者的经历。']]},
+ {title:'战争中的平民与强迫迁移',desc:'从欧洲内战到20世纪种族灭绝，阅读受害者经历及其司法记录。',themes:['T05','T10'],nodes:['T05-N15','T05-N20','T05-N23','T05-N24','T05-N28','T05-N30','T05-N32'],sections:[['区分不同暴力','内战、核轰炸、国家迫害和种族灭绝的法律与历史语境不同，节点不以一个伤亡数字作统一排序。'],['记录受害者','资料应说明遭到迫害的群体、地点与责任；对争议和估计数字保留来源的精度。']]},
+ {title:'停战、维和与国际人道法',desc:'沿和约、维和行动、战时保护条约与追诉机构，观察各制度的适用范围。',themes:['T05','T06'],nodes:['T05-N16','T05-N07','T05-N10','T05-N12','T05-N25','T05-N27','T05-N29','T05-N31','T05-N33'],sections:[['不同制度处理不同问题','停战、维和、伤者与平民保护、刑事追诉分别有自己的授权、参与方和适用范围。'],['法律文本与实践分开','条约通过不等于立即生效或完全执行；每个节点只陈述其来源能支持的制度事实。']]},
 ];
 
-function setTheme(id,scroll=true){state.theme=id;renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
+function setTheme(id,scroll=true){state.theme=id;state.subtopic='all';$('#subtopicFilter').value='all';if(id!=='T01'){state.tradition='all';$('#traditionFilter').value='all'}renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
 
 function renderThemes(){
  const colors=['#b96544','#7a8573','#a78050','#4f7775','#9f574d','#60788e','#b18052','#7c926d','#a56d6c','#6f7890'];
@@ -81,11 +85,11 @@ function openDetail(id){
 }
 
 function fillSelects(){
- const regions=['西亚','南亚','东亚','东非','北非','西非','欧洲','非洲','美洲','南美洲','中美洲','加勒比','欧亚','中亚','东南亚','地中海','跨地区','全球'];
+ const regions=['西亚','南亚','东亚','东南亚','中亚','东非','北非','西非','中非','非洲','欧洲','北美洲','南美洲','中美洲','加勒比','美洲','大洋洲','欧亚','地中海','跨地区','全球'];
  $('#regionFilter').insertAdjacentHTML('beforeend',regions.map(r=>`<option value="${r}">${r}</option>`).join(''));
  const traditions=[...new Set(catalog.nodes.map(n=>n.tradition).filter(Boolean))];
  $('#traditionFilter').insertAdjacentHTML('beforeend',traditions.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join(''));
- const subtopics=[...new Set(catalog.nodes.filter(n=>n.theme==='T01').map(n=>n.subtopic).filter(Boolean))];
+ const subtopics=[...new Set(catalog.nodes.map(n=>n.subtopic).filter(Boolean))];
  $('#subtopicFilter').insertAdjacentHTML('beforeend',subtopics.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join(''));
  for(const select of [$('#compareA'),$('#compareB')])select.innerHTML=catalog.themes.map(t=>`<option value="${t.id}">${esc(t.name)}</option>`).join('');
  $('#compareA').value='T02';$('#compareB').value='T04';

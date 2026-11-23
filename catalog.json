@@ -5,10 +5,11 @@
       "name": "宗教与思想",
       "question": "人如何解释世界、传承信念与讨论社会秩序？",
       "subtopics": [
-        "早期祭祀与地方传统",
-        "经典与哲学",
-        "社群与宗教组织",
-        "传播、翻译与交流",
+        "信仰传统",
+        "哲学",
+        "经典与教育",
+        "仪式与组织",
+        "传播与交流",
         "改革与现代变迁"
       ],
       "essayIdeas": [
@@ -17,7 +18,9 @@
         "地中海、东欧、埃塞俄比亚与美洲的基督教社群和制度",
         "伊斯兰继承争议、苏非修行、朝觐与西非学术中心",
         "玛雅、安第斯与约鲁巴地方宗教空间的证据和延续",
-        "宗教、国家权力与战争：区分赞助、压制与暴力"
+        "宗教、国家权力与战争：区分赞助、压制与暴力",
+        "东南亚寺庙、佛塔与殖民时期教堂的地方实践",
+        "太平洋与西非圣地的宗教、土地和政治关系"
       ],
       "related": [
         "T05",
@@ -109,7 +112,10 @@
       "essayIdeas": [
         "战争动员与平民经历",
         "宗教语言、政治目的与十字军东征",
-        "19—20世纪战时保护制度的演变"
+        "19—20世纪战时保护制度的演变",
+        "古代城邦联盟与战争后的权力重组",
+        "殖民扩张、反抗及其平民后果",
+        "20世纪种族灭绝、维和与国际刑事司法"
       ],
       "related": [
         "T03",
@@ -2634,6 +2640,774 @@
           "url": "https://www.metmuseum.org/essays/arts-of-the-mission-schools-in-mexico"
         }
       ]
+    },
+    {
+      "id": "T01-N65",
+      "theme": "T01",
+      "title": "占婆美山圣地的印度教神庙",
+      "year": 400,
+      "when": "约公元4—13世纪",
+      "region": "东南亚",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "今越南中部的占婆王国在美山建立以湿婆信仰为核心的圣地；印度教影响在当地建筑与王权环境中形成不同表达。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/949"
+        }
+      ],
+      "tradition": "吠陀与印度教传统"
+    },
+    {
+      "id": "T01-N66",
+      "theme": "T01",
+      "title": "吴哥的印度教与佛教寺庙城市",
+      "year": 900,
+      "when": "约公元9—15世纪",
+      "region": "东南亚",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "吴哥历代都城将寺庙、蓄水工程与城市空间相结合；吴哥窟、巴戎寺显示不同阶段的宗教与政治表达。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/668"
+        }
+      ],
+      "tradition": "印度教与佛教"
+    },
+    {
+      "id": "T01-N67",
+      "theme": "T01",
+      "title": "蒲甘的佛教布施与寺塔景观",
+      "year": 1050,
+      "when": "约11—13世纪",
+      "region": "东南亚",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "缅甸蒲甘的寺院、佛塔与壁画见证上座部佛教的布施实践，王室赞助与地方社会共同塑造圣地景观。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1588/"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N68",
+      "theme": "T01",
+      "title": "塔普塔普阿泰亚祭祀中心与海上联盟",
+      "year": 1400,
+      "when": "约14—18世纪；承载更早传统",
+      "region": "大洋洲",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "赖阿特阿岛的 marae 是祭祀、葬仪和政治聚会场所；航海网络把岛屿社群的祖先与神灵传统联系起来。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1529/"
+        }
+      ],
+      "tradition": "波利尼西亚传统"
+    },
+    {
+      "id": "T01-N69",
+      "theme": "T01",
+      "title": "武当山道教建筑与明代王室赞助",
+      "year": 1400,
+      "when": "约14—17世纪的营建高峰",
+      "region": "东亚",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "武当山较早的道教建筑在明代得到大规模扩建；宫观群呈现宗教场所与王朝政治的联系。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/705"
+        }
+      ],
+      "tradition": "道教"
+    },
+    {
+      "id": "T01-N70",
+      "theme": "T01",
+      "title": "哈勒尔城墙、清真寺与圣祠",
+      "year": 1300,
+      "when": "约13—16世纪建城墙；宗教场所年代不一",
+      "region": "东非",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "埃塞俄比亚哈勒尔旧城保存清真寺和圣祠，城墙与街区体现伊斯兰城市传统的地方发展。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1189/"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N71",
+      "theme": "T01",
+      "title": "菲律宾殖民时期天主教堂与地方营造",
+      "year": 1600,
+      "when": "约16—18世纪",
+      "region": "东南亚",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "菲律宾四座巴洛克教堂见证西班牙殖民时期的天主教传教与地方建筑材料、装饰方式的结合。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/677/"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N72",
+      "theme": "T01",
+      "title": "海法与阿卡的巴哈伊朝圣圣地",
+      "year": 1900,
+      "when": "19世纪后形成；20世纪延续",
+      "region": "西亚",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "海法巴孛圣陵与阿卡巴哈欧拉圣陵成为巴哈伊信仰的核心圣地，持续形成跨地区朝圣实践。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1220/"
+        }
+      ],
+      "tradition": "巴哈伊信仰"
+    },
+    {
+      "id": "T01-N73",
+      "theme": "T01",
+      "title": "长崎隐匿基督徒的信仰传承",
+      "year": 1650,
+      "when": "17—19世纪",
+      "region": "东亚",
+      "subtopic": "改革与现代变迁",
+      "kind": "过程",
+      "summary": "日本禁教时期，长崎地区社群秘密传承基督教实践；遗址显示信仰在限制与地方环境中延续。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1495/"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N74",
+      "theme": "T01",
+      "title": "巴塔马里巴人的圣地与仪式景观",
+      "year": null,
+      "when": "长期延续；具体起点不作单年断定",
+      "region": "西非",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "库塔马库的居住、圣林、泉水与仪式场所共同组成文化景观；传统持守者继续维护相关信仰和礼仪。",
+      "related": [
+        "T04",
+        "T08"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/1140"
+        }
+      ],
+      "tradition": "巴塔马里巴地方传统"
+    },
+    {
+      "id": "T01-N75",
+      "theme": "T01",
+      "title": "圣地亚哥朝圣路线与欧洲交流",
+      "year": 1100,
+      "when": "中世纪以来；各路线阶段不同",
+      "region": "欧洲",
+      "subtopic": "传播与交流",
+      "kind": "过程",
+      "summary": "通往圣地亚哥德孔波斯特拉的路线连接城镇、礼拜场所与朝圣者；沿途遗产记录了宗教和文化交流。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/669"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N76",
+      "theme": "T01",
+      "title": "太平天国的宗教语言与政治动员",
+      "year": 1851,
+      "when": "1851—1864年",
+      "region": "东亚",
+      "subtopic": "改革与现代变迁",
+      "kind": "过程",
+      "summary": "太平天国运动使用带有基督教因素的千禧年主义语言建立新的政治秩序；不能把它等同于当时在华全部基督教社群。",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜近代中国绘画史导论",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Modern_Chinese_Painting_1860_1980_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_3_Winter_2001.pdf"
+        }
+      ],
+      "tradition": "基督教相关新兴运动"
+    },
+    {
+      "id": "T01-N77",
+      "theme": "T01",
+      "title": "杰内古城清真寺与城市宗教生活",
+      "year": 1500,
+      "when": "中世纪以来；现存建筑经历改建",
+      "region": "西非",
+      "subtopic": "仪式与组织",
+      "kind": "过程",
+      "summary": "杰内古城的清真寺与土坯建筑共同构成持续使用的宗教和城市空间；现存建筑不能直接当作最早建成年代。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/116"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T05-N13",
+      "theme": "T05",
+      "title": "希波战争与希腊城邦联盟",
+      "year": -490,
+      "when": "约公元前490—479年",
+      "region": "欧洲与西亚",
+      "subtopic": "军事组织",
+      "kind": "事件组",
+      "summary": "波斯帝国与希腊城邦之间的冲突包含多次战役；雅典等城邦在战后形成新的联盟与权力格局。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜历史资料",
+          "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+        }
+      ]
+    },
+    {
+      "id": "T05-N14",
+      "theme": "T05",
+      "title": "伯罗奔尼撒战争与雅典的危机",
+      "year": -431,
+      "when": "公元前431—404年",
+      "region": "欧洲",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "雅典与斯巴达领导的联盟长期交战；战争与雅典的瘟疫同时冲击城市社会，不能把瘟疫简单归因于战争。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜历史资料",
+          "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+        }
+      ]
+    },
+    {
+      "id": "T05-N15",
+      "theme": "T05",
+      "title": "三十年战争与平民遭遇",
+      "year": 1618,
+      "when": "1618—1648年",
+      "region": "欧洲",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "德意志诸地长期战乱造成流离与破坏；卡洛1633年的《战争的灾难》版画记录了当时对暴力的视觉回应。",
+      "related": [
+        "T01",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜威斯特伐利亚和约",
+          "url": "https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/"
+        },
+        {
+          "name": "大都会艺术博物馆｜卡洛《战争的灾难》",
+          "url": "https://www.metmuseum.org/art/collection/search/363108"
+        }
+      ]
+    },
+    {
+      "id": "T05-N16",
+      "theme": "T05",
+      "title": "威斯特伐利亚和约结束三十年战争",
+      "year": 1648,
+      "when": "1648年10月24日",
+      "region": "欧洲",
+      "subtopic": "和平机制",
+      "kind": "条约",
+      "summary": "明斯特与奥斯纳布吕克的和约结束三十年战争；各项条约涉及不同参与方和政治安排，不宜简化为单一条款。",
+      "related": [
+        "T06",
+        "T01"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜威斯特伐利亚和约",
+          "url": "https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N17",
+      "theme": "T05",
+      "title": "第一次鸦片战争与通商口岸",
+      "year": 1839,
+      "when": "1839—1842年",
+      "region": "东亚",
+      "subtopic": "殖民与抵抗",
+      "kind": "事件组",
+      "summary": "清朝禁烟与英国贸易和军事扩张引发战争；战后香港被割让，多个口岸被迫开放。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜历史资料",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Modern_Chinese_Painting_1860_1980_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_3_Winter_2001.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N18",
+      "theme": "T05",
+      "title": "太平天国战争与长江流域破坏",
+      "year": 1851,
+      "when": "1851—1864年",
+      "region": "东亚",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "太平天国军队与清朝军队在中国南部和中部长期交战；战争结束时长江下游多地受到严重破坏。",
+      "related": [
+        "T01",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜历史资料",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Modern_Chinese_Painting_1860_1980_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_3_Winter_2001.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N19",
+      "theme": "T05",
+      "title": "1857年印度反抗东印度公司统治",
+      "year": 1857,
+      "when": "1857—1858年",
+      "region": "南亚",
+      "subtopic": "殖民与抵抗",
+      "kind": "事件组",
+      "summary": "印度多地反抗英国东印度公司统治，随后公司被撤销，英国王室直接统治印度；不同社群与地区的诉求并不一致。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜历史资料",
+          "url": "https://www.metmuseum.org/toah/ht/10/ssa.html"
+        }
+      ]
+    },
+    {
+      "id": "T05-N20",
+      "theme": "T05",
+      "title": "美国南北战争与奴隶制争议",
+      "year": 1861,
+      "when": "1861—1865年",
+      "region": "北美洲",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "美国内战涉及联邦存续与奴隶制；战争期间军事动员、解放政策和黑人参战改变了政治议程。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国家公园管理局｜南北战争时间线",
+          "url": "https://www.nps.gov/gett/learn/historyculture/civil-war-timeline.htm"
+        }
+      ]
+    },
+    {
+      "id": "T05-N21",
+      "theme": "T05",
+      "title": "《解放奴隶宣言》的战时范围",
+      "year": 1863,
+      "when": "1863年1月1日",
+      "region": "北美洲",
+      "subtopic": "战争与平民",
+      "kind": "政策",
+      "summary": "林肯宣言针对仍处叛乱的地区，未立即废除美国所有奴隶制；其战争措施也允许黑人士兵加入联邦军。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国家公园管理局｜《解放奴隶宣言》",
+          "url": "https://home.nps.gov/articles/the-emancipation-proclamation.htm"
+        }
+      ]
+    },
+    {
+      "id": "T05-N22",
+      "theme": "T05",
+      "title": "甲午战争的平壤战役与战时图像",
+      "year": 1894,
+      "when": "1894—1895年",
+      "region": "东亚",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "第一次中日战争波及朝鲜半岛；日本制作的平壤战役版画以宣传视角呈现战争，须与平民及各方经历区分阅读。",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜平壤陷落版画",
+          "url": "https://www.metmuseum.org/art/collection/search/55121"
+        }
+      ]
+    },
+    {
+      "id": "T05-N23",
+      "theme": "T05",
+      "title": "西班牙内战与国际纵队的记忆",
+      "year": 1936,
+      "when": "1936—1939年",
+      "region": "欧洲",
+      "subtopic": "军事组织",
+      "kind": "事件组",
+      "summary": "来自多国的志愿者参加西班牙内战的国际纵队；馆藏纪念物记录参战者与后来的纪念方式。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "帝国战争博物馆｜国际纵队纪念物",
+          "url": "https://memorials.iwm.org.uk/memorial/88585"
+        }
+      ]
+    },
+    {
+      "id": "T05-N24",
+      "theme": "T05",
+      "title": "广岛原子弹轰炸与和平纪念",
+      "year": 1945,
+      "when": "1945年8月6日",
+      "region": "东亚",
+      "subtopic": "战争与平民",
+      "kind": "事件",
+      "summary": "广岛原爆圆顶馆保留了核爆中心附近的建筑遗迹；这一节点聚焦核武器对城市和平民的破坏和后续记忆。",
+      "related": [
+        "T03",
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜世界遗产中心",
+          "url": "https://whc.unesco.org/en/list/775"
+        }
+      ]
+    },
+    {
+      "id": "T05-N25",
+      "theme": "T05",
+      "title": "刚果危机中的联合国行动",
+      "year": 1960,
+      "when": "1960—1964年",
+      "region": "中非",
+      "subtopic": "和平机制",
+      "kind": "事件组",
+      "summary": "刚果独立后发生军队哗变、外部军事干预和分离危机；联合国刚果行动被赋予不断调整的任务。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国维和行动｜机构历史",
+          "url": "https://peacekeeping.un.org/en/our-history"
+        }
+      ]
+    },
+    {
+      "id": "T05-N26",
+      "theme": "T05",
+      "title": "越南战争的跨境冲突与档案",
+      "year": 1965,
+      "when": "20世纪中叶至1975年；1965年后美军大规模投入",
+      "region": "东南亚",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "越南战争涉及越南各方与外部力量；美国官方外交档案记录了1965年军事扩大和1973年谈判，但不能代表全部参与者的经历。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国务院历史学家办公室｜越南战争档案指南",
+          "url": "https://history.state.gov/historicaldocuments/guide-to-sources-on-vietnam-1969-1975"
+        }
+      ]
+    },
+    {
+      "id": "T05-N27",
+      "theme": "T05",
+      "title": "巴黎协定与越南战争停战安排",
+      "year": 1973,
+      "when": "1973年1月27日",
+      "region": "东南亚",
+      "subtopic": "和平机制",
+      "kind": "条约",
+      "summary": "关于结束越南战争与恢复和平的巴黎协定在1973年签署；协定与1975年战争结局应分别记录。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国条约汇编｜巴黎协定",
+          "url": "https://treaties.un.org/Pages/showDetails.aspx?objid=080000028010e206"
+        }
+      ]
+    },
+    {
+      "id": "T05-N28",
+      "theme": "T05",
+      "title": "红色高棉统治下的强迫劳动与迫害",
+      "year": 1975,
+      "when": "1975—1979年",
+      "region": "东南亚",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "柬埔寨内战后红色高棉占领金边并推行强迫劳动、迫害与处决；宗教团体和城市居民也受到打击。",
+      "related": [
+        "T01",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜历史资料",
+          "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia"
+        }
+      ]
+    },
+    {
+      "id": "T05-N29",
+      "theme": "T05",
+      "title": "1977年日内瓦公约附加议定书",
+      "year": 1977,
+      "when": "1977年6月8日",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "条约",
+      "summary": "两项附加议定书补充1949年公约，分别涉及国际与非国际武装冲突，并强化平民及伤者保护。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会｜附加议定书",
+          "url": "https://www.icrc.org/en/article/protocols-i-ii-geneva-conventions"
+        }
+      ]
+    },
+    {
+      "id": "T05-N30",
+      "theme": "T05",
+      "title": "卢旺达针对图西人的种族灭绝",
+      "year": 1994,
+      "when": "1994年4—7月",
+      "region": "东非",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "卢旺达胡图极端主义领导层发动针对图西人的种族灭绝，也杀害反对其政策者；其背景与内战有关，但不能将有组织屠杀笼统归入战斗伤亡。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜历史资料",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/the-rwanda-genocide"
+        }
+      ]
+    },
+    {
+      "id": "T05-N31",
+      "theme": "T05",
+      "title": "联合国设立卢旺达问题国际刑事法庭",
+      "year": 1994,
+      "when": "1994年11月8日",
+      "region": "全球与东非",
+      "subtopic": "和平机制",
+      "kind": "机构",
+      "summary": "联合国安理会第955号决议设立卢旺达问题国际刑事法庭，追诉1994年发生的种族灭绝及严重国际人道法违反行为。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国安理会｜国际刑事法庭沿革",
+          "url": "https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals"
+        }
+      ]
+    },
+    {
+      "id": "T05-N32",
+      "theme": "T05",
+      "title": "斯雷布雷尼察种族灭绝",
+      "year": 1995,
+      "when": "1995年7月",
+      "region": "欧洲",
+      "subtopic": "战争与平民",
+      "kind": "事件组",
+      "summary": "波黑战争期间，波斯尼亚塞族武装在斯雷布雷尼察杀害大量波斯尼亚穆斯林男子和男孩；国际法院和前南刑庭认定该行为构成种族灭绝。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国｜斯雷布雷尼察种族灭绝资料",
+          "url": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day/about"
+        }
+      ]
+    },
+    {
+      "id": "T05-N33",
+      "theme": "T05",
+      "title": "《国际刑事法院罗马规约》通过",
+      "year": 1998,
+      "when": "1998年7月17日",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "条约",
+      "summary": "罗马外交会议通过国际刑事法院规约，为国际刑事法院审理特定严重罪行建立条约基础；通过日期与法院运作日期不同。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国国际法编纂司｜罗马会议文件",
+          "url": "https://legal.un.org/icc/statute/final.htm"
+        }
+      ]
     }
   ],
   "relations": [
@@ -2993,6 +3767,83 @@
       "kind": "经典编定",
       "note": "阿尔琼汇集赞歌并于1604年安奉经卷。",
       "source": "https://new.sgpc.net/sri-guru-granth-sahib/"
+    },
+    {
+      "fromId": "T01-N09",
+      "toId": "T01-N69",
+      "kind": "地方道教建筑",
+      "note": "武当山建筑群体现道教在明代王室赞助下的制度与空间表达。",
+      "source": "https://whc.unesco.org/en/list/705"
+    },
+    {
+      "fromId": "T01-N01",
+      "toId": "T01-N67",
+      "kind": "地方布施实践",
+      "note": "蒲甘的佛教寺塔景观与上座部佛教布施传统相关。",
+      "source": "https://whc.unesco.org/en/list/1588/"
+    },
+    {
+      "fromId": "T01-N30",
+      "toId": "T01-N72",
+      "kind": "朝圣圣地",
+      "note": "巴哈伊创始人物相关圣陵成为后续朝圣的核心地点。",
+      "source": "https://whc.unesco.org/en/list/1220/"
+    },
+    {
+      "fromId": "T01-N76",
+      "toId": "T05-N18",
+      "kind": "宗教与动员",
+      "note": "太平天国以带有基督教因素的宗教语言建立政治秩序并组织战争。",
+      "source": "https://resources.metmuseum.org/resources/metpublications/pdf/Modern_Chinese_Painting_1860_1980_The_Metropolitan_Museum_of_Art_Bulletin_v_58_no_3_Winter_2001.pdf"
+    },
+    {
+      "fromId": "T05-N15",
+      "toId": "T05-N16",
+      "kind": "战争与和约",
+      "note": "威斯特伐利亚和约结束三十年战争。",
+      "source": "https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/"
+    },
+    {
+      "fromId": "T05-N20",
+      "toId": "T05-N21",
+      "kind": "战时政策",
+      "note": "《解放奴隶宣言》作为南北战争中的战时措施改变了联邦军的目标与征兵范围。",
+      "source": "https://home.nps.gov/articles/the-emancipation-proclamation.htm"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N24",
+      "kind": "战时核武器",
+      "note": "广岛原爆发生在第二次世界大战末期，圆顶馆保存了核爆的城市遗迹。",
+      "source": "https://whc.unesco.org/en/list/775"
+    },
+    {
+      "fromId": "T05-N04",
+      "toId": "T05-N25",
+      "kind": "维和机制",
+      "note": "联合国在刚果危机期间组织大规模行动，任务随局势发展调整。",
+      "source": "https://peacekeeping.un.org/en/our-history"
+    },
+    {
+      "fromId": "T05-N26",
+      "toId": "T05-N27",
+      "kind": "停战谈判",
+      "note": "1973年巴黎协定是越南战争期间的正式停战与和平安排。",
+      "source": "https://treaties.un.org/Pages/showDetails.aspx?objid=080000028010e206"
+    },
+    {
+      "fromId": "T05-N10",
+      "toId": "T05-N29",
+      "kind": "条约补充",
+      "note": "1977年两项议定书补充1949年日内瓦公约，对平民保护作进一步规定。",
+      "source": "https://www.icrc.org/en/article/protocols-i-ii-geneva-conventions"
+    },
+    {
+      "fromId": "T05-N30",
+      "toId": "T05-N31",
+      "kind": "国际追诉",
+      "note": "卢旺达种族灭绝后安理会设立国际刑事法庭追诉相关罪行。",
+      "source": "https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals"
     }
   ]
 }
