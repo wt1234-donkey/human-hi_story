@@ -116,7 +116,7 @@ function bind(){
 
 async function start(){
  try{
-   const response=await fetch('catalog.json');if(!response.ok)throw new Error('目录加载失败');
+   const response=await fetch('catalog.json?v=20261123-r2');if(!response.ok)throw new Error('目录加载失败');
    catalog=await response.json();
    $('#themeTotal').textContent=catalog.themes.length;$('#nodeTotal').textContent=catalog.nodes.length;$('#sourcedTotal').textContent=catalog.nodes.filter(n=>n.status==='sourced').length;
    renderThemes();fillSelects();renderPaths();bind();renderThemeFilters();renderTimeline();renderCompare();
