@@ -3408,6 +3408,505 @@
           "url": "https://legal.un.org/icc/statute/final.htm"
         }
       ]
+    },
+    {
+      "id": "T01-N78",
+      "theme": "T01",
+      "title": "查文祭祀中心与安第斯朝圣",
+      "year": -1500,
+      "when": "约公元前1500—300年相关文化发展",
+      "region": "南美洲",
+      "subtopic": "仪式与组织",
+      "kind": "遗址",
+      "summary": "秘鲁查文遗址保存广场、石构建筑、内部廊道与图像资料；教科文组织将其描述为安第斯宗教世界的祭祀和朝圣中心。",
+      "related": [
+        "T04",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜查文考古遗址",
+          "url": "https://whc.unesco.org/en/list/330/"
+        }
+      ],
+      "tradition": "安第斯宗教传统"
+    },
+    {
+      "id": "T01-N79",
+      "theme": "T01",
+      "title": "大津巴布韦的宗教空间与石雕",
+      "year": 1100,
+      "when": "约11—15世纪，祭祀意义延续至后世",
+      "region": "非洲南部",
+      "subtopic": "仪式与组织",
+      "kind": "遗址",
+      "summary": "大津巴布韦遗址见证绍纳地区的城市与石构传统；出土的津巴布韦鸟石雕及遗址持续的神圣地位提示其宗教用途。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜大津巴布韦国家纪念地",
+          "url": "https://whc.unesco.org/en/list/364/"
+        }
+      ],
+      "tradition": "绍纳地方传统"
+    },
+    {
+      "id": "T01-N80",
+      "theme": "T01",
+      "title": "米吉肯达卡亚圣林与祖先纪念",
+      "year": 1600,
+      "when": "约16世纪以后形成的聚落传统；20世纪仍受尊崇",
+      "region": "东非",
+      "subtopic": "仪式与组织",
+      "kind": "圣林",
+      "summary": "肯尼亚沿海卡亚森林保留米吉肯达人设防聚落遗迹；聚落不再沿用后，森林仍被视作祖先所在的神圣空间。",
+      "related": [
+        "T04",
+        "T08"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜米吉肯达卡亚圣林",
+          "url": "https://whc.unesco.org/en/list/1231/"
+        }
+      ],
+      "tradition": "米吉肯达地方传统"
+    },
+    {
+      "id": "T01-N81",
+      "theme": "T01",
+      "title": "卡苏比王陵与布干达王室仪式",
+      "year": 1884,
+      "when": "1884年起作为王室墓地；仪式持续",
+      "region": "东非",
+      "subtopic": "仪式与组织",
+      "kind": "王陵",
+      "summary": "卡苏比的旧王宫改为布干达国王墓地；王陵及周边空间是王室与社群维持传统仪式的重要地点。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜卡苏比的布干达国王陵墓",
+          "url": "https://whc.unesco.org/en/list/1022/"
+        }
+      ],
+      "tradition": "布干达地方传统"
+    },
+    {
+      "id": "T01-N82",
+      "theme": "T01",
+      "title": "南马都尔的石岛与仪式中心",
+      "year": 1200,
+      "when": "约1200—1500年营建",
+      "region": "大洋洲",
+      "subtopic": "仪式与组织",
+      "kind": "遗址",
+      "summary": "波纳佩近海石岛群保存庙宇、墓葬和居住空间，被认为是绍德雷尔王朝的仪式中心；遗址与当地延续的社会礼仪有关。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜南马都尔仪式中心",
+          "url": "https://whc.unesco.org/en/list/1503/"
+        }
+      ],
+      "tradition": "波纳佩地方传统"
+    },
+    {
+      "id": "T01-N83",
+      "theme": "T01",
+      "title": "康提佛牙寺与斯里兰卡朝圣",
+      "year": 1592,
+      "when": "16世纪末康提成为王国中心；朝圣延续",
+      "region": "南亚",
+      "subtopic": "仪式与组织",
+      "kind": "圣地",
+      "summary": "斯里兰卡康提的佛牙寺保存与佛教王权和朝圣相关的传统；当前遗址的形成与康提王国历史相连。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜康提圣城",
+          "url": "https://whc.unesco.org/en/list/450/"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T01-N84",
+      "theme": "T01",
+      "title": "加奥阿斯基亚陵与桑海帝国伊斯兰空间",
+      "year": 1495,
+      "when": "1495年建造，后续持续使用",
+      "region": "西非",
+      "subtopic": "仪式与组织",
+      "kind": "陵墓与清真寺",
+      "summary": "桑海帝国君主阿斯基亚·穆罕默德在加奥建造陵墓；墓、清真寺与广场显示当地土建筑传统和伊斯兰礼仪的结合。",
+      "related": [
+        "T04",
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜阿斯基亚陵",
+          "url": "https://whc.unesco.org/en/list/1139/"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N85",
+      "theme": "T01",
+      "title": "科尔多瓦大清真寺与后续主教座堂",
+      "year": 780,
+      "when": "8世纪始建；1236年后改作主教座堂",
+      "region": "欧洲",
+      "subtopic": "改革与现代变迁",
+      "kind": "建筑与宗教空间",
+      "summary": "科尔多瓦大清真寺经历多次扩建；1236年城市易手后，建筑内设置基督教主教座堂。两阶段的宗教用途应分别辨认。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜科尔多瓦历史中心",
+          "url": "https://whc.unesco.org/en/list/313/"
+        }
+      ],
+      "tradition": "伊斯兰教与基督教"
+    },
+    {
+      "id": "T01-N86",
+      "theme": "T01",
+      "title": "特热比奇犹太街区与圣普罗科皮乌斯大教堂",
+      "year": 1200,
+      "when": "中世纪至20世纪；建筑各有年代",
+      "region": "欧洲",
+      "subtopic": "传播与交流",
+      "kind": "社区与建筑",
+      "summary": "捷克特热比奇的犹太街区、墓地和本笃会大教堂记录两种社群长期邻处；犹太街区的狭小空间也反映政治限制。",
+      "related": [
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜特热比奇犹太街区与教堂",
+          "url": "https://whc.unesco.org/en/list/1078/"
+        }
+      ],
+      "tradition": "犹太教与基督教"
+    },
+    {
+      "id": "T01-N87",
+      "theme": "T01",
+      "title": "巴米扬佛教洞窟与造像",
+      "year": 300,
+      "when": "约公元3—5世纪造像与寺院发展",
+      "region": "中亚",
+      "subtopic": "传播与交流",
+      "kind": "佛教遗址",
+      "summary": "巴米扬山崖的佛像龛、洞窟、寺院和壁画留下佛教艺术与跨地区文化交流的材料；两尊立佛于2001年被塔利班摧毁。",
+      "related": [
+        "T04",
+        "T05",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜巴米扬谷文化景观",
+          "url": "https://whc.unesco.org/en/list/208/"
+        }
+      ],
+      "tradition": "佛教"
+    },
+    {
+      "id": "T05-N34",
+      "theme": "T05",
+      "title": "亚述攻取拉吉什及围城浮雕",
+      "year": -701,
+      "when": "公元前701年",
+      "region": "西亚",
+      "subtopic": "军事组织",
+      "kind": "围城与图像",
+      "summary": "亚述王西拿基立时期攻取拉吉什；尼尼微王宫浮雕与考古遗迹保存围城、俘虏和被迁移者的图像线索。",
+      "related": [
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "大英博物馆｜亚述拉吉什围城资料",
+          "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Arab_World_Resource_Web.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N35",
+      "theme": "T05",
+      "title": "海地革命与圣多明各奴隶制的终结",
+      "year": 1791,
+      "when": "1791—1804年",
+      "region": "加勒比",
+      "subtopic": "殖民与抵抗",
+      "kind": "革命与独立战争",
+      "summary": "法国殖民地圣多明各发生由被奴役者参与并主导的革命；1804年海地宣布独立。过程包含不同阵营的战争及废奴实践。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国家公园管理局｜费城历史年表",
+          "url": "https://www.nps.gov/inde/learn/education/timeline-early-black-philadelphia-nation.htm"
+        }
+      ]
+    },
+    {
+      "id": "T05-N36",
+      "theme": "T05",
+      "title": "美西战争与菲律宾战场的殖民转换",
+      "year": 1898,
+      "when": "1898年；菲律宾后续冲突延至20世纪初",
+      "region": "东南亚与加勒比",
+      "subtopic": "殖民与抵抗",
+      "kind": "战争",
+      "summary": "1898年美国与西班牙交战，菲律宾成为战场之一；美西战争结束后菲律宾的战事继续，须区分两场冲突。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国家公园管理局｜美西战争与菲律宾战争",
+          "url": "https://www.nps.gov/places/000/the-spanish-american-war-philippines-war-tour.htm"
+        }
+      ]
+    },
+    {
+      "id": "T05-N37",
+      "theme": "T05",
+      "title": "奥斯曼帝国对亚美尼亚人的种族灭绝",
+      "year": 1915,
+      "when": "1915年春—1916年秋",
+      "region": "西亚",
+      "subtopic": "战争与平民",
+      "kind": "种族灭绝",
+      "summary": "奥斯曼当局在第一次世界大战背景下实施逮捕、驱逐与大规模杀害；死于屠杀、饥饿和被迫迁移者均属受害者。",
+      "related": [
+        "T01",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜亚美尼亚种族灭绝",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview"
+        }
+      ]
+    },
+    {
+      "id": "T05-N38",
+      "theme": "T05",
+      "title": "索姆河战役与阵地战消耗",
+      "year": 1916,
+      "when": "1916年7—11月",
+      "region": "欧洲",
+      "subtopic": "军事组织",
+      "kind": "战役",
+      "summary": "第一次世界大战西线索姆河战役历时约五个月；英帝国各地军人参战，持续攻击与防御构成大规模消耗战。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "帝国战争博物馆｜第一次世界大战导览",
+          "url": "https://www.iwm.org.uk/sites/default/files/files/2023-10/first_world_war_large_print_guide.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N39",
+      "theme": "T05",
+      "title": "1925年日内瓦议定书限制化学与生物武器使用",
+      "year": 1925,
+      "when": "1925年6月17日通过；1928年生效",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "议定书",
+      "summary": "日内瓦议定书禁止在战争中使用窒息性、毒性气体和细菌作战方法；其文本本身未禁止研制、生产或持有。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "红十字国际委员会档案｜1925年议定书",
+          "url": "https://blogs.icrc.org/cross-files/international-humanitarian-law-treaties-essential-documents/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N40",
+      "theme": "T05",
+      "title": "朝鲜战争停战协定",
+      "year": 1953,
+      "when": "1953年7月27日",
+      "region": "东亚",
+      "subtopic": "和平机制",
+      "kind": "停战协定",
+      "summary": "交战方签署朝鲜停战协定，建立停止敌对行动的军事安排；停战协定并不等同于正式和平条约。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国 Peacemaker｜朝鲜军事停战协定",
+          "url": "https://peacemaker.un.org/en/node/9209"
+        }
+      ]
+    },
+    {
+      "id": "T05-N41",
+      "theme": "T05",
+      "title": "设立前南斯拉夫问题国际刑事法庭",
+      "year": 1993.4,
+      "when": "1993年5月25日",
+      "region": "欧洲与全球",
+      "subtopic": "和平机制",
+      "kind": "国际法庭",
+      "summary": "联合国安理会第827号决议设立前南斯拉夫问题国际刑事法庭，负责追诉该地区冲突中的严重国际人道法违反行为。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国安理会｜国际刑事法庭沿革",
+          "url": "https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals"
+        }
+      ]
+    },
+    {
+      "id": "T05-N42",
+      "theme": "T05",
+      "title": "波斯尼亚和黑塞哥维那战争与平民流离失所",
+      "year": 1992,
+      "when": "1992—1995年",
+      "region": "欧洲",
+      "subtopic": "战争与平民",
+      "kind": "战争",
+      "summary": "南斯拉夫解体过程中波黑发生战争，大批平民被迫离乡；不同地区的围困、驱逐与屠杀需要分别记录。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "前南斯拉夫问题国际刑事法庭｜冲突概述",
+          "url": "https://www.icty.org/en/about/what-former-yugoslavia/conflicts"
+        }
+      ]
+    },
+    {
+      "id": "T05-N43",
+      "theme": "T05",
+      "title": "1954年海牙公约与战时文化财产保护",
+      "year": 1954,
+      "when": "1954年5月14日",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "公约",
+      "summary": "战时保护文化财产的海牙公约列明建筑、考古遗址、艺术品、手稿等保护对象；签署、缔约与实际执行应分别核对。",
+      "related": [
+        "T01",
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜1954年海牙公约原文",
+          "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention"
+        }
+      ]
+    },
+    {
+      "id": "T05-N44",
+      "theme": "T05",
+      "title": "禁止化学武器公约生效",
+      "year": 1997,
+      "when": "1993年开放签署；1997年4月29日生效",
+      "region": "全球",
+      "subtopic": "和平机制",
+      "kind": "公约",
+      "summary": "禁止化学武器公约将禁止范围扩展至研制、生产、储存与使用，并建立核查和销毁机制；其1993年签署与1997年生效是不同阶段。",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "禁止化学武器组织｜公约沿革",
+          "url": "https://www.opcw.org/about-us/history"
+        }
+      ]
+    },
+    {
+      "id": "T05-N45",
+      "theme": "T05",
+      "title": "塔利班摧毁巴米扬两尊立佛",
+      "year": 2001.2,
+      "when": "2001年3月",
+      "region": "中亚",
+      "subtopic": "战争与文化遗产",
+      "kind": "文化遗产破坏",
+      "summary": "塔利班在阿富汗巴米扬摧毁两尊巨型立佛；遗址还保有洞窟和壁画。记录这一行为不等于将其归因于整个宗教传统。",
+      "related": [
+        "T01",
+        "T04",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜巴米扬谷文化景观",
+          "url": "https://whc.unesco.org/en/list/208/"
+        }
+      ]
     }
   ],
   "relations": [
@@ -3844,6 +4343,76 @@
       "kind": "国际追诉",
       "note": "卢旺达种族灭绝后安理会设立国际刑事法庭追诉相关罪行。",
       "source": "https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals"
+    },
+    {
+      "fromId": "T01-N12",
+      "toId": "T01-N87",
+      "kind": "佛教艺术与地区交流",
+      "note": "巴米扬保存了与犍陀罗艺术及跨地区交流相关的佛教洞窟和造像。",
+      "source": "https://whc.unesco.org/en/list/208/"
+    },
+    {
+      "fromId": "T01-N87",
+      "toId": "T05-N45",
+      "kind": "遗址与破坏",
+      "note": "2001年被毁的两尊立佛是巴米扬佛教遗址的一部分。",
+      "source": "https://whc.unesco.org/en/list/208/"
+    },
+    {
+      "fromId": "T05-N03",
+      "toId": "T05-N37",
+      "kind": "战争与群体迫害",
+      "note": "美国大屠杀纪念博物馆指出亚美尼亚种族灭绝与一战期间的奥斯曼政策密切相关。",
+      "source": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview"
+    },
+    {
+      "fromId": "T05-N03",
+      "toId": "T05-N38",
+      "kind": "战役属于战争",
+      "note": "索姆河战役是第一次世界大战西线战事的一部分。",
+      "source": "https://www.iwm.org.uk/sites/default/files/files/2023-10/first_world_war_large_print_guide.pdf"
+    },
+    {
+      "fromId": "T05-N03",
+      "toId": "T05-N39",
+      "kind": "武器使用与规则回应",
+      "note": "一战期间毒气使用及红十字国际委员会的呼吁，构成1925年议定书的历史背景。",
+      "source": "https://www.icrc.org/en/document/icrc-wwi-efforts-ban-chemical-warfare"
+    },
+    {
+      "fromId": "T05-N39",
+      "toId": "T05-N44",
+      "kind": "军控规则扩展",
+      "note": "1993年开放签署的公约延续并扩展了1925年议定书对化学武器使用的限制。",
+      "source": "https://www.icrc.org/en/document/chemical-biological-weapons"
+    },
+    {
+      "fromId": "T05-N11",
+      "toId": "T05-N40",
+      "kind": "战争与停战",
+      "note": "1953年朝鲜军事停战协定为朝鲜战争的敌对行动设置停止机制。",
+      "source": "https://peacemaker.un.org/en/node/9209"
+    },
+    {
+      "fromId": "T05-N08",
+      "toId": "T05-N43",
+      "kind": "战争破坏与条约回应",
+      "note": "教科文组织指出1954年海牙公约回应战争造成的文化遗产广泛破坏。",
+      "source": "https://whc.unesco.org/en/faq/171/"
+    },
+    {
+      "fromId": "T05-N42",
+      "toId": "T05-N41",
+      "kind": "冲突与国际追诉",
+      "note": "法庭针对前南斯拉夫解体及相关冲突中的严重国际人道法违反行为设立。",
+      "source": "https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals"
+    },
+    {
+      "fromId": "T05-N42",
+      "toId": "T05-N32",
+      "kind": "战争与种族灭绝",
+      "note": "斯雷布雷尼察的种族灭绝发生在波黑战争期间，应区分战争全程与特定罪行。",
+      "source": "https://www.icty.org/en/about/what-former-yugoslavia/conflicts"
     }
   ]
 }
