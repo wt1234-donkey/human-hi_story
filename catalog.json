@@ -1,0 +1,1060 @@
+{
+  "themes": [
+    {
+      "id": "T01",
+      "name": "宗教与思想",
+      "question": "人如何解释世界、传承信念与讨论社会秩序？",
+      "subtopics": [
+        "信仰传统",
+        "哲学",
+        "仪式与组织",
+        "经典与教育",
+        "传播与交流"
+      ],
+      "essayIdeas": [
+        "宗教传统如何跨地区传播",
+        "信仰与国家权力如何互动"
+      ],
+      "related": [
+        "T05",
+        "T06",
+        "T07"
+      ],
+      "caution": "区分传统内部差异；不把宗教史简化为战争史"
+    },
+    {
+      "id": "T02",
+      "name": "生产与能源",
+      "question": "人如何取得食物和能源、组织劳动与制造？",
+      "subtopics": [
+        "农牧与渔猎",
+        "手工业",
+        "工业",
+        "能源",
+        "劳动与生产组织"
+      ],
+      "essayIdeas": [
+        "多地区农业转型",
+        "工业化与能源结构变化"
+      ],
+      "related": [
+        "T03",
+        "T04",
+        "T08",
+        "T10"
+      ],
+      "caution": "生产力是分析维度，不等于社会价值排序"
+    },
+    {
+      "id": "T03",
+      "name": "科学与技术",
+      "question": "知识如何产生、保存、传播与应用？",
+      "subtopics": [
+        "记录与文字",
+        "数学与测量",
+        "材料与工程",
+        "印刷与传播",
+        "数字技术"
+      ],
+      "essayIdeas": [
+        "书写与知识积累",
+        "印刷技术的多地区发展"
+      ],
+      "related": [
+        "T01",
+        "T02",
+        "T05",
+        "T09"
+      ],
+      "caution": "发明、改良和传播分别记录，慎用“首创”"
+    },
+    {
+      "id": "T04",
+      "name": "聚落与城市",
+      "question": "人为什么聚居，城市如何供给与治理？",
+      "subtopics": [
+        "乡村与定居",
+        "城市形态",
+        "供水卫生",
+        "交通住房",
+        "基础设施"
+      ],
+      "essayIdeas": [
+        "早期城市的不同路径",
+        "工业化城市的生活条件"
+      ],
+      "related": [
+        "T02",
+        "T06",
+        "T08",
+        "T09"
+      ],
+      "caution": "不能把所有大型聚落视为同一种城市制度"
+    },
+    {
+      "id": "T05",
+      "name": "战争与安全",
+      "question": "冲突如何动员资源、影响平民并催生安全安排？",
+      "subtopics": [
+        "军事组织",
+        "武器与防御",
+        "战争与平民",
+        "殖民与抵抗",
+        "和平机制"
+      ],
+      "essayIdeas": [
+        "帝国扩张的多方经历",
+        "总体战与国际秩序"
+      ],
+      "related": [
+        "T03",
+        "T06",
+        "T07",
+        "T10"
+      ],
+      "caution": "包含受影响群体，不把征服视为单向进步"
+    },
+    {
+      "id": "T06",
+      "name": "权力与制度",
+      "question": "规则由谁制定，如何被执行与改变？",
+      "subtopics": [
+        "国家形成",
+        "法律",
+        "税收与行政",
+        "政治参与",
+        "国际制度"
+      ],
+      "essayIdeas": [
+        "早期国家的管理技术",
+        "权利观念与国际制度"
+      ],
+      "related": [
+        "T01",
+        "T04",
+        "T05",
+        "T10"
+      ],
+      "caution": "区分制度文本、实际执行和地方差异"
+    },
+    {
+      "id": "T07",
+      "name": "贸易与迁徙",
+      "question": "人、货物、疾病和观念如何跨地区流动？",
+      "subtopics": [
+        "陆路网络",
+        "海上贸易",
+        "货币与市场",
+        "迁徙",
+        "强制流动"
+      ],
+      "essayIdeas": [
+        "丝路与印度洋网络",
+        "大西洋体系中的交流与暴力"
+      ],
+      "related": [
+        "T01",
+        "T02",
+        "T05",
+        "T08"
+      ],
+      "caution": "区分自愿迁徙、奴役与强迫迁移"
+    },
+    {
+      "id": "T08",
+      "name": "人口与环境",
+      "question": "人口与土地、气候和资源如何相互作用？",
+      "subtopics": [
+        "人口与家庭",
+        "土地利用",
+        "灾害",
+        "环境变化",
+        "适应"
+      ],
+      "essayIdeas": [
+        "疫病与人口变化",
+        "城市与工业环境"
+      ],
+      "related": [
+        "T02",
+        "T04",
+        "T07",
+        "T09"
+      ],
+      "caution": "避免把复杂社会变迁归因于单一环境因素"
+    },
+    {
+      "id": "T09",
+      "name": "健康与生命",
+      "question": "人如何认识疾病、照护生命与组织公共卫生？",
+      "subtopics": [
+        "疾病与疫病",
+        "医学知识",
+        "疫苗与药物",
+        "卫生",
+        "照护"
+      ],
+      "essayIdeas": [
+        "疫病与跨区域联系",
+        "疫苗与全球公共卫生"
+      ],
+      "related": [
+        "T03",
+        "T04",
+        "T07",
+        "T08"
+      ],
+      "caution": "区分疾病史、医疗进展与各群体获得医疗的差异"
+    },
+    {
+      "id": "T10",
+      "name": "社会与日常生活",
+      "question": "不同人群如何工作、生活与争取权利？",
+      "subtopics": [
+        "家庭与性别",
+        "教育",
+        "劳动",
+        "阶层",
+        "文化与休闲"
+      ],
+      "essayIdeas": [
+        "工业化与劳动者生活",
+        "权利观念的全球多路径"
+      ],
+      "related": [
+        "T02",
+        "T04",
+        "T06",
+        "T09"
+      ],
+      "caution": "让普通人和被忽略群体进入叙事"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "T01-N01",
+      "theme": "T01",
+      "title": "佛教在南亚形成",
+      "kind": "过程",
+      "when": "约公元前6—5世纪",
+      "region": "南亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": -550,
+      "summary": "佛教在南亚兴起，并在随后几个世纪传播至更广阔的亚洲。具体形成时间仍使用约数。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜南亚艺术与文化",
+          "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture"
+        }
+      ]
+    },
+    {
+      "id": "T01-N02",
+      "theme": "T01",
+      "title": "阿克苏姆王国时期基督教传统形成",
+      "kind": "过程",
+      "when": "约公元4世纪",
+      "region": "东非",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 350,
+      "summary": "阿克苏姆遗址记录了公元4世纪基督教传入后形成的教堂与宗教传统。",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜阿克苏姆",
+          "url": "https://whc.unesco.org/en/list/15"
+        }
+      ]
+    },
+    {
+      "id": "T01-N03",
+      "theme": "T01",
+      "title": "伊斯兰教在阿拉伯半岛兴起",
+      "kind": "过程",
+      "when": "公元7世纪",
+      "region": "西亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 610,
+      "summary": "公元7世纪，伊斯兰教在阿拉伯半岛形成，并随后传播到更广阔的地区。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜伊斯兰教的诞生",
+          "url": "https://www.metmuseum.org/essays/the-birth-of-islam"
+        }
+      ]
+    },
+    {
+      "id": "T01-N04",
+      "theme": "T01",
+      "title": "欧洲宗教改革",
+      "kind": "过程",
+      "when": "公元16世纪",
+      "region": "欧洲",
+      "related": [
+        "T03",
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1517,
+      "summary": "16世纪的宗教改革从德意志地区兴起，随后在欧洲各地形成不同发展。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜宗教改革",
+          "url": "https://www.metmuseum.org/it/essays/the-reformation"
+        }
+      ]
+    },
+    {
+      "id": "T02-N01",
+      "theme": "T02",
+      "title": "西亚部分地区的早期农耕与定居",
+      "kind": "过程",
+      "when": "约公元前1万纪以后",
+      "region": "西亚",
+      "related": [
+        "T04",
+        "T08"
+      ],
+      "status": "sourced",
+      "year": -8000,
+      "summary": "公元前8000年，北美索不达米亚已有农业社群；不同地区的农业与定居路径并不相同。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜美索不达米亚年表",
+          "url": "https://www.metmuseum.org/zh/toah/ht/02/wam"
+        }
+      ]
+    },
+    {
+      "id": "T02-N02",
+      "theme": "T02",
+      "title": "东亚多地区的稻作与粟作发展",
+      "kind": "过程",
+      "when": "新石器时代；各地时间不同",
+      "region": "东亚",
+      "related": [
+        "T04",
+        "T08"
+      ],
+      "status": "candidate",
+      "year": -6000,
+      "summary": "本节点属于“生产与能源”主线。年代、地区范围和相关叙述正在逐条核对。",
+      "sources": []
+    },
+    {
+      "id": "T02-N03",
+      "theme": "T02",
+      "title": "英国机械化纺织与蒸汽动力扩展",
+      "kind": "过程",
+      "when": "18—19世纪",
+      "region": "欧洲",
+      "related": [
+        "T03",
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1780,
+      "summary": "18世纪末至19世纪，英国的蒸汽动力与机械化生产持续发展。",
+      "sources": [
+        {
+          "name": "科学博物馆｜蒸汽动力与工业革命",
+          "url": "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+        }
+      ]
+    },
+    {
+      "id": "T02-N04",
+      "theme": "T02",
+      "title": "20世纪中后期农业增产技术扩展",
+      "kind": "过程",
+      "when": "20世纪中后期",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T08",
+        "T09"
+      ],
+      "status": "sourced",
+      "year": 1950,
+      "summary": "20世纪中后期，改良品种和配套种植技术在拉丁美洲、亚洲等地扩展；地区效果并不相同。",
+      "sources": [
+        {
+          "name": "联合国粮农组织｜农业技术变迁",
+          "url": "https://www.fao.org/4/j3205e/j3205e00.htm"
+        }
+      ]
+    },
+    {
+      "id": "T03-N01",
+      "theme": "T03",
+      "title": "美索不达米亚早期书写体系发展",
+      "kind": "过程",
+      "when": "约公元前4千纪",
+      "region": "西亚",
+      "related": [
+        "T02",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -3200,
+      "summary": "在公元前4千纪末，美索不达米亚的城市与记事实践一同发展。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜书写的起源",
+          "url": "https://www.metmuseum.org/pt/essays/the-origins-of-writing"
+        }
+      ]
+    },
+    {
+      "id": "T03-N02",
+      "theme": "T03",
+      "title": "中国造纸技术的发展与传播",
+      "kind": "过程",
+      "when": "古代；具体分段待考",
+      "region": "东亚及跨地区",
+      "related": [
+        "T01",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 100,
+      "summary": "纸张在中国有早期实物和文献记录，其技术和使用方式后来逐渐传播至其他地区。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜纸张的历史",
+          "url": "https://www.metmuseum.org/it/perspectives/immaterial-paper"
+        }
+      ]
+    },
+    {
+      "id": "T03-N03",
+      "theme": "T03",
+      "title": "东亚活字印刷的发展",
+      "kind": "过程",
+      "when": "约11世纪起",
+      "region": "东亚",
+      "related": [
+        "T01",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1050,
+      "summary": "北宋的毕昇于11世纪中叶试验泥活字；东亚的印刷历史还包括更早的雕版印刷。",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜亚洲印刷史",
+          "url": "https://blogs.loc.gov/international-collections/2021/06/the-history-of-printing-in-asia-according-to-library-of-congress-asian-collections-part-1/"
+        }
+      ]
+    },
+    {
+      "id": "T03-N04",
+      "theme": "T03",
+      "title": "欧洲金属活字印刷的发展",
+      "kind": "过程",
+      "when": "约15世纪中叶起",
+      "region": "欧洲",
+      "related": [
+        "T01",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1455,
+      "summary": "古腾堡圣经约在1455年完成，见证了欧洲金属活字印刷的发展。东亚印刷史另行编目。",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜古腾堡圣经",
+          "url": "https://loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+        }
+      ]
+    },
+    {
+      "id": "T04-N01",
+      "theme": "T04",
+      "title": "乌鲁克地区的城市化",
+      "kind": "过程",
+      "when": "约公元前4千纪",
+      "region": "西亚",
+      "related": [
+        "T02",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": -3200,
+      "summary": "约公元前3200年，乌鲁克已是南美索不达米亚规模显著的城市。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜乌鲁克",
+          "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+        }
+      ]
+    },
+    {
+      "id": "T04-N02",
+      "theme": "T04",
+      "title": "印度河流域城市的发展",
+      "kind": "过程",
+      "when": "约公元前3千纪",
+      "region": "南亚",
+      "related": [
+        "T02",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": -2600,
+      "summary": "摩亨佐达罗是印度河流域保存较好的古代城市遗址，年代可追溯至公元前3千纪初。",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜摩亨佐达罗遗址",
+          "url": "https://whc.unesco.org/en/list/138"
+        }
+      ]
+    },
+    {
+      "id": "T04-N03",
+      "theme": "T04",
+      "title": "特诺奇蒂特兰的城市发展",
+      "kind": "过程",
+      "when": "约14—16世纪",
+      "region": "中美洲",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1400,
+      "summary": "特诺奇蒂特兰曾是墨西加政治与城市生活的中心，1521年的征服改变了城市历史。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜特诺奇蒂特兰",
+          "url": "https://www.metmuseum.org/essays/tenochtitlan"
+        }
+      ]
+    },
+    {
+      "id": "T04-N04",
+      "theme": "T04",
+      "title": "19世纪工业城市的扩张",
+      "kind": "过程",
+      "when": "19世纪",
+      "region": "跨地区",
+      "related": [
+        "T02",
+        "T08",
+        "T09"
+      ],
+      "status": "candidate",
+      "year": 1850,
+      "summary": "本节点属于“聚落与城市”主线。年代、地区范围和相关叙述正在逐条核对。",
+      "sources": []
+    },
+    {
+      "id": "T05-N01",
+      "theme": "T05",
+      "title": "秦的兼并战争与统一",
+      "kind": "事件组",
+      "when": "公元前3世纪末",
+      "region": "东亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": -221,
+      "summary": "秦在公元前3世纪兼并多个国家，并于公元前221年建立统一政权。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜秦朝",
+          "url": "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c"
+        }
+      ]
+    },
+    {
+      "id": "T05-N02",
+      "theme": "T05",
+      "title": "蒙古帝国扩张",
+      "kind": "过程",
+      "when": "13世纪",
+      "region": "欧亚",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": 1250,
+      "summary": "13世纪蒙古政权扩张，形成横跨欧亚的庞大帝国。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜成吉思汗的遗产",
+          "url": "https://www.metmuseum.org/ja/essays/the-legacy-of-genghis-khan"
+        }
+      ]
+    },
+    {
+      "id": "T05-N03",
+      "theme": "T05",
+      "title": "第一次世界大战",
+      "kind": "事件组",
+      "when": "1914—1918年",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1914,
+      "summary": "1914年至1918年的战争牵涉多个地区，其影响延续至战后国际秩序。",
+      "sources": [
+        {
+          "name": "帝国战争博物馆｜第一次世界大战教学资料",
+          "url": "https://www.iwm.org.uk/sites/default/files/files/2025-11/Artists%20%26%20War%20Teacher%20Notes%20-%20First%20World%20War.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T05-N04",
+      "theme": "T05",
+      "title": "联合国宪章生效",
+      "kind": "事件",
+      "when": "1945年10月24日",
+      "region": "全球",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1945,
+      "summary": "《联合国宪章》于1945年10月24日生效。",
+      "sources": [
+        {
+          "name": "联合国｜联合国宪章",
+          "url": "https://www.un.org/en/about-us/un-charter/"
+        }
+      ]
+    },
+    {
+      "id": "T06-N01",
+      "theme": "T06",
+      "title": "汉谟拉比法典形成",
+      "kind": "事件/文本",
+      "when": "约公元前18世纪",
+      "region": "西亚",
+      "related": [
+        "T04",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -1750,
+      "summary": "卢浮宫保存有汉谟拉比法典碑；其年代属于汉谟拉比统治时期。",
+      "sources": [
+        {
+          "name": "卢浮宫馆藏｜汉谟拉比法典碑",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010174436"
+        }
+      ]
+    },
+    {
+      "id": "T06-N02",
+      "theme": "T06",
+      "title": "雅典公民政治制度的演变",
+      "kind": "过程",
+      "when": "约公元前6—4世纪",
+      "region": "欧洲",
+      "related": [
+        "T05",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": -500,
+      "summary": "梭伦与克里斯提尼的改革发生在不同年代；雅典的公民政治也有明确的参与边界。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜古希腊地区年表",
+          "url": "https://www.metmuseum.org/ja/toah/ht/04/eusb.html"
+        }
+      ]
+    },
+    {
+      "id": "T06-N03",
+      "theme": "T06",
+      "title": "秦统一后的行政制度建设",
+      "kind": "过程",
+      "when": "公元前3世纪末",
+      "region": "东亚",
+      "related": [
+        "T04",
+        "T05"
+      ],
+      "status": "sourced",
+      "year": -220,
+      "summary": "秦统一后的行政管理包括郡县等组织形式，具体制度需结合各地材料研究。",
+      "sources": [
+        {
+          "name": "大都会艺术博物馆｜秦朝",
+          "url": "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c"
+        }
+      ]
+    },
+    {
+      "id": "T06-N04",
+      "theme": "T06",
+      "title": "《世界人权宣言》获联合国大会通过",
+      "kind": "事件",
+      "when": "1948年12月10日",
+      "region": "全球",
+      "related": [
+        "T05",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1948,
+      "summary": "联合国大会于1948年12月10日通过《世界人权宣言》。",
+      "sources": [
+        {
+          "name": "联合国｜世界人权宣言",
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+        }
+      ]
+    },
+    {
+      "id": "T07-N01",
+      "theme": "T07",
+      "title": "印度洋贸易网络的长期发展",
+      "kind": "过程",
+      "when": "跨多个世纪；分期待定",
+      "region": "东非、南亚、东南亚",
+      "related": [
+        "T01",
+        "T02"
+      ],
+      "status": "sourced",
+      "year": null,
+      "summary": "印度洋贸易是连接非洲、南亚、东南亚及更远地区的海上网络的一部分。",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜丝路的陆路与海路",
+          "url": "https://www.unesco.org/en/silk-roads/about-silk-roads"
+        }
+      ]
+    },
+    {
+      "id": "T07-N02",
+      "theme": "T07",
+      "title": "欧亚丝路贸易与文化交流",
+      "kind": "过程",
+      "when": "跨多个世纪；分期待定",
+      "region": "欧亚",
+      "related": [
+        "T01",
+        "T03"
+      ],
+      "status": "sourced",
+      "year": null,
+      "summary": "“丝路”指多条长期相连的陆路与海上交通网络，而非一条固定道路。",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜丝路的陆路与海路",
+          "url": "https://www.unesco.org/en/silk-roads/about-silk-roads"
+        }
+      ]
+    },
+    {
+      "id": "T07-N03",
+      "theme": "T07",
+      "title": "大西洋奴隶贸易",
+      "kind": "过程",
+      "when": "约16—19世纪",
+      "region": "非洲、美洲、欧洲",
+      "related": [
+        "T05",
+        "T08",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1600,
+      "summary": "跨大西洋奴隶贸易涉及非洲、美洲与欧洲，是强迫迁移及暴力剥削的历史。",
+      "sources": [
+        {
+          "name": "联合国教科文组织《信使》｜跨大西洋奴隶贸易",
+          "url": "https://courier.unesco.org/en/articles/deep-dive-transatlantic-slave-trade"
+        }
+      ]
+    },
+    {
+      "id": "T07-N04",
+      "theme": "T07",
+      "title": "哥伦布大交换",
+      "kind": "过程",
+      "when": "约15世纪末起",
+      "region": "美洲及跨大西洋",
+      "related": [
+        "T02",
+        "T08",
+        "T09"
+      ],
+      "status": "sourced",
+      "year": 1492,
+      "summary": "15世纪末起，大西洋两岸的接触促使植物、动物、技术和疾病等发生跨区域流动。",
+      "sources": [
+        {
+          "name": "美国国会图书馆｜1492年后的大西洋交流",
+          "url": "https://www.loc.gov/exhibits/1492/eurocla.html"
+        }
+      ]
+    },
+    {
+      "id": "T08-N01",
+      "theme": "T08",
+      "title": "黑死病在欧亚及北非传播",
+      "kind": "过程",
+      "when": "14世纪",
+      "region": "欧亚及北非",
+      "related": [
+        "T07",
+        "T09"
+      ],
+      "status": "sourced",
+      "year": 1347,
+      "summary": "14世纪黑死病波及欧亚和北非；不同地区受到的影响需要分别核对。",
+      "sources": [
+        {
+          "name": "世界卫生组织｜鼠疫研究资料",
+          "url": "https://cdn.who.int/media/docs/default-source/documents/r-d-blueprint-meetings/global-consultation-on-plague-vaccines/1_richard-pebody_trends-in-plague-pebody.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T08-N02",
+      "theme": "T08",
+      "title": "殖民时代美洲原住民人口变化",
+      "kind": "过程",
+      "when": "约16世纪起",
+      "region": "美洲",
+      "related": [
+        "T05",
+        "T07",
+        "T09"
+      ],
+      "status": "candidate",
+      "year": 1550,
+      "summary": "本节点属于“人口与环境”主线。年代、地区范围和相关叙述正在逐条核对。",
+      "sources": []
+    },
+    {
+      "id": "T08-N03",
+      "theme": "T08",
+      "title": "工业化城市的人口与环境变化",
+      "kind": "过程",
+      "when": "19—20世纪",
+      "region": "跨地区",
+      "related": [
+        "T02",
+        "T04",
+        "T09"
+      ],
+      "status": "candidate",
+      "year": 1850,
+      "summary": "本节点属于“人口与环境”主线。年代、地区范围和相关叙述正在逐条核对。",
+      "sources": []
+    },
+    {
+      "id": "T08-N04",
+      "theme": "T08",
+      "title": "全球气候变化科学评估与国际合作",
+      "kind": "过程",
+      "when": "20世纪后期起",
+      "region": "全球",
+      "related": [
+        "T02",
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1988,
+      "summary": "IPCC于1988年成立，开展对气候变化科学证据的定期评估。",
+      "sources": [
+        {
+          "name": "政府间气候变化专门委员会｜机构历史",
+          "url": "https://www.ipcc.ch/about/history/"
+        }
+      ]
+    },
+    {
+      "id": "T09-N01",
+      "theme": "T09",
+      "title": "天花接种与疫苗技术的发展",
+      "kind": "过程",
+      "when": "跨地区、跨多个世纪",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T07"
+      ],
+      "status": "sourced",
+      "year": null,
+      "summary": "天花接种在亚洲和非洲部分地区长期实践；1796年的疫苗示范是另一个技术节点。",
+      "sources": [
+        {
+          "name": "世界卫生组织｜天花接种史",
+          "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination"
+        }
+      ]
+    },
+    {
+      "id": "T09-N02",
+      "theme": "T09",
+      "title": "19世纪城市供水与防疫实践",
+      "kind": "过程",
+      "when": "19世纪",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T04"
+      ],
+      "status": "sourced",
+      "year": 1850,
+      "summary": "1854年伦敦霍乱调查揭示了饮用水与疾病传播之间的联系，是城市卫生史的一个案例。",
+      "sources": [
+        {
+          "name": "世界卫生组织｜伦敦1854年霍乱案例",
+          "url": "https://cdn.who.int/media/docs/default-source/wash-documents/water-safety-and-quality/who-iwa-wsp-training-package/participant-workbook.pdf"
+        }
+      ]
+    },
+    {
+      "id": "T09-N03",
+      "theme": "T09",
+      "title": "抗菌药物研究与应用",
+      "kind": "过程",
+      "when": "20世纪",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T10"
+      ],
+      "status": "sourced",
+      "year": 1928,
+      "summary": "青霉素于1928年被发现，并在1941年首次投入临床使用；后续抗菌药物研究与应用持续扩展。",
+      "sources": [
+        {
+          "name": "世界卫生组织｜公共卫生里程碑",
+          "url": "https://www.who.int/campaigns/75-years-of-improving-public-health/milestones/"
+        }
+      ]
+    },
+    {
+      "id": "T09-N04",
+      "theme": "T09",
+      "title": "世界卫生大会宣布消灭天花",
+      "kind": "事件",
+      "when": "1980年",
+      "region": "全球",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1980,
+      "summary": "世界卫生组织于1980年宣布天花已被消灭。",
+      "sources": [
+        {
+          "name": "世界卫生组织｜天花",
+          "url": "https://www.who.int/health-topics/smallpox"
+        }
+      ]
+    },
+    {
+      "id": "T10-N01",
+      "theme": "T10",
+      "title": "海地革命与社会秩序重建",
+      "kind": "事件组",
+      "when": "1791—1804年",
+      "region": "加勒比",
+      "related": [
+        "T05",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1791,
+      "summary": "海地革命经历长期斗争；1804年独立的宣布成为其关键节点。",
+      "sources": [
+        {
+          "name": "联合国教科文组织｜海地国家历史公园",
+          "url": "https://whc.unesco.org/en/list/180"
+        }
+      ]
+    },
+    {
+      "id": "T10-N02",
+      "theme": "T10",
+      "title": "工业时代的劳动者组织与社会改革",
+      "kind": "过程",
+      "when": "19世纪起",
+      "region": "跨地区",
+      "related": [
+        "T02",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1850,
+      "summary": "19世纪工业化与社会改革促使劳动问题进入跨地区的制度讨论。",
+      "sources": [
+        {
+          "name": "国际劳工组织｜社会公正的历史基础",
+          "url": "https://webapps.ilo.org/infostories/en-GB/Stories/The-ILO/Laying-the-Foundations-of-Social-Justice.html"
+        }
+      ]
+    },
+    {
+      "id": "T10-N03",
+      "theme": "T10",
+      "title": "国际劳工组织成立",
+      "kind": "事件",
+      "when": "1919年",
+      "region": "全球",
+      "related": [
+        "T02",
+        "T06"
+      ],
+      "status": "sourced",
+      "year": 1919,
+      "summary": "国际劳工组织于1919年成立，将社会公正与持久和平联系起来。",
+      "sources": [
+        {
+          "name": "国际劳工组织｜机构历史",
+          "url": "https://www.ilo.org/about-ilo/history-ilo"
+        }
+      ]
+    },
+    {
+      "id": "T10-N04",
+      "theme": "T10",
+      "title": "20世纪教育普及与性别平等运动",
+      "kind": "过程",
+      "when": "20世纪",
+      "region": "跨地区",
+      "related": [
+        "T03",
+        "T06"
+      ],
+      "status": "candidate",
+      "year": 1950,
+      "summary": "本节点属于“社会与日常生活”主线。年代、地区范围和相关叙述正在逐条核对。",
+      "sources": []
+    }
+  ]
+}
