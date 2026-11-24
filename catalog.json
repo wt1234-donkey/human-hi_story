@@ -4854,6 +4854,406 @@
           "url": "https://peacekeeping.un.org/sites/default/files/past/unmis/referendum.shtml"
         }
       ]
+    },
+    {
+      "id": "T01-N108",
+      "theme": "T01",
+      "title": "1534年《至尊法案》与英格兰教会制度",
+      "year": 1534,
+      "when": "1534年",
+      "region": "欧洲·英格兰",
+      "subtopic": "改革与现代变迁",
+      "kind": "议会立法与教会",
+      "summary": "英格兰议会通过《至尊法案》，确认亨利八世为英格兰教会的最高首领，切断与罗马教廷的制度联系。该法后来曾被废止，伊丽莎白一世时期又有不同表述的新法。",
+      "related": [
+        "T06",
+        "T05"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国议会｜Act of Supremacy 1534",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/collections/common-prayer/act-of-supremacy/"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N109",
+      "theme": "T01",
+      "title": "《古鲁·格兰特·萨希卜》文本定型",
+      "year": 1708,
+      "when": "1604年初编；至1708年前后形成公认的经典形态",
+      "region": "南亚·旁遮普",
+      "subtopic": "经典与教育",
+      "kind": "经典编纂",
+      "summary": "锡克教经典于1604年由第五代古鲁阿尔琼编定初本，到第十代古鲁戈宾德·辛格时期进一步定型。初编与后续定型应分作不同阶段。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国教科文组织世界遗产档案｜Harimandir Sahib 申报材料",
+          "url": "https://whc.unesco.org/archive/2005/whc05-29com-inf08B1e.pdf"
+        }
+      ],
+      "tradition": "锡克教"
+    },
+    {
+      "id": "T01-N110",
+      "theme": "T01",
+      "title": "1723年《小阿维斯陀》祆教抄本",
+      "year": 1723,
+      "when": "1723年抄本题记；经文形成更早",
+      "region": "南亚·印度纳夫萨里",
+      "subtopic": "经典与教育",
+      "kind": "礼拜文本抄本",
+      "summary": "英国图书馆馆藏的《小阿维斯陀》抄本于印度纳夫萨里制作，题记标有1723年，收录祈祷文及赞歌。抄本年代不等同于祆教经典最初写作年代。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国图书馆｜MSS Avestan 21",
+          "url": "https://searcharchives.bl.uk/catalog/032-003719698"
+        }
+      ],
+      "tradition": "祆教"
+    },
+    {
+      "id": "T01-N111",
+      "theme": "T01",
+      "title": "巴哈伊《亚格达斯经》成书",
+      "year": 1873,
+      "when": "约1873年",
+      "region": "西亚·阿卡",
+      "subtopic": "经典与教育",
+      "kind": "宗教法规文本",
+      "summary": "巴哈伊权威文本库记载，巴哈欧拉在被囚于阿卡期间以阿拉伯文写成《亚格达斯经》。这是信仰内部的文本说明，时间采用原来源的约数。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "巴哈伊权威文本库｜The Kitáb-i-Aqdas",
+          "url": "https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas"
+        }
+      ],
+      "tradition": "巴哈伊信仰"
+    },
+    {
+      "id": "T01-N112",
+      "theme": "T01",
+      "title": "芝加哥世界宗教议会与跨宗教交流",
+      "year": 1893,
+      "when": "1893年9月",
+      "region": "北美洲·美国芝加哥",
+      "subtopic": "传播与交流",
+      "kind": "跨宗教会议",
+      "summary": "芝加哥世界博览会期间举办世界宗教议会，来自多种宗教传统的人士发表演说。参会者构成有选择性，不应把会议视为所有传统平等受邀的全球代表大会。",
+      "related": [
+        "T07",
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "芝加哥历史博物馆｜1893 Parliament",
+          "url": "https://www.chicagohistory.org/parliament-of-the-worlds-religions/"
+        }
+      ],
+      "tradition": "跨宗教交流"
+    },
+    {
+      "id": "T01-N113",
+      "theme": "T01",
+      "title": "《世界人权宣言》第18条与信仰自由",
+      "year": 1948,
+      "when": "1948年12月10日宣言通过",
+      "region": "全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "权利文件条款",
+      "summary": "联合国大会通过的《世界人权宣言》第18条列明思想、良心及宗教自由，包括改变信仰以及个人或共同实践的权利。宣言条款和各国具体实施并非同一事实。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国｜Universal Declaration of Human Rights",
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+        }
+      ],
+      "tradition": "跨宗教交流"
+    },
+    {
+      "id": "T01-N114",
+      "theme": "T01",
+      "title": "《信仰自由宣言》与天主教会议文件",
+      "year": 1965,
+      "when": "1965年12月7日",
+      "region": "欧洲·梵蒂冈；全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "会议宣言",
+      "summary": "第二次梵蒂冈大公会议公布《Dignitatis humanae》，讨论人的宗教自由与国家、社会的关系；这是一份天主教正式文件，不等同于国际条约。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "教廷｜Dignitatis humanae 原文",
+          "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html"
+        }
+      ],
+      "tradition": "基督教"
+    },
+    {
+      "id": "T01-N115",
+      "theme": "T01",
+      "title": "伊斯兰会议组织在拉巴特成立",
+      "year": 1969,
+      "when": "1969年9月25日；后来更名为伊斯兰合作组织",
+      "region": "非洲·摩洛哥拉巴特；全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "政府间组织",
+      "summary": "若干穆斯林人口占多数的国家在拉巴特发起伊斯兰会议组织，后来称伊斯兰合作组织。它是国家间机构，不代表所有穆斯林社群及其宗教观点。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "伊斯兰合作组织｜组织历史自述",
+          "url": "https://oic-oci.org/en/news/8698"
+        }
+      ],
+      "tradition": "伊斯兰教"
+    },
+    {
+      "id": "T01-N116",
+      "theme": "T01",
+      "title": "联合国反宗教不容忍与歧视宣言",
+      "year": 1981,
+      "when": "1981年11月25日联合国大会通过",
+      "region": "全球",
+      "subtopic": "改革与现代变迁",
+      "kind": "联合国宣言",
+      "summary": "联合国大会通过关于消除基于宗教或信仰的不容忍与歧视的宣言，进一步阐述平等享有相关自由的原则。此宣言和1948年《世界人权宣言》是不同文本。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国国际法视听图书馆｜1981年宣言",
+          "url": "https://legal.un.org/avl/HA/ga_36-55/ga_36-55.html"
+        }
+      ],
+      "tradition": "跨宗教交流"
+    },
+    {
+      "id": "T05-N68",
+      "theme": "T05",
+      "title": "七年战争跨欧洲、北美与南亚战场",
+      "year": 1756,
+      "when": "1756—1763年",
+      "region": "欧洲、北美与南亚",
+      "subtopic": "军事组织",
+      "kind": "跨地区战争",
+      "summary": "英法在北美和印度的冲突与欧洲列强战争相互交织，战事覆盖多个地区。各战场有不同盟友与目标，不宜简单称为现代意义的一场“世界大战”。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家陆军博物馆｜Seven Years War",
+          "url": "https://www.nam.ac.uk/explore/seven-years-war"
+        }
+      ]
+    },
+    {
+      "id": "T05-N69",
+      "theme": "T05",
+      "title": "1763年巴黎和约与胡贝图斯堡和约",
+      "year": 1763,
+      "when": "1763年",
+      "region": "欧洲、北美与南亚",
+      "subtopic": "和平机制",
+      "kind": "战后和约",
+      "summary": "巴黎和约及胡贝图斯堡和约结束七年战争的不同战线；英国在北美及南亚的优势扩展，而中欧安排另有其缔约方与内容。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家陆军博物馆｜Seven Years War: Peace",
+          "url": "https://www.nam.ac.uk/explore/seven-years-war"
+        }
+      ]
+    },
+    {
+      "id": "T05-N70",
+      "theme": "T05",
+      "title": "约克镇围城与英军投降",
+      "year": 1781,
+      "when": "1781年9—10月；10月19日投降",
+      "region": "北美洲·弗吉尼亚",
+      "subtopic": "殖民与抵抗",
+      "kind": "围城与投降",
+      "summary": "法美联军在陆上围困约克镇，法国舰队阻止英军海上救援，康沃利斯部队于10月投降。战斗的结束与1783年正式和约的签署并非同一天。",
+      "related": [
+        "T06",
+        "T07"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国国家公园管理局｜美国革命时间线",
+          "url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm"
+        }
+      ]
+    },
+    {
+      "id": "T05-N71",
+      "theme": "T05",
+      "title": "滑铁卢战役与反法联盟",
+      "year": 1815,
+      "when": "1815年6月18日",
+      "region": "欧洲·今比利时",
+      "subtopic": "军事组织",
+      "kind": "联盟战役",
+      "summary": "拿破仑军队在滑铁卢与以威灵顿和布吕歇尔为主要指挥者的联军作战并失败。战役结束拿破仑的复辟尝试，但欧洲战后政治安排需要另看外交会议与条约。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家陆军博物馆｜Battle of Waterloo",
+          "url": "https://www.nam.ac.uk/explore/battle-waterloo"
+        }
+      ]
+    },
+    {
+      "id": "T05-N72",
+      "theme": "T05",
+      "title": "克里米亚战争中的补给与疾病",
+      "year": 1854,
+      "when": "1854—1856年",
+      "region": "欧洲·黑海地区",
+      "subtopic": "战争与平民",
+      "kind": "联盟战争与后勤",
+      "summary": "英国、法国、奥斯曼帝国及撒丁王国组成联盟对俄作战。英国国家陆军博物馆记录了英军补给、御寒和疾病危机；这是一方军队的资料视角。",
+      "related": [
+        "T02",
+        "T09"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家陆军博物馆｜Crimean War",
+          "url": "https://www.nam.ac.uk/explore/crimean-war"
+        }
+      ]
+    },
+    {
+      "id": "T05-N73",
+      "theme": "T05",
+      "title": "1918年停战协定与西线停火",
+      "year": 1918,
+      "when": "1918年11月11日西线停火",
+      "region": "欧洲·第一次世界大战西线",
+      "subtopic": "和平机制",
+      "kind": "停战",
+      "summary": "德国与协约国签订停战安排，西线于11月11日停止战斗。停战不是对所有战场、所有缔约国同时生效的最终和平条约。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家陆军博物馆｜一战时间线",
+          "url": "https://ww1.nam.ac.uk/timeline/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N74",
+      "theme": "T05",
+      "title": "《凡尔赛和约》签署与战后安排",
+      "year": 1919,
+      "when": "1919年6月28日签署；1920年1月10日生效",
+      "region": "欧洲·法国凡尔赛",
+      "subtopic": "和平机制",
+      "kind": "和平条约",
+      "summary": "协约及参战各国同德国在凡尔赛签订和平条约，规定领土、赔款与其他战后条款。签署、生效以及各国是否批准应分开记录。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "英国国家档案馆｜Treaty of Versailles",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/"
+        }
+      ]
+    },
+    {
+      "id": "T05-N75",
+      "theme": "T05",
+      "title": "1937年中日全面战争与太平洋战场前史",
+      "year": 1937,
+      "when": "1937年7月起；更早有1931年满洲事变",
+      "region": "东亚·中国与日本",
+      "subtopic": "战争与平民",
+      "kind": "跨地区战争进程",
+      "summary": "美国大屠杀纪念博物馆将1931年日本入侵中国东北和1937年全面战争列为太平洋战争的前期阶段。节点不以1941年作为东亚战事的唯一起点。",
+      "related": [
+        "T06",
+        "T10"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "美国大屠杀纪念博物馆｜World War II in the Pacific",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-the-pacific"
+        }
+      ]
+    },
+    {
+      "id": "T05-N76",
+      "theme": "T05",
+      "title": "福克兰群岛（马尔维纳斯群岛）危机与第502号决议",
+      "year": 1982,
+      "when": "1982年4月3日安理会通过决议",
+      "region": "南美洲·南大西洋",
+      "subtopic": "和平机制",
+      "kind": "安理会决议",
+      "summary": "联合国安理会第502号决议要求停止敌对行动并要求阿根廷军队撤出争议岛屿。这里记录决议内容，岛屿主权争议和战争全程应另行编目。",
+      "related": [
+        "T06"
+      ],
+      "status": "sourced",
+      "sources": [
+        {
+          "name": "联合国数字图书馆｜安理会第502号决议",
+          "url": "https://digitallibrary.un.org/record/34455"
+        }
+      ]
     }
   ],
   "relations": [
@@ -5535,6 +5935,76 @@
       "kind": "协议规定的自决程序",
       "note": "联合国说明2011年南部公投是2005年《全面和平协议》所规定的程序。",
       "source": "https://peacekeeping.un.org/sites/default/files/past/unmis/referendum.shtml"
+    },
+    {
+      "fromId": "T01-N04",
+      "toId": "T01-N108",
+      "kind": "宗教改革中的立法",
+      "note": "英国议会说明1534年法案属于英格兰与罗马教廷制度决裂的过程。",
+      "source": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/reformation/"
+    },
+    {
+      "fromId": "T01-N60",
+      "toId": "T01-N109",
+      "kind": "锡克经典的编纂阶段",
+      "note": "1604年初编与1708年前后文本定型是同一经典的不同阶段。",
+      "source": "https://whc.unesco.org/archive/2005/whc05-29com-inf08B1e.pdf"
+    },
+    {
+      "fromId": "T01-N30",
+      "toId": "T01-N111",
+      "kind": "新兴信仰与后续法规文本",
+      "note": "巴哈伊经典文本库将《亚格达斯经》定位为巴哈欧拉后来写成的法规文本。",
+      "source": "https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas"
+    },
+    {
+      "fromId": "T01-N31",
+      "toId": "T01-N114",
+      "kind": "大公会议与正式文件",
+      "note": "《信仰自由宣言》于1965年由第二次梵蒂冈大公会议公布。",
+      "source": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html"
+    },
+    {
+      "fromId": "T06-N04",
+      "toId": "T01-N113",
+      "kind": "人权宣言中的宗教自由条款",
+      "note": "《世界人权宣言》第18条单列思想、良心及宗教自由。",
+      "source": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+    },
+    {
+      "fromId": "T01-N113",
+      "toId": "T01-N116",
+      "kind": "国际权利文件的后续细化",
+      "note": "1981年联合国宣言进一步阐述宗教或信仰自由与反歧视，二者法律形式不同。",
+      "source": "https://legal.un.org/avl/HA/ga_36-55/ga_36-55.html"
+    },
+    {
+      "fromId": "T05-N68",
+      "toId": "T05-N69",
+      "kind": "战争与多边和约",
+      "note": "英国国家陆军博物馆将1763年巴黎和约和胡贝图斯堡和约列作七年战争的结束安排。",
+      "source": "https://www.nam.ac.uk/explore/seven-years-war"
+    },
+    {
+      "fromId": "T05-N03",
+      "toId": "T05-N73",
+      "kind": "世界大战与西线停战",
+      "note": "一战西线战斗于1918年11月停战，并非全世界战场在同一天结束。",
+      "source": "https://ww1.nam.ac.uk/timeline/"
+    },
+    {
+      "fromId": "T05-N73",
+      "toId": "T05-N74",
+      "kind": "停战与和平条约",
+      "note": "1918年停战终止西线战斗，1919年《凡尔赛和约》才签署正式条款。",
+      "source": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/"
+    },
+    {
+      "fromId": "T05-N75",
+      "toId": "T05-N08",
+      "kind": "东亚战事与第二次世界大战",
+      "note": "1937年中日全面战争是后来太平洋战争的重要前史；不把二战欧洲起点套用于东亚。",
+      "source": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-the-pacific"
     }
   ]
 }

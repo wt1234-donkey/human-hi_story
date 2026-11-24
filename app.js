@@ -40,6 +40,12 @@ const paths = [
  {title:'从陆战规则到战俘与难民保护',desc:'按1868、1899、1929、1948、1951年的制度时间点对照不同保护对象。',themes:['T05','T06'],nodes:['T05-N07','T05-N58','T05-N59','T05-N60','T05-N08','T05-N61','T05-N10','T05-N62'],sections:[['适用对象不同','武器、作战方法、战俘、灭绝种族罪与难民各有不同的法律文本。'],['战后制度形成','时间线不代表条约被普遍遵守，条约通过、生效和具体执行应分别核查。']]},
  {title:'安理会、和平协议与自决',desc:'比较海湾危机的决议链、北爱尔兰协议及苏丹南北和平进程。',themes:['T05','T06'],nodes:['T05-N63','T05-N64','T05-N65','T05-N66','T05-N67'],sections:[['三种制度路径','安理会决议、区域和平协议和自决公投的主体与授权不同。'],['持续追踪执行','授权、签署或投票都是过程中的节点，后续安全与政治安排仍需单独记录。']]},
 
+ {title:'改革、王权与宗教组织',desc:'并读英格兰立法、锡克经典和现代政府间宗教合作组织。',themes:['T01','T06'],nodes:['T01-N04','T01-N108','T01-N60','T01-N109','T01-N115'],sections:[['不同组织主体','议会、宗教古鲁与政府间组织的授权与代表范围不同。'],['文本的阶段','法律通过、经典初编和后来定型各有自己的日期与证据。']]},
+ {title:'祆教与巴哈伊文献的保存',desc:'从馆藏祆教抄本到巴哈伊经典，区分原初文本和存世版本。',themes:['T01','T06'],nodes:['T01-N16','T01-N110','T01-N30','T01-N111'],sections:[['抄本与传统','1723年是特定抄本的题记时间，不能当成祆教起源。'],['宗教自述的边界','巴哈伊权威文本库记录其经典的成书与宗教意义，文献说明应标出来源立场。']]},
+ {title:'跨宗教对话与信仰自由',desc:'对照1893年会议、1948年人权宣言、1965年教会宣言与1981年联合国文件。',themes:['T01','T06'],nodes:['T01-N112','T01-N113','T01-N106','T01-N107','T01-N114','T01-N116'],sections:[['参与范围不同','跨宗教会议、教会文件和联合国宣言的作者与受众不同。'],['宣言不是执行记录','文本可表明原则；各地实践及争议仍需独立史料。']]},
+ {title:'跨地区战争与战后条款',desc:'七年战争及和约、约克镇、滑铁卢、克里米亚后勤和一战的停战与和约。',themes:['T05','T06'],nodes:['T05-N68','T05-N69','T05-N70','T05-N71','T05-N72','T05-N03','T05-N73','T05-N74'],sections:[['战争地理','欧洲、北美、南亚与黑海地区的战场规模和交战方不同。'],['战争终止的阶段','战役、投降、停战、和约签署与生效应分列，不以一个胜负节点替代战后安排。']]},
+ {title:'东亚战争与安理会危机决议',desc:'对读1937年东亚战事、二战背景和1982年安理会对另一地区危机的反应。',themes:['T05','T06'],nodes:['T05-N75','T05-N08','T05-N04','T05-N76'],sections:[['不同历史情境','1937年中日战争与1982年南大西洋冲突没有直接传承关系，此处仅比较战争叙述与国际制度。'],['决议的性质','安理会文本说明当时要求，不等于对争议主权或战事结局作出完整评判。']]},
+
 ];
 
 function setTheme(id,scroll=true){state.theme=id;state.subtopic='all';$('#subtopicFilter').value='all';if(id!=='T01'){state.tradition='all';$('#traditionFilter').value='all'}renderThemeFilters();renderTimeline();if(scroll)$('#explore').scrollIntoView({behavior:'smooth'});}
@@ -128,7 +134,7 @@ function bind(){
 
 async function start(){
  try{
-   const response=await fetch('catalog.json?v=20261123-r5');if(!response.ok)throw new Error('目录加载失败');
+   const response=await fetch('catalog.json?v=20261124-r6');if(!response.ok)throw new Error('目录加载失败');
    catalog=await response.json();
    $('#themeTotal').textContent=catalog.themes.length;$('#nodeTotal').textContent=catalog.nodes.length;$('#sourcedTotal').textContent=catalog.nodes.filter(n=>n.status==='sourced').length;
    renderThemes();fillSelects();renderPaths();bind();renderThemeFilters();renderTimeline();renderCompare();
